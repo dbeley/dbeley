@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![dbeley's github stats](https://github-readme-stats.vercel.app/api?username=dbeley&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dbeley.dbeley)
