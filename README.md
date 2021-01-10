@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![dbeley's github stats](https://github-readme-stats.vercel.app/api?username=dbeley)
+
+# My most listened albums on [last.fm](https://lastfm.com/user/d_beley) in the last month
+![lastfm_cg](./lastfm.png)
