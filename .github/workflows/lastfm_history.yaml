@@ -2,7 +2,7 @@ name: Lastfm album timeline
 
 on:
   schedule:
-    - cron: 18 19 * * *
+    - cron: '18 19 * * *'
   push:
     branches:
       - master
