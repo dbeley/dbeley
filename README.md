@@ -11,10 +11,10 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8633ab962979f89188cbb780cf0f2308.jpg' width='16%' height='16%' alt='Yukika - 서울여자'>](https://www.last.fm/music/yukika/%25ec%2584%259c%25ec%259a%25b8%25ec%2597%25ac%25ec%259e%2590)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg' width='16%' height='16%' alt='Adrianne Lenker - songs'>](https://www.last.fm/music/adrianne%2blenker/songs)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f34ba55a817a2dd1d97668a01bb03ae8.jpg' width='16%' height='16%' alt='Glass Beach - the first glass beach album'>](https://www.last.fm/music/glass%2bbeach/the%2bfirst%2bglass%2bbeach%2balbum)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c175fff1b74c34cc0973f2d93c29bf07.jpg' width='16%' height='16%' alt='Oneohtrix Point Never - Age Of'>](https://www.last.fm/music/oneohtrix%2bpoint%2bnever/age%2bof)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6521bf8dc44d4b3aa84a6a855e27e47d.jpg' width='16%' height='16%' alt='Avishai Cohen - Colors'>](https://www.last.fm/music/avishai%2bcohen/colors)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4084865477f942b88e10b836c6c670a5.jpg' width='16%' height='16%' alt='Avishai Cohen - Devotion'>](https://www.last.fm/music/avishai%2bcohen/devotion)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f34ba55a817a2dd1d97668a01bb03ae8.jpg' width='16%' height='16%' alt='Glass Beach - the first glass beach album'>](https://www.last.fm/music/glass%2bbeach/the%2bfirst%2bglass%2bbeach%2balbum)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/837364b9e40053257ebc3f53be5ba964.jpg' width='16%' height='16%' alt='Lianne La Havas - Lianne La Havas'>](https://www.last.fm/music/lianne%2bla%2bhavas/lianne%2bla%2bhavas)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d042babc517f47a5ac7ae84f102699fd.jpg' width='16%' height='16%' alt='Avishai Cohen - Adama'>](https://www.last.fm/music/avishai%2bcohen/adama)&nbsp;
