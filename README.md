@@ -18,7 +18,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c859c67599902e8a38ff2fb1247ebe63.png' width='16%' height='16%' alt='Kate Bush - Never for Ever'>](https://www.last.fm/music/kate%2bbush/never%2bfor%2bever)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4bd05dd9e1015bec7074610c0a3dba4e.jpg' width='16%' height='16%' alt='Kate Bush - The Sensual World'>](https://www.last.fm/music/kate%2bbush/the%2bsensual%2bworld)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/03f4d70e2cfa8743c9df7e7488b38bb6.jpg' width='16%' height='16%' alt='Sault - UNTITLED (Rise)'>](https://www.last.fm/music/sault/untitled%2b%2528rise%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b9cffd2648d78562b992d24deff57fa1.jpg' width='16%' height='16%' alt='Slapp Happy - Acnalbasac Noom'>](https://www.last.fm/music/slapp%2bhappy/acnalbasac%2bnoom)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d5c0f3796632fa8607511516523c08b0.jpg' width='16%' height='16%' alt='Taylor Swift - folklore'>](https://www.last.fm/music/taylor%2bswift/folklore)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8633ab962979f89188cbb780cf0f2308.jpg' width='16%' height='16%' alt='Yukika - 서울여자'>](https://www.last.fm/music/yukika/%25ec%2584%259c%25ec%259a%25b8%25ec%2597%25ac%25ec%259e%2590)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/746436fb5abd430a4e684eaeee4f1aff.jpg' width='16%' height='16%' alt='Adrianne Lenker - songs'>](https://www.last.fm/music/adrianne%2blenker/songs)&nbsp;
 <br>
