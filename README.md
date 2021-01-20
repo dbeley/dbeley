@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/48a13b8689d67f28d21902b79dd10c31.jpg' width='16%' height='16%' alt='Mount Eerie - Dawn'>](https://www.last.fm/music/mount%2beerie/dawn)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/44210253d8fd4a539cc2b97e512dffd9.png' width='16%' height='16%' alt='The Avalanches - Since I Left You'>](https://www.last.fm/music/the%2bavalanches/since%2bi%2bleft%2byou)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/58a0b35dae94252478938e42d6afbc94.jpg' width='16%' height='16%' alt='Todd Rundgren - A Wizard, A True Star'>](https://www.last.fm/music/todd%2brundgren/a%2bwizard%252c%2ba%2btrue%2bstar)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1607b2f1222a809005b321429154e5ec.jpg' width='16%' height='16%' alt='Carly Rae Jepsen - E•MO•TION'>](https://www.last.fm/music/carly%2brae%2bjepsen/e%25e2%2580%25a2mo%25e2%2580%25a2tion)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/17afeed886cd4df7b0137ef51ced4679.png' width='16%' height='16%' alt='Arcade Fire - The Suburbs'>](https://www.last.fm/music/arcade%2bfire/the%2bsuburbs)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/70a35c54fb2d4b75b0febce9614ccf6d.png' width='16%' height='16%' alt='Deerhunter - Halcyon Digest'>](https://www.last.fm/music/deerhunter/halcyon%2bdigest)&nbsp;
 <br>
