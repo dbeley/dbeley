@@ -16,9 +16,3 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/17afeed886cd4df7b0137ef51ced4679.png' width='16%' height='16%' alt='Arcade Fire - The Suburbs'>](https://www.last.fm/music/arcade%2bfire/the%2bsuburbs)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/70a35c54fb2d4b75b0febce9614ccf6d.png' width='16%' height='16%' alt='Deerhunter - Halcyon Digest'>](https://www.last.fm/music/deerhunter/halcyon%2bdigest)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c859c67599902e8a38ff2fb1247ebe63.png' width='16%' height='16%' alt='Kate Bush - Never for Ever'>](https://www.last.fm/music/kate%2bbush/never%2bfor%2bever)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4bd05dd9e1015bec7074610c0a3dba4e.jpg' width='16%' height='16%' alt='Kate Bush - The Sensual World'>](https://www.last.fm/music/kate%2bbush/the%2bsensual%2bworld)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b9cffd2648d78562b992d24deff57fa1.jpg' width='16%' height='16%' alt='Slapp Happy - Acnalbasac Noom'>](https://www.last.fm/music/slapp%2bhappy/acnalbasac%2bnoom)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/791a90a2e92757f8cbfd21216ee38749.png' width='16%' height='16%' alt='Charlotte Gainsbourg - IRM'>](https://www.last.fm/music/charlotte%2bgainsbourg/irm)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f34ba55a817a2dd1d97668a01bb03ae8.jpg' width='16%' height='16%' alt='Glass Beach - the first glass beach album'>](https://www.last.fm/music/glass%2bbeach/the%2bfirst%2bglass%2bbeach%2balbum)&nbsp;
-<br>
