@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0a8babeb0aa541bfc1183c47b9f46737.png' width='16%' height='16%' alt='Guided by Voices - Bee Thousand'>](https://www.last.fm/music/guided%2bby%2bvoices/bee%2bthousand)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7cfac88e79b4a41e5bbb1c04417f173b.jpg' width='16%' height='16%' alt='Miles Davis - Round About Midnight'>](https://www.last.fm/music/miles%2bdavis/%2527round%2babout%2bmidnight)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/020a215399f01d733977aae544f1c6a6.jpg' width='16%' height='16%' alt='Thinking Fellers Union Local 282 - I Hope It Lands'>](https://www.last.fm/music/thinking%2bfellers%2bunion%2blocal%2b282/i%2bhope%2bit%2blands)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/02425ed2a34f4319c331bd7eeaddf9c3.jpg' width='16%' height='16%' alt='Pinback - Autumn Of The Seraphs'>](https://www.last.fm/music/pinback/autumn%2bof%2bthe%2bseraphs)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3ce491e574772f1fe97a004f971175a4.jpg' width='16%' height='16%' alt='Thinking Fellers Union Local 282 - Strangers From the Universe'>](https://www.last.fm/music/thinking%2bfellers%2bunion%2blocal%2b282/strangers%2bfrom%2bthe%2buniverse)&nbsp;
 <br>
