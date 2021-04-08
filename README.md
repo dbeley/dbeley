@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/790e9e2836d341249cff542d64d549a6.png' width='16%' height='16%' alt='Donald Fagen - The Nightfly'>](https://www.last.fm/music/donald%2bfagen/the%2bnightfly)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2e51d9b517ea442ac4ab0c06a845f88a.png' width='16%' height='16%' alt='Los Hermanos - Ventura'>](https://www.last.fm/music/los%2bhermanos/ventura)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b682f1ad6a61946c56adfe837b5784a1.jpg' width='16%' height='16%' alt='The Style Council - Our Favourite Shop'>](https://www.last.fm/music/the%2bstyle%2bcouncil/our%2bfavourite%2bshop)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1e34f1e2a9344535ab4576e73a6a430f.png' width='16%' height='16%' alt='Swirlies - They Spent Their Wild Youthful Days in the Glittering World of the Salons'>](https://www.last.fm/music/swirlies/they%2bspent%2btheir%2bwild%2byouthful%2bdays%2bin%2bthe%2bglittering%2bworld%2bof%2bthe%2bsalons)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ff13d72a507e477d9d3aa84aae9b2665.png' width='16%' height='16%' alt='Bill Evans - Alone'>](https://www.last.fm/music/bill%2bevans/alone)&nbsp;
 <br>
