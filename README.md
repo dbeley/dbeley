@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f2d44434245c4e0499654b5fd7aa1668.png' width='16%' height='16%' alt='Prefab Sprout - Steve McQueen'>](https://www.last.fm/music/prefab%2bsprout/steve%2bmcqueen)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/790e9e2836d341249cff542d64d549a6.png' width='16%' height='16%' alt='Donald Fagen - The Nightfly'>](https://www.last.fm/music/donald%2bfagen/the%2bnightfly)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/08e7fa5a1fac1cde3b08e8211be30f3a.jpg' width='16%' height='16%' alt='JOSHUA REDMAN, BRAD MEHLDAU, CHRISTIAN McBRIDE, BRIAN BLADE - RoundAgain'>](https://www.last.fm/music/joshua%2bredman%252c%2bbrad%2bmehldau%252c%2bchristian%2bmcbride%252c%2bbrian%2bblade/roundagain)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2e51d9b517ea442ac4ab0c06a845f88a.png' width='16%' height='16%' alt='Los Hermanos - Ventura'>](https://www.last.fm/music/los%2bhermanos/ventura)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b682f1ad6a61946c56adfe837b5784a1.jpg' width='16%' height='16%' alt='The Style Council - Our Favourite Shop'>](https://www.last.fm/music/the%2bstyle%2bcouncil/our%2bfavourite%2bshop)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ff13d72a507e477d9d3aa84aae9b2665.png' width='16%' height='16%' alt='Bill Evans - Alone'>](https://www.last.fm/music/bill%2bevans/alone)&nbsp;
 <br>
