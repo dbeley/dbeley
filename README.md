@@ -8,11 +8,11 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/82a36b6b00d8f4b32e85abb65cfd57d9.png' width='16%' height='16%' alt='Hank Mobley - No Room for Squares'>](https://www.last.fm/music/hank%2bmobley/no%2broom%2bfor%2bsquares)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c6aeae749ae98f7672c82bb14a863f9d.jpg' width='16%' height='16%' alt='La Femme - Paradigmes'>](https://www.last.fm/music/la%2bfemme/paradigmes)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/58f40cd9f451eaf7effc31ad5676438e.jpg' width='16%' height='16%' alt='Juniore - Ouh Là Là'>](https://www.last.fm/music/juniore/ouh%2bl%25c3%25a0%2bl%25c3%25a0)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ead7dc4df10648389405ee97b0319128.jpg' width='16%' height='16%' alt='Malicorne - Almanach'>](https://www.last.fm/music/malicorne/almanach)&nbsp;
-<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3d2bd962aa49c7dcde40b2cee0475c48.jpg' width='16%' height='16%' alt='Thelonious Monk - Solo Monk'>](https://www.last.fm/music/thelonious%2bmonk/solo%2bmonk)&nbsp;
+<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9cf617dc0085d9e3f305962d42e4e137.jpg' width='16%' height='16%' alt='Juniore - Juniore'>](https://www.last.fm/music/juniore/juniore)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e28c543f0a75d3fc5c28191648abad31.jpg' width='16%' height='16%' alt='Juniore - Un, Deux, Trois'>](https://www.last.fm/music/juniore/un%252c%2bdeux%252c%2btrois)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8f8dcceeb6634154b80e708c77fa88a0.png' width='16%' height='16%' alt='Sunny Day Real Estate - The Rising Tide'>](https://www.last.fm/music/sunny%2bday%2breal%2bestate/the%2brising%2btide)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/426f30c044cf4179aec9c2dbdce04c18.jpg' width='16%' height='16%' alt='Thelonious Monk - Monk.'>](https://www.last.fm/music/thelonious%2bmonk/monk.)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8e23a97b0ab6ca22e1d589c17499e226.jpg' width='16%' height='16%' alt='Alcest - Spiritual Instinct'>](https://www.last.fm/music/alcest/spiritual%2binstinct)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7658bff0867a48f6c887d46e8e64a614.png' width='16%' height='16%' alt='Joe Henderson - Mode For Joe'>](https://www.last.fm/music/joe%2bhenderson/mode%2bfor%2bjoe)&nbsp;
 <br>
