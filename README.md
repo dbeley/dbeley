@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1319ef46e1da47f5c7dd7afdfb11aa53.jpg' width='16%' height='16%' alt='Queens of the Stone Age - Songs for the Deaf'>](https://www.last.fm/music/queens%2bof%2bthe%2bstone%2bage/songs%2bfor%2bthe%2bdeaf)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/652b9c9cfbf8412ac194ce5dd61030cf.jpg' width='16%' height='16%' alt='Come - Eleven:Eleven'>](https://www.last.fm/music/come/eleven%253aeleven)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2e01ef73333180542c9e96ee3c580797.jpg' width='16%' height='16%' alt='Real Estate - Half a Human'>](https://www.last.fm/music/real%2bestate/half%2ba%2bhuman)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/764173a32f3247adc795b45fc8be40f7.png' width='16%' height='16%' alt='Talking Heads - Remain in Light'>](https://www.last.fm/music/talking%2bheads/remain%2bin%2blight)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/62e79d7331b34ea9ced494570a2fe797.png' width='16%' height='16%' alt='LCD Soundsystem - Sound Of Silver'>](https://www.last.fm/music/lcd%2bsoundsystem/sound%2bof%2bsilver)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/820b80a823f8487089e4f9564750e16e.png' width='16%' height='16%' alt='LCD Soundsystem - This Is Happening'>](https://www.last.fm/music/lcd%2bsoundsystem/this%2bis%2bhappening)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/141fd517ba5d40838d21f82bb9b26149.png' width='16%' height='16%' alt='Talking Heads - Speaking in Tongues'>](https://www.last.fm/music/talking%2bheads/speaking%2bin%2btongues)&nbsp;
 <br>
