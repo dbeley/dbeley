@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bf2174c87f55fc71e4904221cb280ad3.jpg' width='16%' height='16%' alt='Real Estate - In Mind'>](https://www.last.fm/music/real%2bestate/in%2bmind)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/538408f6acf94ef1ba652aa5a685e7f3.png' width='16%' height='16%' alt='Sunny Day Real Estate - Diary'>](https://www.last.fm/music/sunny%2bday%2breal%2bestate/diary)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8f8dcceeb6634154b80e708c77fa88a0.png' width='16%' height='16%' alt='Sunny Day Real Estate - The Rising Tide'>](https://www.last.fm/music/sunny%2bday%2breal%2bestate/the%2brising%2btide)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6740551f21c77e2f96bd0d038748b2fa.jpg' width='16%' height='16%' alt='Quella Vecchia Locanda - Quella vecchia locanda'>](https://www.last.fm/music/quella%2bvecchia%2blocanda/quella%2bvecchia%2blocanda)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1a1b12e8da2f0727c84f57cd35e42603.jpg' width='16%' height='16%' alt='Sunny Day Real Estate - LP2'>](https://www.last.fm/music/sunny%2bday%2breal%2bestate/lp2)&nbsp;
 <br>
