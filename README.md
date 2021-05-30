@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/afbc84e5a864dcffb2e4e328856caf10.jpg' width='16%' height='16%' alt='Carly Rae Jepsen - Dedicated Side B'>](https://www.last.fm/music/carly%2brae%2bjepsen/dedicated%2bside%2bb)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/248f0f82efa0147e59c9fd6f32916075.jpg' width='16%' height='16%' alt='Jeff Rosenstock - We Cool?'>](https://www.last.fm/music/jeff%2brosenstock/we%2bcool%253f)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/159aca598ef248a19a9160265ffe639a.png' width='16%' height='16%' alt='Nada Surf - Let Go'>](https://www.last.fm/music/nada%2bsurf/let%2bgo)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7ab2669536e18a34bdbefd7c40dd530a.jpg' width='16%' height='16%' alt='John Coltrane Quartet - Ballads'>](https://www.last.fm/music/john%2bcoltrane%2bquartet/ballads)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4750c900c8b7b9e945e020e7400396f1.jpg' width='16%' height='16%' alt='Gojira - Fortitude'>](https://www.last.fm/music/gojira/fortitude)&nbsp;
 <br>
