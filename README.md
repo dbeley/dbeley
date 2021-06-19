@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/22d44447f45ab6f0274327c728311c2c.jpg' width='16%' height='16%' alt='King Diamond - Conspiracy'>](https://www.last.fm/music/king%2bdiamond/conspiracy)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6971d5666c024a3dd5d965c8be4fdd0b.png' width='16%' height='16%' alt='Metal Church - Metal Church'>](https://www.last.fm/music/metal%2bchurch/metal%2bchurch)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b1c787b1b1151b318bf63d6958b0dc35.jpg' width='16%' height='16%' alt='Bolt Thrower - The IVth Crusade'>](https://www.last.fm/music/bolt%2bthrower/the%2bivth%2bcrusade)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/344aa7d390056bb5726af2770ab18aa7.png' width='16%' height='16%' alt='King Diamond - Abigail'>](https://www.last.fm/music/king%2bdiamond/abigail)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1993e26ec8fa93d1b20130c7f683c948.png' width='16%' height='16%' alt='Pestilence - Consuming Impulse'>](https://www.last.fm/music/pestilence/consuming%2bimpulse)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c90e895bd0c942c0c29179da2e23c061.png' width='16%' height='16%' alt='Running Wild - Port Royal'>](https://www.last.fm/music/running%2bwild/port%2broyal)&nbsp;
 <br>
