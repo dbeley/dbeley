@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ea16ee8d8dca0481359cfe828b083ef7.png' width='16%' height='16%' alt='Slayer - South of Heaven'>](https://www.last.fm/music/slayer/south%2bof%2bheaven)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/24ec316ccff54fc51889fdf8e8f29ce3.png' width='16%' height='16%' alt='Symphony X - Paradise Lost'>](https://www.last.fm/music/symphony%2bx/paradise%2blost)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d0a7d513bcef082bdc143b6bbaabcb1b.png' width='16%' height='16%' alt='Symphony X - The Odyssey'>](https://www.last.fm/music/symphony%2bx/the%2bodyssey)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c4fa07c5ae1b4b18a15a03f6e4ec8bd7.jpg' width='16%' height='16%' alt='Georges Brassens - Les 100 plus belles chansons'>](https://www.last.fm/music/georges%2bbrassens/les%2b100%2bplus%2bbelles%2bchansons)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/81ac45ecc23c4cf6aaf033eb54f7c09d.png' width='16%' height='16%' alt='Slayer - Seasons in the Abyss'>](https://www.last.fm/music/slayer/seasons%2bin%2bthe%2babyss)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/84938908fad3148fe2a51058d8391528.png' width='16%' height='16%' alt='maudlin of the Well - Part the Second'>](https://www.last.fm/music/maudlin%2bof%2bthe%2bwell/part%2bthe%2bsecond)&nbsp;
 <br>
