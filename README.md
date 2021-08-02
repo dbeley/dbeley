@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/09bc862022fa580b820e065e51da7905.jpg' width='16%' height='16%' alt='Tyler, The Creator - IGOR'>](https://www.last.fm/music/tyler%252c%2bthe%2bcreator/igor)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/db37ba3a1ee548b49284ca9272a18c92.jpg' width='16%' height='16%' alt='Brad Mehldau Trio - Anything Goes'>](https://www.last.fm/music/brad%2bmehldau%2btrio/anything%2bgoes)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ebc5bb1dc16b48289a488911d143a12c.jpg' width='16%' height='16%' alt='Brad Mehldau Trio - The Art of the Trio, Volume 3: Songs'>](https://www.last.fm/music/brad%2bmehldau%2btrio/the%2bart%2bof%2bthe%2btrio%252c%2bvolume%2b3%253a%2bsongs)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c980ac9ed35f454f851928f67ea41db0.jpg' width='16%' height='16%' alt='Brad Mehldau Trio - Day Is Done'>](https://www.last.fm/music/brad%2bmehldau%2btrio/day%2bis%2bdone)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9858ea05277d4c7b4f3a0efe48c3e9d1.jpg' width='16%' height='16%' alt='Michael Brecker - Tales From The Hudson'>](https://www.last.fm/music/michael%2bbrecker/tales%2bfrom%2bthe%2bhudson)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/58faebe1c12ea9bc484dc2ee67fd4818.jpg' width='16%' height='16%' alt='Nik Bärtschs Mobile - Continuum'>](https://www.last.fm/music/nik%2bb%25c3%25a4rtsch%2527s%2bmobile/continuum)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d772228ce7f5496e9796fc31c3f2cee1.jpg' width='16%' height='16%' alt='Brad Mehldau - The Art of the Trio, Volume 1'>](https://www.last.fm/music/brad%2bmehldau/the%2bart%2bof%2bthe%2btrio%252c%2bvolume%2b1)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ef0fe5aeae8a4e1ccdfc7c9b1b2d9314.png' width='16%' height='16%' alt='Janelle Monáe - The ArchAndroid'>](https://www.last.fm/music/janelle%2bmon%25c3%25a1e/the%2barchandroid)&nbsp;
 <br>
