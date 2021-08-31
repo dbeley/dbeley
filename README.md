@@ -4,15 +4,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/d_beley) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/96de90ff48a74c1e28909b2e620bbf2c.png' width='16%' height='16%' alt='Chassol - Ludi'>](https://www.last.fm/music/chassol/ludi)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c26a07bde7cb26e937acf90255fdf240.jpg' width='16%' height='16%' alt='Fontaines D.C. - A Heros Death'>](https://www.last.fm/music/fontaines%2bd.c./a%2bhero%2527s%2bdeath)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/085533f0bef8ff8a83850d43e09c8ab2.jpg' width='16%' height='16%' alt='Laura Marling - Alas I Cannot Swim'>](https://www.last.fm/music/laura%2bmarling/alas%2bi%2bcannot%2bswim)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0bb566f53e9f4cbfccf926acd7371183.png' width='16%' height='16%' alt='Boards of Canada - Music Has the Right to Children'>](https://www.last.fm/music/boards%2bof%2bcanada/music%2bhas%2bthe%2bright%2bto%2bchildren)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/92587764cd2b43baadcc8c22cdfc53a3.png' width='16%' height='16%' alt='Bruce Springsteen - Nebraska'>](https://www.last.fm/music/bruce%2bspringsteen/nebraska)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8ee296bc1ea8dfcc004f9749da12b48b.jpg' width='16%' height='16%' alt='Julia Holter - Aviary'>](https://www.last.fm/music/julia%2bholter/aviary)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9ccbcd069c1149d28110373fe89de744.jpg' width='16%' height='16%' alt='Mitski - Bury Me at Make Out Creek'>](https://www.last.fm/music/mitski/bury%2bme%2bat%2bmake%2bout%2bcreek)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/872333cf0b34459bb4a27e592b565d68.jpg' width='16%' height='16%' alt='Penfold - Amateurs and Professionals'>](https://www.last.fm/music/penfold/amateurs%2band%2bprofessionals)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg' width='16%' height='16%' alt='Turnover - Peripheral Vision'>](https://www.last.fm/music/turnover/peripheral%2bvision)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ddedb125a182409472112a99e0fc20c1.jpg' width='16%' height='16%' alt='Wolf Alice - Blue Weekend'>](https://www.last.fm/music/wolf%2balice/blue%2bweekend)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3137ad29b7414f56cfb76306c3f01ee3.jpg' width='16%' height='16%' alt='Chassol - Big Sun'>](https://www.last.fm/music/chassol/big%2bsun)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d291ab9ac7f0cdbae2c100c7595853e7.png' width='16%' height='16%' alt='Converge - Axe to Fall'>](https://www.last.fm/music/converge/axe%2bto%2bfall)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/045ea4dff9234bb4cb511d89f2c93655.jpg' width='16%' height='16%' alt='Wolf Alice - My Love Is Cool'>](https://www.last.fm/music/wolf%2balice/my%2blove%2bis%2bcool)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/96de90ff48a74c1e28909b2e620bbf2c.png' width='16%' height='16%' alt='Chassol - Ludi'>](https://www.last.fm/music/chassol/ludi)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f7217fa1319c242872b6148740b26bcc.png' width='16%' height='16%' alt='Julia Holter - Have You In My Wilderness'>](https://www.last.fm/music/julia%2bholter/have%2byou%2bin%2bmy%2bwilderness)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a4acda674a774dedb8a6c47a26cecc84.png' width='16%' height='16%' alt='Laura Marling - I Speak Because I Can'>](https://www.last.fm/music/laura%2bmarling/i%2bspeak%2bbecause%2bi%2bcan)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/515b7450118c4ff0b8d0a9ad2b4375ec.png' width='16%' height='16%' alt='Pavement - Crooked Rain, Crooked Rain'>](https://www.last.fm/music/pavement/crooked%2brain%252c%2bcrooked%2brain)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/aba20ddda8f03dba850e2d704df9ecf1.jpg' width='16%' height='16%' alt='Thomas Enhco - Bach Mirror'>](https://www.last.fm/music/thomas%2benhco/bach%2bmirror)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5d93403fbc951b7d31fa80ff826b5180.jpg' width='16%' height='16%' alt='Japanese Breakfast - Jubilee'>](https://www.last.fm/music/japanese%2bbreakfast/jubilee)&nbsp;
 <br>
