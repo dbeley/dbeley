@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1368322c865c574925ee1dc0dd2513b6.png' width='16%' height='16%' alt='Carly Rae Jepsen - Dedicated Side B'>](https://www.last.fm/music/carly%2brae%2bjepsen/dedicated%2bside%2bb)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1cae22b83302782ddf3738fb7baf6954.png' width='16%' height='16%' alt='Car Seat Headrest - Twin Fantasy (Face to Face)'>](https://www.last.fm/music/car%2bseat%2bheadrest/twin%2bfantasy%2b%2528face%2bto%2bface%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/702d3cf3e7acd92ad1609c3c8c69931d.jpg' width='16%' height='16%' alt='Car Seat Headrest - How To Leave Town'>](https://www.last.fm/music/car%2bseat%2bheadrest/how%2bto%2bleave%2btown)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7fab1024a5904669c640610baf2c6ec8.png' width='16%' height='16%' alt='Pavement - Wowee Zowee'>](https://www.last.fm/music/pavement/wowee%2bzowee)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4750c900c8b7b9e945e020e7400396f1.jpg' width='16%' height='16%' alt='Gojira - Fortitude'>](https://www.last.fm/music/gojira/fortitude)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b06defa449863fea6a78434c268dff47.jpg' width='16%' height='16%' alt='Phoenix - Wolfgang Amadeus Phoenix'>](https://www.last.fm/music/phoenix/wolfgang%2bamadeus%2bphoenix)&nbsp;
 <br>
