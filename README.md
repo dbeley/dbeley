@@ -10,9 +10,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b48c68a23f234618c6aa420ba66d21c8.png' width='16%' height='16%' alt='Los Hermanos - Bloco do Eu Sozinho'>](https://www.last.fm/music/los%2bhermanos/bloco%2bdo%2beu%2bsozinho)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/723f1c1b28eddf2f41c73b6f408f6731.jpg' width='16%' height='16%' alt='The Fiery Furnaces - Blueberry Boat'>](https://www.last.fm/music/the%2bfiery%2bfurnaces/blueberry%2bboat)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/108dc6072923e7fbba346b96f7b68bd5.jpg' width='16%' height='16%' alt='Carly Rae Jepsen - Emotion (Deluxe Expanded Edition)'>](https://www.last.fm/music/carly%2brae%2bjepsen/emotion%2b%2528deluxe%2bexpanded%2bedition%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c211c337a6b942e0a7302b4d89545f0e.png' width='16%' height='16%' alt='The Dismemberment Plan - Emergency & I'>](https://www.last.fm/music/the%2bdismemberment%2bplan/emergency%2b%2526%2bi)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1368322c865c574925ee1dc0dd2513b6.png' width='16%' height='16%' alt='Carly Rae Jepsen - Dedicated Side B'>](https://www.last.fm/music/carly%2brae%2bjepsen/dedicated%2bside%2bb)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0423a914eed44766a3218bd78f27aaa7.png' width='16%' height='16%' alt='The Dismemberment Plan - Change'>](https://www.last.fm/music/the%2bdismemberment%2bplan/change)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/702d3cf3e7acd92ad1609c3c8c69931d.jpg' width='16%' height='16%' alt='Car Seat Headrest - How To Leave Town'>](https://www.last.fm/music/car%2bseat%2bheadrest/how%2bto%2bleave%2btown)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/703bc44a2aba153597e762c4a6854f98.jpg' width='16%' height='16%' alt='Elliott Smith - From a Basement on the Hill'>](https://www.last.fm/music/elliott%2bsmith/from%2ba%2bbasement%2bon%2bthe%2bhill)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1cae22b83302782ddf3738fb7baf6954.png' width='16%' height='16%' alt='Car Seat Headrest - Twin Fantasy (Face to Face)'>](https://www.last.fm/music/car%2bseat%2bheadrest/twin%2bfantasy%2b%2528face%2bto%2bface%2529)&nbsp;
 <br>
