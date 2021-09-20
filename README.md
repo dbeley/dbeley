@@ -7,10 +7,10 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/905593398b064299a5b9fd4c9de66d7c.jpg' width='16%' height='16%' alt='The Clientele - Suburban Light'>](https://www.last.fm/music/the%2bclientele/suburban%2blight)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ebc876b84e2a0b614bb15953a33922a0.jpg' width='16%' height='16%' alt='Ludwig van Beethoven - Beethoven: The Symphonies'>](https://www.last.fm/music/ludwig%2bvan%2bbeethoven/beethoven%253a%2bthe%2bsymphonies)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2e51d9b517ea442ac4ab0c06a845f88a.png' width='16%' height='16%' alt='Los Hermanos - Ventura'>](https://www.last.fm/music/los%2bhermanos/ventura)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2c04a996fe2cfe61da13eadc402cdfdd.png' width='16%' height='16%' alt='Hatchie - Keepsake'>](https://www.last.fm/music/hatchie/keepsake)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b48c68a23f234618c6aa420ba66d21c8.png' width='16%' height='16%' alt='Los Hermanos - Bloco do Eu Sozinho'>](https://www.last.fm/music/los%2bhermanos/bloco%2bdo%2beu%2bsozinho)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5e590dccd7b6451ac5f8bb299c8bb549.png' width='16%' height='16%' alt='The Clientele - Strange Geometry'>](https://www.last.fm/music/the%2bclientele/strange%2bgeometry)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c211c337a6b942e0a7302b4d89545f0e.png' width='16%' height='16%' alt='The Dismemberment Plan - Emergency & I'>](https://www.last.fm/music/the%2bdismemberment%2bplan/emergency%2b%2526%2bi)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5e590dccd7b6451ac5f8bb299c8bb549.png' width='16%' height='16%' alt='The Clientele - Strange Geometry'>](https://www.last.fm/music/the%2bclientele/strange%2bgeometry)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/703bc44a2aba153597e762c4a6854f98.jpg' width='16%' height='16%' alt='Elliott Smith - From a Basement on the Hill'>](https://www.last.fm/music/elliott%2bsmith/from%2ba%2bbasement%2bon%2bthe%2bhill)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4c47b38ce2c8273ec6c34644db14a686.jpg' width='16%' height='16%' alt='Great Grandpa - Four Of Arrows'>](https://www.last.fm/music/great%2bgrandpa/four%2bof%2barrows)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0423a914eed44766a3218bd78f27aaa7.png' width='16%' height='16%' alt='The Dismemberment Plan - Change'>](https://www.last.fm/music/the%2bdismemberment%2bplan/change)&nbsp;
