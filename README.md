@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c807fbafef97df95ce82b4284a83b43f.png' width='16%' height='16%' alt='Genesis - The Lamb Lies Down On Broadway (remastered 2008)'>](https://www.last.fm/music/genesis/the%2blamb%2blies%2bdown%2bon%2bbroadway%2b%2528remastered%2b2008%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ba9069a2e1b0750e634ba67bb11aeca7.jpg' width='16%' height='16%' alt='Shame - Songs of Praise'>](https://www.last.fm/music/shame/songs%2bof%2bpraise)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c1018c6d883cd35794c92d2dda92c380.png' width='16%' height='16%' alt='Whitney - Light Upon the Lake'>](https://www.last.fm/music/whitney/light%2bupon%2bthe%2blake)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/dde75fe2b22e4e6dce4784b872ddf94b.jpg' width='16%' height='16%' alt='XTC - English Settlement'>](https://www.last.fm/music/xtc/english%2bsettlement)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c03e014f960b452a808d3167335876c6.png' width='16%' height='16%' alt='Grouper - Dragging a Dead Deer Up a Hill'>](https://www.last.fm/music/grouper/dragging%2ba%2bdead%2bdeer%2bup%2ba%2bhill)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/71870e901187424aa1a28b424fe1db76.png' width='16%' height='16%' alt='Genesis - Foxtrot'>](https://www.last.fm/music/genesis/foxtrot)&nbsp;
 <br>
