@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ef428088eed845e099896fd9989151ae.jpg' width='16%' height='16%' alt='Triosence - First Enchantment'>](https://www.last.fm/music/triosence/first%2benchantment)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a986774f52c2438fbe38f019812d3896.png' width='16%' height='16%' alt='Weezer - Weezer'>](https://www.last.fm/music/weezer/weezer)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8836d10c699527cf57fe719308a93b47.png' width='16%' height='16%' alt='XTC - Black Sea'>](https://www.last.fm/music/xtc/black%2bsea)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b666118eb7604492c47aafa19c05bcb9.png' width='16%' height='16%' alt='Talk Talk - The Colour of Spring'>](https://www.last.fm/music/talk%2btalk/the%2bcolour%2bof%2bspring)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a073ac85e2fb427e99cb2d154af8935b.png' width='16%' height='16%' alt='Yo La Tengo - I Can Hear the Heart Beating as One'>](https://www.last.fm/music/yo%2bla%2btengo/i%2bcan%2bhear%2bthe%2bheart%2bbeating%2bas%2bone)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/85748de6718876bc3fd9c8c218d8b2fa.png' width='16%' height='16%' alt='Talk Talk - Laughing Stock'>](https://www.last.fm/music/talk%2btalk/laughing%2bstock)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/13d451ef75fdc9836da9664b917186a6.jpg' width='16%' height='16%' alt='Triosence - Away for a While'>](https://www.last.fm/music/triosence/away%2bfor%2ba%2bwhile)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3d5b085ec538411c830044600d99cca7.jpg' width='16%' height='16%' alt='Talk Talk - Spirit of Eden'>](https://www.last.fm/music/talk%2btalk/spirit%2bof%2beden)&nbsp;
 <br>
