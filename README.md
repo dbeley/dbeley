@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fce31d4841bc76861f5ff024281c61d6.png' width='16%' height='16%' alt='Coldplay - Music of the Spheres'>](https://www.last.fm/music/coldplay/music%2bof%2bthe%2bspheres)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/93555d07c3e948c897ed1bc2dcf90743.jpg' width='16%' height='16%' alt='Wussy - Left for Dead'>](https://www.last.fm/music/wussy/left%2bfor%2bdead)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4af31a783ede9676743e85db2efb2d4c.png' width='16%' height='16%' alt='Carly Rae Jepsen - Dedicated'>](https://www.last.fm/music/carly%2brae%2bjepsen/dedicated)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/79d9ecf3ab0435af0b97c1303e91251f.jpg' width='16%' height='16%' alt='Islands - Return to the Sea'>](https://www.last.fm/music/islands/return%2bto%2bthe%2bsea)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5d5da80ab7f9bcbc17e6179555405920.jpg' width='16%' height='16%' alt='Kiss - Greatest Kiss'>](https://www.last.fm/music/kiss/greatest%2bkiss)&nbsp;
 <br>
