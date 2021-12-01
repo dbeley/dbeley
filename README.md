@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ac1f0a2302a51b3bfc9d3c4399e8c174.jpg' width='16%' height='16%' alt='Dead Can Dance - Dead Can Dance'>](https://www.last.fm/music/dead%2bcan%2bdance/dead%2bcan%2bdance)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f07eb11bfdda294435cfb4672706868d.jpg' width='16%' height='16%' alt='Dead Can Dance - Spleen and Ideal'>](https://www.last.fm/music/dead%2bcan%2bdance/spleen%2band%2bideal)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2f5e69a453d0478b647602b9d5d96bdc.jpg' width='16%' height='16%' alt='Jon Brion - Le grand bain (Musique originale du film)'>](https://www.last.fm/music/jon%2bbrion/le%2bgrand%2bbain%2b%2528musique%2boriginale%2bdu%2bfilm%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5d5da80ab7f9bcbc17e6179555405920.jpg' width='16%' height='16%' alt='Kiss - Greatest Kiss'>](https://www.last.fm/music/kiss/greatest%2bkiss)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5f96bd1df2064eb0ce4465d0be23d5af.png' width='16%' height='16%' alt='Misþyrming - Söngvar elds og óreiðu'>](https://www.last.fm/music/mis%25c3%25beyrming/s%25c3%25b6ngvar%2belds%2bog%2b%25c3%25b3rei%25c3%25b0u)&nbsp;
 <br>
