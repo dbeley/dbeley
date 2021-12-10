@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0f8e46e38decdaf02088b967c64361b3.jpg' width='16%' height='16%' alt='Fishmans - Orange'>](https://www.last.fm/music/fishmans/orange)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/befc5be7f1284bbbb340fa8a04bc2c09.png' width='16%' height='16%' alt='John Martyn - Solid Air'>](https://www.last.fm/music/john%2bmartyn/solid%2bair)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/90ff02d4495f4c50a1b7b2a64798d892.png' width='16%' height='16%' alt='Beach House - Bloom'>](https://www.last.fm/music/beach%2bhouse/bloom)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/92ee7e4f3afdbe6a9a8c13a4a790baf1.png' width='16%' height='16%' alt='Beach House - Depression Cherry'>](https://www.last.fm/music/beach%2bhouse/depression%2bcherry)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9903bae260baaa04c6177ebcac4b74bc.jpg' width='16%' height='16%' alt='black midi - Schlagenheim'>](https://www.last.fm/music/black%2bmidi/schlagenheim)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/deaec2d4735bea0d1c45fc75261624ae.jpg' width='16%' height='16%' alt='The Beatles - Revolver'>](https://www.last.fm/music/the%2bbeatles/revolver)&nbsp;
 <br>
