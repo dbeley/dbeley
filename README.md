@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3947ccc7613d4555ad120bf8b5c68e59.png' width='16%' height='16%' alt='The Beatles - Magical Mystery Tour'>](https://www.last.fm/music/the%2bbeatles/magical%2bmystery%2btour)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/af251669a48a4bafb448e1f6c0de01be.png' width='16%' height='16%' alt='The Beatles - Abbey Road'>](https://www.last.fm/music/the%2bbeatles/abbey%2broad)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1ac905c7ee067e527aca9643ba7a1a21.jpg' width='16%' height='16%' alt='Van Morrison - Moondance'>](https://www.last.fm/music/van%2bmorrison/moondance)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a4e112b368c5ad405d43f0930617c687.png' width='16%' height='16%' alt='The Beatles - Sgt. Peppers Lonely Hearts Club Band'>](https://www.last.fm/music/the%2bbeatles/sgt.%2bpepper%2527s%2blonely%2bhearts%2bclub%2bband)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/78bb08f9d0a8402a9793ce2a9303d0d2.png' width='16%' height='16%' alt='Dark Tranquillity - Construct'>](https://www.last.fm/music/dark%2btranquillity/construct)&nbsp;
 <br>
