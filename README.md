@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a36f8c7bc256402d8de2ca1d4fb7966f.png' width='16%' height='16%' alt='Mike Oldfield - Crises'>](https://www.last.fm/music/mike%2boldfield/crises)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3aec4953a2014aaaa6a9bce4848004fc.jpg' width='16%' height='16%' alt='Bill Evans - Everybody Digs Bill Evans'>](https://www.last.fm/music/bill%2bevans/everybody%2bdigs%2bbill%2bevans)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7cf92bca55642b2e95d07d845e0cfb1e.jpg' width='16%' height='16%' alt='Bill Evans - Undercurrent'>](https://www.last.fm/music/bill%2bevans/undercurrent)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ffafd8e6331d4495b20dbde57892fd5c.jpg' width='16%' height='16%' alt='Stan Getz - Stan Getz & Bill Evans'>](https://www.last.fm/music/stan%2bgetz/stan%2bgetz%2b%2526%2bbill%2bevans)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7c4386041efb64b7764453d339f12f74.jpg' width='16%' height='16%' alt='Motörhead - Ace Of Spades (Expanded Edition)'>](https://www.last.fm/music/mot%25c3%25b6rhead/ace%2bof%2bspades%2b%2528expanded%2bedition%2529)&nbsp;
 <br>
