@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/dc477d4c2e8c9f1fb65ebc60cd06ffde.png' width='16%' height='16%' alt='Boney M. - Love for Sale'>](https://www.last.fm/music/boney%2bm./love%2bfor%2bsale)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/839a1b04ceb20de4e2edddbe9aa6eab8.jpg' width='16%' height='16%' alt='Thomas Enhco - Feathers'>](https://www.last.fm/music/thomas%2benhco/feathers)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/25bca740864a4393b1ebe851ce9c86e5.png' width='16%' height='16%' alt='Fair to Midland - Arrows & Anchors'>](https://www.last.fm/music/fair%2bto%2bmidland/arrows%2b%2526%2banchors)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/dcefa4c5b154c17e5225d4dd8737298c.png' width='16%' height='16%' alt='Natural Snow Buildings - The Dance of the Moon and the Sun'>](https://www.last.fm/music/natural%2bsnow%2bbuildings/the%2bdance%2bof%2bthe%2bmoon%2band%2bthe%2bsun)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0cfe8a0c1f79a540f13a03a8331bb7ce.jpg' width='16%' height='16%' alt='Cirith Ungol - Frost and Fire'>](https://www.last.fm/music/cirith%2bungol/frost%2band%2bfire)&nbsp;
 <br>
