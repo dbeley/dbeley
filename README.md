@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/125c46116da027d9786e77e1bbd6a83b.png' width='16%' height='16%' alt='Spinvis - Spinvis'>](https://www.last.fm/music/spinvis/spinvis)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0b078c13fab849c0c9d24bae6d42e0ee.jpg' width='16%' height='16%' alt='Van der Graaf Generator - H to He, Who Am the Only One'>](https://www.last.fm/music/van%2bder%2bgraaf%2bgenerator/h%2bto%2bhe%252c%2bwho%2bam%2bthe%2bonly%2bone)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7e7dc952a29048e8c83045d062ed44d7.jpg' width='16%' height='16%' alt='Morrissey - Vauxhall And I (20th Anniversary Definitive Master)'>](https://www.last.fm/music/morrissey/vauxhall%2band%2bi%2b%252820th%2banniversary%2bdefinitive%2bmaster%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/97e40789ea3fa32c5b2bb2875a23ac0b.jpg' width='16%' height='16%' alt='Peter Zummo - Second Spring OST'>](https://www.last.fm/music/peter%2bzummo/second%2bspring%2bost)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0dbe1c68ebc5f84ef2e20205ff623634.jpg' width='16%' height='16%' alt='Swans - The Great Annihilator'>](https://www.last.fm/music/swans/the%2bgreat%2bannihilator)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bb2aa4412fe643b1b5e2c8ab4b7d63b3.jpg' width='16%' height='16%' alt='10cc - Tenology'>](https://www.last.fm/music/10cc/tenology)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e12967be3bb0700cabd15b22754ec0b2.jpg' width='16%' height='16%' alt='American Football - American Football'>](https://www.last.fm/music/american%2bfootball/american%2bfootball)&nbsp;
 <br>
