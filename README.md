@@ -8,11 +8,11 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/61fe67ac1045c545a57bfc81da022f91.png' width='16%' height='16%' alt='Vampire Weekend - Vampire Weekend'>](https://www.last.fm/music/vampire%2bweekend/vampire%2bweekend)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0daf0b208974beb224e7161e68aa239b.jpg' width='16%' height='16%' alt='VOLA - Witness'>](https://www.last.fm/music/vola/witness)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bf7207240ac7461dbdf0ee761f96b701.png' width='16%' height='16%' alt='Pantera - Cowboys From Hell'>](https://www.last.fm/music/pantera/cowboys%2bfrom%2bhell)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bd277b517a2a0a880591227851ab50a5.jpg' width='16%' height='16%' alt='Fleetwood Mac - Tusk (Deluxe Edition)'>](https://www.last.fm/music/fleetwood%2bmac/tusk%2b%2528deluxe%2bedition%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5cd3eb10c0b5405684aedfc28e235488.png' width='16%' height='16%' alt='Uneven Structure - Februus'>](https://www.last.fm/music/uneven%2bstructure/februus)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3b070c640e291de06bc40bd7a8e44264.jpg' width='16%' height='16%' alt='Florian Pellissier Quintet - Rio'>](https://www.last.fm/music/florian%2bpellissier%2bquintet/rio)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2df834b9569a7bc9e6fd63b98c8d3d7a.jpg' width='16%' height='16%' alt='Foehn Trio - Magnésie'>](https://www.last.fm/music/foehn%2btrio/magn%25c3%25a9sie)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8edc1b567c64e6e552b803a7d266c987.jpg' width='16%' height='16%' alt='Joey Alexander - Eclipse'>](https://www.last.fm/music/joey%2balexander/eclipse)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a0c37c5e5c9142eda88a505eaa334a0b.jpg' width='16%' height='16%' alt='Keith Jarrett Trio - Tribute'>](https://www.last.fm/music/keith%2bjarrett%2btrio/tribute)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/559e81f908124c29cc66bb48ef63cfbd.jpg' width='16%' height='16%' alt='Kenny Dorham - Quiet Kenny'>](https://www.last.fm/music/kenny%2bdorham/quiet%2bkenny)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1ed2a8b06875441f85256b2f162fdf9b.png' width='16%' height='16%' alt='A Tribe Called Quest - The Low End Theory'>](https://www.last.fm/music/a%2btribe%2bcalled%2bquest/the%2blow%2bend%2btheory)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce653ac58a7d7c512cb43d0c1d508adc.jpg' width='16%' height='16%' alt='Beulah - When Your Heartstrings Break'>](https://www.last.fm/music/beulah/when%2byour%2bheartstrings%2bbreak)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b6cb3ed542d54666b415b0fd25ec9432.png' width='16%' height='16%' alt='Candy Claws - Ceres & Calypso in the Deep Time'>](https://www.last.fm/music/candy%2bclaws/ceres%2b%2526%2bcalypso%2bin%2bthe%2bdeep%2btime)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f80044198111337673cbfe0a2478796e.jpg' width='16%' height='16%' alt='Cate Le Bon - Crab Day'>](https://www.last.fm/music/cate%2ble%2bbon/crab%2bday)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5032420e1709c12642361c76483986f2.jpg' width='16%' height='16%' alt='Combustible Edison - I, Swinger'>](https://www.last.fm/music/combustible%2bedison/i%252c%2bswinger)&nbsp;
 <br>
