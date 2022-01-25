@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cd8e8497e6fc4180c1f16467fa2aeb2f.png' width='16%' height='16%' alt='Silver Jews - Lookout Mountain, Lookout Sea'>](https://www.last.fm/music/silver%2bjews/lookout%2bmountain%252c%2blookout%2bsea)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8cb7a0cb7f778f27336ffd6fda1f46c1.jpg' width='16%' height='16%' alt='Slint - Tweez'>](https://www.last.fm/music/slint/tweez)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/10dd4be2659b4c71925434968beb3634.jpg' width='16%' height='16%' alt='Vàli - Forlatt'>](https://www.last.fm/music/v%25c3%25a0li/forlatt)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/61fe67ac1045c545a57bfc81da022f91.png' width='16%' height='16%' alt='Vampire Weekend - Vampire Weekend'>](https://www.last.fm/music/vampire%2bweekend/vampire%2bweekend)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d6bda4123153387b2434a98ebc8de47d.jpg' width='16%' height='16%' alt='The Psychedelic Furs - Talk Talk Talk'>](https://www.last.fm/music/the%2bpsychedelic%2bfurs/talk%2btalk%2btalk)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7761a12263cc4f48aa979c2ab8330252.gif' width='16%' height='16%' alt='John Zorn - The Dreamers'>](https://www.last.fm/music/john%2bzorn/the%2bdreamers)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8e0f3226be8c4220aab4bebe90a0113e.jpg' width='16%' height='16%' alt='Bark Psychosis - Hex'>](https://www.last.fm/music/bark%2bpsychosis/hex)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ae64dd3d532b48cbb4648360a5672fc3.png' width='16%' height='16%' alt='Dirty Three - Ocean Songs'>](https://www.last.fm/music/dirty%2bthree/ocean%2bsongs)&nbsp;
 <br>
