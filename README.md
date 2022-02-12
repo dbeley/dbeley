@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8e02168f4f4445cdc5ef49212994b9de.png' width='16%' height='16%' alt='Teenage Fanclub - Bandwagonesque'>](https://www.last.fm/music/teenage%2bfanclub/bandwagonesque)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2403a22aa609dd71afc4f8d0971ecca2.jpg' width='16%' height='16%' alt='Teenage Fanclub - Grand Prix'>](https://www.last.fm/music/teenage%2bfanclub/grand%2bprix)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/41c63c47ec36125a215b899e1543eab7.jpg' width='16%' height='16%' alt='Deftones - White Pony'>](https://www.last.fm/music/deftones/white%2bpony)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c83d49a082144c72cca50b44e18c9be1.jpg' width='16%' height='16%' alt='Habib Koité & Eric Bibb - Brothers In Bamako'>](https://www.last.fm/music/habib%2bkoit%25c3%25a9%2b%2526%2beric%2bbibb/brothers%2bin%2bbamako)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d3c065ad97b65ff68ed43fa8c2f07886.jpg' width='16%' height='16%' alt='Deftones - White Pony'>](https://www.last.fm/music/deftones/white%2bpony)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a9c961c8da0d4427b7d7a4018738f5df.png' width='16%' height='16%' alt='The Strokes - Room on Fire'>](https://www.last.fm/music/the%2bstrokes/room%2bon%2bfire)&nbsp;
 <br>
