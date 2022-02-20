@@ -4,7 +4,7 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/d_beley) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f5e0947c14b0d22edd8a832e9d9eb963.gif' width='16%' height='16%' alt='Big Thief - Dragon New Warm Mountain I Believe In You'>](https://www.last.fm/music/big%2bthief/dragon%2bnew%2bwarm%2bmountain%2bi%2bbelieve%2bin%2byou)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2564874af4af9498e7227367968adad3.jpg' width='16%' height='16%' alt='Big Thief - Dragon New Warm Mountain I Believe In You'>](https://www.last.fm/music/big%2bthief/dragon%2bnew%2bwarm%2bmountain%2bi%2bbelieve%2bin%2byou)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/34ea601d6add42eec2e3480a9f00b549.jpg' width='16%' height='16%' alt='The Hotelier - Home, Like Noplace Is There'>](https://www.last.fm/music/the%2bhotelier/home%252c%2blike%2bnoplace%2bis%2bthere)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/17341fb158c170f55d1f7ebbebb91657.jpg' width='16%' height='16%' alt='Amy Grant - Lead Me On'>](https://www.last.fm/music/amy%2bgrant/lead%2bme%2bon)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3c3daee0839bdb9ae8a0ce1dad86d275.jpg' width='16%' height='16%' alt='Justice - Woman Worldwide'>](https://www.last.fm/music/justice/woman%2bworldwide)&nbsp;
