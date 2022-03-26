@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ffc4fbb541481a402db13d265e846291.jpg' width='16%' height='16%' alt='Superpoze - Nova Cardinale'>](https://www.last.fm/music/superpoze/nova%2bcardinale)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7b0a7000d5f53779cd208d4702035c83.jpg' width='16%' height='16%' alt='Asian Glow - Weatherglow'>](https://www.last.fm/music/asian%2bglow/weatherglow)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5d201c8ec2406097afd85d3dd713eb5e.jpg' width='16%' height='16%' alt='Everything Everything - Teletype'>](https://www.last.fm/music/everything%2beverything/teletype)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7714f47afa9ec36485541f57638b1141.jpg' width='16%' height='16%' alt='Isis - Panopticon (Remastered)'>](https://www.last.fm/music/isis/panopticon%2b%2528remastered%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9209ec34e3db43fba2f364b32b7b9853.png' width='16%' height='16%' alt='Slint - Spiderland'>](https://www.last.fm/music/slint/spiderland)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/994bff76327da1a8e5d8c3306927d09d.jpg' width='16%' height='16%' alt='Cult of Luna - A Dawn to Fear'>](https://www.last.fm/music/cult%2bof%2bluna/a%2bdawn%2bto%2bfear)&nbsp;
 <br>
