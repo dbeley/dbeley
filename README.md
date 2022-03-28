@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ffc4fbb541481a402db13d265e846291.jpg' width='16%' height='16%' alt='Superpoze - Nova Cardinale'>](https://www.last.fm/music/superpoze/nova%2bcardinale)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7b0a7000d5f53779cd208d4702035c83.jpg' width='16%' height='16%' alt='Asian Glow - Weatherglow'>](https://www.last.fm/music/asian%2bglow/weatherglow)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9209ec34e3db43fba2f364b32b7b9853.png' width='16%' height='16%' alt='Slint - Spiderland'>](https://www.last.fm/music/slint/spiderland)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/24fda9a2eb274104c164711cba40260e.jpg' width='16%' height='16%' alt='EA Games Soundtrack - SimCity 3000'>](https://www.last.fm/music/ea%2bgames%2bsoundtrack/simcity%2b3000)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b2ac8a0af4f5100f4f95085130db6051.jpg' width='16%' height='16%' alt='Everything Everything - RE-ANIMATOR'>](https://www.last.fm/music/everything%2beverything/re-animator)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5d201c8ec2406097afd85d3dd713eb5e.jpg' width='16%' height='16%' alt='Everything Everything - Teletype'>](https://www.last.fm/music/everything%2beverything/teletype)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8a57f395a7b21653e569012419d602d6.jpg' width='16%' height='16%' alt='Sweet Trip - You Will Never Know Why'>](https://www.last.fm/music/sweet%2btrip/you%2bwill%2bnever%2bknow%2bwhy)&nbsp;
 <br>
