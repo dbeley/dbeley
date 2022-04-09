@@ -10,5 +10,4 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a1d4a48c01acd0d64bb5ba08655e4e64.jpg' width='16%' height='16%' alt='Jerry Martin - The Sims: Hot Date (Original Soundtrack)'>](https://www.last.fm/music/jerry%2bmartin/the%2bsims%253a%2bhot%2bdate%2b%2528original%2bsoundtrack%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2b6df25ec96644adc5708e24ce4171a3.jpg' width='16%' height='16%' alt='Jets to Brazil - Orange Rhyming Dictionary'>](https://www.last.fm/music/jets%2bto%2bbrazil/orange%2brhyming%2bdictionary)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e24ca3b43650ddd705583a6a936cfaa0.jpg' width='16%' height='16%' alt='Panic! at the Disco - Pretty. Odd.'>](https://www.last.fm/music/panic%2521%2bat%2bthe%2bdisco/pretty.%2bodd.)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/466c84cd35a6d7fca629647762f08c50.jpg' width='16%' height='16%' alt='Pedro the Lion - Its Hard To Find A Friend (Remastered)'>](https://www.last.fm/music/pedro%2bthe%2blion/it%2527s%2bhard%2bto%2bfind%2ba%2bfriend%2b%2528remastered%2529)&nbsp;
