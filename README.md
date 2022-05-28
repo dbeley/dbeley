@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/73b8545dec6e8faa2dc672407c7450d2.jpg' width='16%' height='16%' alt='Everything Everything - Man Alive'>](https://www.last.fm/music/everything%2beverything/man%2balive)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/102271a7f00843edc3b7c082fe831683.png' width='16%' height='16%' alt='Animal Collective - Feels'>](https://www.last.fm/music/animal%2bcollective/feels)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/29407341289f4cbcb88addfa9b5bd910.png' width='16%' height='16%' alt='Amon Amarth - Surtur Rising'>](https://www.last.fm/music/amon%2bamarth/surtur%2brising)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/91366265bc85e99f063bfa473c69130a.jpg' width='16%' height='16%' alt='Wilco - Cruel Country'>](https://www.last.fm/music/wilco/cruel%2bcountry)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4640ed44a20f51e519293430dc2c05e6.jpg' width='16%' height='16%' alt='Sonic Youth - Murray Street'>](https://www.last.fm/music/sonic%2byouth/murray%2bstreet)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8de422e81877ac2386add5abb5c9b758.png' width='16%' height='16%' alt='Everything Everything - Get to Heaven (Deluxe)'>](https://www.last.fm/music/everything%2beverything/get%2bto%2bheaven%2b%2528deluxe%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3b9e9decf68b4f109f57d72d8ebd4b4b.jpg' width='16%' height='16%' alt='Daft Punk - Alive 2007'>](https://www.last.fm/music/daft%2bpunk/alive%2b2007)&nbsp;
 <br>
