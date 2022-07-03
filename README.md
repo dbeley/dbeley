@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/dbdd94e78d771f9cd05420b37a1fec8e.jpg' width='16%' height='16%' alt='Kenny Barron - The Only One'>](https://www.last.fm/music/kenny%2bbarron/the%2bonly%2bone)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d0ac9bbe0b6a076cdf488bb099903d2b.jpg' width='16%' height='16%' alt='Kjetil Mulelid Trio - Who Do You Love the Most?'>](https://www.last.fm/music/kjetil%2bmulelid%2btrio/who%2bdo%2byou%2blove%2bthe%2bmost%253f)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9e99a61cb69cef165e4713f1a660efdb.jpg' width='16%' height='16%' alt='Soccer Mommy - Sometimes, Forever'>](https://www.last.fm/music/soccer%2bmommy/sometimes%252c%2bforever)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/492359f4c32c02e29eb7051843d5b418.png' width='16%' height='16%' alt='Tyler Childers - Purgatory'>](https://www.last.fm/music/tyler%2bchilders/purgatory)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a969e55ce541c3471839c56e38dc4e23.jpg' width='16%' height='16%' alt='Tingvall Trio - Dance'>](https://www.last.fm/music/tingvall%2btrio/dance)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6ed6a16770d10c9e4a02c351ebfa2905.jpg' width='16%' height='16%' alt='Triosence - Giulia'>](https://www.last.fm/music/triosence/giulia)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2008f9e97961418bc123371e794f187f.png' width='16%' height='16%' alt='Ben Folds - Rockin The Suburbs'>](https://www.last.fm/music/ben%2bfolds/rockin%2527%2bthe%2bsuburbs)&nbsp;
 <br>
