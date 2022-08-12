@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4916a8b825b644e3c47337d3dbb55cc6.jpg' width='16%' height='16%' alt='Talking Heads - More Songs About Buildings And Food (Deluxe Version)'>](https://www.last.fm/music/talking%2bheads/more%2bsongs%2babout%2bbuildings%2band%2bfood%2b%2528deluxe%2bversion%2529)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce59a10acb2a7b832e015916ac49b331.jpg' width='16%' height='16%' alt='Talking Heads - Talking Heads 77 (Deluxe Version)'>](https://www.last.fm/music/talking%2bheads/talking%2bheads%2b%252777%2b%2528deluxe%2bversion%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/30a053c0d8bb783dddd41c24d09b3eec.jpg' width='16%' height='16%' alt='XTC - Go 2'>](https://www.last.fm/music/xtc/go%2b2)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/372330feaf1a55a5e1d9b3c7a8f03331.jpg' width='16%' height='16%' alt='Ólafur Arnalds - re:member'>](https://www.last.fm/music/%25c3%2593lafur%2barnalds/re%253amember)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4c73a02e47044c23bdca67e673a66875.png' width='16%' height='16%' alt='Talking Heads - Naked'>](https://www.last.fm/music/talking%2bheads/naked)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8836d10c699527cf57fe719308a93b47.png' width='16%' height='16%' alt='XTC - Black Sea'>](https://www.last.fm/music/xtc/black%2bsea)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/30a053c0d8bb783dddd41c24d09b3eec.jpg' width='16%' height='16%' alt='XTC - Go 2'>](https://www.last.fm/music/xtc/go%2b2)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4c73a02e47044c23bdca67e673a66875.png' width='16%' height='16%' alt='Talking Heads - Naked'>](https://www.last.fm/music/talking%2bheads/naked)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d20d1b440bfb2d1d3591d2ceafd5ef6e.png' width='16%' height='16%' alt='David Bowie - Hunky Dory (2015 Remaster)'>](https://www.last.fm/music/david%2bbowie/hunky%2bdory%2b%25282015%2bremaster%2529)&nbsp;
 <br>
