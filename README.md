@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e729c23cdfc6cce2ea004e7fba1087bd.jpg' width='16%' height='16%' alt='Built to Spill - Perfect From Now On'>](https://www.last.fm/music/built%2bto%2bspill/perfect%2bfrom%2bnow%2bon)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/55292eb15e7e442a9f40f09625d6e111.png' width='16%' height='16%' alt='Interpol - Turn on the Bright Lights'>](https://www.last.fm/music/interpol/turn%2bon%2bthe%2bbright%2blights)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/af025490ffec4ca19e8305ea5459e794.png' width='16%' height='16%' alt='J Mascis - Several Shades of Why'>](https://www.last.fm/music/j%2bmascis/several%2bshades%2bof%2bwhy)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9e3123c042fb257fe1851e25400203af.png' width='16%' height='16%' alt='Jockstrap - I Love You Jennifer B'>](https://www.last.fm/music/jockstrap/i%2blove%2byou%2bjennifer%2bb)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d99cc5daafceea841ef62f76a6668228.png' width='16%' height='16%' alt='Jessy Lanza - Oh No'>](https://www.last.fm/music/jessy%2blanza/oh%2bno)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f7c5f945953e4723c7e022765d1f7a02.png' width='16%' height='16%' alt='FKA twigs - LP1'>](https://www.last.fm/music/fka%2btwigs/lp1)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/65c77be325b04c2eb2fec9674a7fa62a.jpg' width='16%' height='16%' alt='Fountains of Wayne - Fountains of Wayne'>](https://www.last.fm/music/fountains%2bof%2bwayne/fountains%2bof%2bwayne)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/db20e9df65b8da67cef97d8f3775a240.jpg' width='16%' height='16%' alt='Interpol - Marauder'>](https://www.last.fm/music/interpol/marauder)&nbsp;
 <br>
