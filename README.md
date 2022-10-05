@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/55481fd44edf4852c8625285fee044b4.png' width='16%' height='16%' alt='Tingvall Trio - Vattensaga'>](https://www.last.fm/music/tingvall%2btrio/vattensaga)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/13c32953ff36527b52346e0d00827337.png' width='16%' height='16%' alt='Turnover - Magnolia'>](https://www.last.fm/music/turnover/magnolia)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0bc8948eb2c1ed4fc91ecdf067d9ae73.jpg' width='16%' height='16%' alt='Turnover - Peripheral Vision'>](https://www.last.fm/music/turnover/peripheral%2bvision)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/38d948783315f9d1b34d182944213ce3.jpg' width='16%' height='16%' alt='FKA twigs - MAGDALENE'>](https://www.last.fm/music/fka%2btwigs/magdalene)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/db45e9b6f40ecf5e4184470e168b8b9f.jpg' width='16%' height='16%' alt='GoGo Penguin - GoGo Penguin'>](https://www.last.fm/music/gogo%2bpenguin/gogo%2bpenguin)&nbsp;
 <br>
