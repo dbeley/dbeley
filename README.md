@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c6cced0c3a979cb42a830503c91352c6.jpg' width='16%' height='16%' alt='Carly Rae Jepsen - The Loneliest Time'>](https://www.last.fm/music/carly%2brae%2bjepsen/the%2bloneliest%2btime)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b7498614ca565faaa2704654b638024e.png' width='16%' height='16%' alt='Frank Ocean - Blonde'>](https://www.last.fm/music/frank%2bocean/blonde)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bc5ef00110c4aa6ac04e69165fb8d5cd.jpg' width='16%' height='16%' alt='The Wrens - The Meadowlands'>](https://www.last.fm/music/the%2bwrens/the%2bmeadowlands)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d647e85465de261a1701677b9a00918f.png' width='16%' height='16%' alt='The Wrens - The Meadowlands'>](https://www.last.fm/music/the%2bwrens/the%2bmeadowlands)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/54010ae7c4fa4c96a1e1872a051d9ecc.png' width='16%' height='16%' alt='Daft Punk - Discovery'>](https://www.last.fm/music/daft%2bpunk/discovery)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4e86a2fe9bee4506c55b6bcbb8a3c9f9.png' width='16%' height='16%' alt='Wire - 154'>](https://www.last.fm/music/wire/154)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3396577d877e455bc52cf48ae44134ac.png' width='16%' height='16%' alt='The Promise Ring - Nothing Feels Good'>](https://www.last.fm/music/the%2bpromise%2bring/nothing%2bfeels%2bgood)&nbsp;
 <br>
