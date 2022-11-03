@@ -5,14 +5,14 @@
 ### My most listened albums on [last.fm](https://www.last.fm/user/d_beley) in the last week
 
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d8cd54c758d1a52cb75b72da7cad2f8c.jpg' width='16%' height='16%' alt='Frank Ocean - Endless'>](https://www.last.fm/music/frank%2bocean/endless)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6d10df130130101bb903958a3ee4c834.jpg' width='16%' height='16%' alt='Gilla Band - Most Normal'>](https://www.last.fm/music/gilla%2bband/most%2bnormal)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/740b1a416efe0cce9d9fd899db23fd85.png' width='16%' height='16%' alt='Wire - Pink Flag'>](https://www.last.fm/music/wire/pink%2bflag)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cc93b6f2904a488fbda811f198b50205.png' width='16%' height='16%' alt='Wire - Chairs Missing'>](https://www.last.fm/music/wire/chairs%2bmissing)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/25ce786fd39a4b1083dc1f60de4ee45a.jpg' width='16%' height='16%' alt='The Wrens - Secaucus'>](https://www.last.fm/music/the%2bwrens/secaucus)&nbsp;
-<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c6cced0c3a979cb42a830503c91352c6.jpg' width='16%' height='16%' alt='Carly Rae Jepsen - The Loneliest Time'>](https://www.last.fm/music/carly%2brae%2bjepsen/the%2bloneliest%2btime)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b7498614ca565faaa2704654b638024e.png' width='16%' height='16%' alt='Frank Ocean - Blonde'>](https://www.last.fm/music/frank%2bocean/blonde)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0f5edf4c2e1f4e839a8f90c6385b8763.jpg' width='16%' height='16%' alt='Squeeze - Cool For Cats'>](https://www.last.fm/music/squeeze/cool%2bfor%2bcats)&nbsp;
+<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3396577d877e455bc52cf48ae44134ac.png' width='16%' height='16%' alt='The Promise Ring - Nothing Feels Good'>](https://www.last.fm/music/the%2bpromise%2bring/nothing%2bfeels%2bgood)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4e86a2fe9bee4506c55b6bcbb8a3c9f9.png' width='16%' height='16%' alt='Wire - 154'>](https://www.last.fm/music/wire/154)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0556b8ef074bcdecae3a7a7973342466.png' width='16%' height='16%' alt='Colin Newman - A-Z'>](https://www.last.fm/music/colin%2bnewman/a-z)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5db0f8e9158f7949081cfba4ab0f02f7.jpg' width='16%' height='16%' alt='Squeeze - Argybargy'>](https://www.last.fm/music/squeeze/argybargy)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1b3c8fb4dce3d050127fb18c88217942.jpg' width='16%' height='16%' alt='tricot - T H E'>](https://www.last.fm/music/tricot/t%2bh%2be)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/995af5dcc34ca5eaa2640d8baa8adcfb.jpg' width='16%' height='16%' alt='Brad Mehldau - Largo'>](https://www.last.fm/music/brad%2bmehldau/largo)&nbsp;
 <br>
