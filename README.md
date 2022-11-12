@@ -10,9 +10,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2b3066697976457fc534199f15ff9ebd.png' width='16%' height='16%' alt='Omnium Gatherum - Beyond'>](https://www.last.fm/music/omnium%2bgatherum/beyond)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9497107e512845f7c5a8491588263149.png' width='16%' height='16%' alt='Peter Gabriel - Peter Gabriel'>](https://www.last.fm/music/peter%2bgabriel/peter%2bgabriel)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5656bfb83551da67c2fc23018fba80a7.jpg' width='16%' height='16%' alt='Swell Maps - Jane From Occupied Europe'>](https://www.last.fm/music/swell%2bmaps/jane%2bfrom%2boccupied%2beurope)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/154584359b02ee386c3e4b35274021d2.jpg' width='16%' height='16%' alt='New Order - Substance 1987'>](https://www.last.fm/music/new%2border/substance%2b1987)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1ae4b27ddf42af90d7d085b951955458.jpg' width='16%' height='16%' alt='Cleaners From Venus - Blow Away Your Troubles'>](https://www.last.fm/music/cleaners%2bfrom%2bvenus/blow%2baway%2byour%2btroubles)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e85613f254fc46b0bf6b9c164bcc8580.png' width='16%' height='16%' alt='Disillusion - Back To Times of Splendor'>](https://www.last.fm/music/disillusion/back%2bto%2btimes%2bof%2bsplendor)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a2421a41fa9246368a0eec13715d2dca.png' width='16%' height='16%' alt='Mission of Burma - Vs.'>](https://www.last.fm/music/mission%2bof%2bburma/vs.)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8100872cf2438a1becc6f64859382cea.png' width='16%' height='16%' alt='Unwound - The Future of What'>](https://www.last.fm/music/unwound/the%2bfuture%2bof%2bwhat)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a6402bd935da8e2263b6fcd7becb5211.jpg' width='16%' height='16%' alt='New Order - Republic'>](https://www.last.fm/music/new%2border/republic)&nbsp;
 <br>
