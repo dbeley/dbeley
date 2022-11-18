@@ -8,7 +8,7 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1f9388c0cd63b11947971039863f6256.jpg' width='16%' height='16%' alt='Valium Aggelein - Black Moon'>](https://www.last.fm/music/valium%2baggelein/black%2bmoon)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0e8e2798a498c100fc3254f507cb28e9.png' width='16%' height='16%' alt='Erika de Casier - Sensational'>](https://www.last.fm/music/erika%2bde%2bcasier/sensational)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3d3a72ad16c941983af96a805eefeee3.jpg' width='16%' height='16%' alt='The World Is a Beautiful Place & I Am No Longer Afraid to Die - Harmlessness'>](https://www.last.fm/music/the%2bworld%2bis%2ba%2bbeautiful%2bplace%2b%2526%2bi%2bam%2bno%2blonger%2bafraid%2bto%2bdie/harmlessness)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8100872cf2438a1becc6f64859382cea.png' width='16%' height='16%' alt='Unwound - The Future of What'>](https://www.last.fm/music/unwound/the%2bfuture%2bof%2bwhat)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8214c56f1e5bc67fcd1f29073dedf822.jpg' width='16%' height='16%' alt='Weyes Blood - And In The Darkness, Hearts Aglow'>](https://www.last.fm/music/weyes%2bblood/and%2bin%2bthe%2bdarkness%252c%2bhearts%2baglow)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/de4e0824479b1107d11867cc58fe7f0c.png' width='16%' height='16%' alt='Allie X - CollXtion I'>](https://www.last.fm/music/allie%2bx/collxtion%2bi)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1fdb8604f3a84f9c8b1079722ddfc530.png' width='16%' height='16%' alt='Esbjörn Svensson Trio - Seven Days of Falling'>](https://www.last.fm/music/esbj%25c3%25b6rn%2bsvensson%2btrio/seven%2bdays%2bof%2bfalling)&nbsp;
