@@ -10,9 +10,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/665e4a8c056bec1450a184ac17db4a6c.jpg' width='16%' height='16%' alt='Esbjörn Svensson - HOME.S.'>](https://www.last.fm/music/esbj%25c3%25b6rn%2bsvensson/home.s.)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/38cc95656ad37f1eb52204d6023c7c8b.png' width='16%' height='16%' alt='Secos & Molhados - Secos & Molhados'>](https://www.last.fm/music/secos%2b%2526%2bmolhados/secos%2b%2526%2bmolhados)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/46c99df80d054250844d6f120252f033.png' width='16%' height='16%' alt='Paavoharju - Yhä hämärää'>](https://www.last.fm/music/paavoharju/yh%25c3%25a4%2bh%25c3%25a4m%25c3%25a4r%25c3%25a4%25c3%25a4)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f629286ae5b14d23ac91cb246ced1760.png' width='16%' height='16%' alt='Pure Reason Revolution - The Dark Third'>](https://www.last.fm/music/pure%2breason%2brevolution/the%2bdark%2bthird)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3746d8f485644e6cce18efc2d695cd46.jpg' width='16%' height='16%' alt='Sport - Bon Voyage'>](https://www.last.fm/music/sport/bon%2bvoyage)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/77f358d1097ee096cc2126077132cfdf.jpg' width='16%' height='16%' alt='Sport - Colors'>](https://www.last.fm/music/sport/colors)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9b51e54a39648a1a1f59699615664e4a.jpg' width='16%' height='16%' alt='Alela Diane - To Be Still'>](https://www.last.fm/music/alela%2bdiane/to%2bbe%2bstill)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/75883b157b66a8e6ed5f1c39dec07113.png' width='16%' height='16%' alt='fantomes - ITS OK'>](https://www.last.fm/music/fantomes/it%2527s%2bok)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/578e56d6004946b99ebf5e3c8be0c38c.jpg' width='16%' height='16%' alt='Mineral - End Serenading'>](https://www.last.fm/music/mineral/end%2bserenading)&nbsp;
 <br>
