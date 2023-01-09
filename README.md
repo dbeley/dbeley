@@ -8,7 +8,7 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/99673877e7c144d4af973b49b0cbda59.png' width='16%' height='16%' alt='Harold Budd/Brian Eno - Ambient 2: The Plateaux of Mirror'>](https://www.last.fm/music/harold%2bbudd%252fbrian%2beno/ambient%2b2%253a%2bthe%2bplateaux%2bof%2bmirror)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/918055ba2eb81528f93a8924dbab88f8.jpg' width='16%' height='16%' alt='Brian Eno - Another Green World'>](https://www.last.fm/music/brian%2beno/another%2bgreen%2bworld)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e89c8997eb8cc31f6b4c5cdddead3419.png' width='16%' height='16%' alt='Brian Eno - Here Come the Warm Jets'>](https://www.last.fm/music/brian%2beno/here%2bcome%2bthe%2bwarm%2bjets)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5d0f34e54ff6d23341d24e91961a7d51.jpg' width='16%' height='16%' alt='Gonzales - Solo Piano'>](https://www.last.fm/music/gonzales/solo%2bpiano)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/87ae47a40ab86440b84423ff26f578e3.jpg' width='16%' height='16%' alt='Tigers Jaw - Tigers Jaw'>](https://www.last.fm/music/tigers%2bjaw/tigers%2bjaw)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e6c9498cd329bd1a80f940c0fe0ba55c.jpg' width='16%' height='16%' alt='Brian Eno - Taking Tiger Mountain (By Strategy)'>](https://www.last.fm/music/brian%2beno/taking%2btiger%2bmountain%2b%2528by%2bstrategy%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6d49060026f44d69cd67a7cffa6e3092.png' width='16%' height='16%' alt='Dr. Dre - The Chronic'>](https://www.last.fm/music/dr.%2bdre/the%2bchronic)&nbsp;
