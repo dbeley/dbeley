@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bb97634d5dcb44bf80367cf4e2deb676.png' width='16%' height='16%' alt='Amorphis - Skyforger'>](https://www.last.fm/music/amorphis/skyforger)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/317edcca0a0a4c70b002a73b30cc1dc4.png' width='16%' height='16%' alt='Elliott Smith - Elliott Smith'>](https://www.last.fm/music/elliott%2bsmith/elliott%2bsmith)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/45c8158f321d0a42570513d35110133b.jpg' width='16%' height='16%' alt='Rufus Wainwright - Poses'>](https://www.last.fm/music/rufus%2bwainwright/poses)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/721d3c7c259f4ac2b39c80a59ddade1e.png' width='16%' height='16%' alt='The Decemberists - Picaresque'>](https://www.last.fm/music/the%2bdecemberists/picaresque)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/02dbed3e2c6bdc65bd3639cd596f5244.jpg' width='16%' height='16%' alt='The Mountain Goats - Tallahassee'>](https://www.last.fm/music/the%2bmountain%2bgoats/tallahassee)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c2312403b76a4d75b23b2b5134142d58.png' width='16%' height='16%' alt='Bob Dylan - Highway 61 Revisited'>](https://www.last.fm/music/bob%2bdylan/highway%2b61%2brevisited)&nbsp;
 <br>
