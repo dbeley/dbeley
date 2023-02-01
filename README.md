@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/daf17bc1013ebe92f8f2b230bfbd5b5e.jpg' width='16%' height='16%' alt='St. Vincent - MASSEDUCTION'>](https://www.last.fm/music/st.%2bvincent/masseduction)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6cb91d2c3e554b028133947dfae73b43.png' width='16%' height='16%' alt='Nirvana - Bleach'>](https://www.last.fm/music/nirvana/bleach)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bbada71ff1b507cde53b28a9fb18000e.jpg' width='16%' height='16%' alt='Richard Dawson - Peasant'>](https://www.last.fm/music/richard%2bdawson/peasant)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1f121c245f7646e6c639bcd458ecd2ac.jpg' width='16%' height='16%' alt='Gonzales - Chambers'>](https://www.last.fm/music/gonzales/chambers)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/317edcca0a0a4c70b002a73b30cc1dc4.png' width='16%' height='16%' alt='Elliott Smith - Elliott Smith'>](https://www.last.fm/music/elliott%2bsmith/elliott%2bsmith)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/45c8158f321d0a42570513d35110133b.jpg' width='16%' height='16%' alt='Rufus Wainwright - Poses'>](https://www.last.fm/music/rufus%2bwainwright/poses)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/16360c78f9c74cc6828c0a262711340a.jpg' width='16%' height='16%' alt='Gonzales - Soft Power'>](https://www.last.fm/music/gonzales/soft%2bpower)&nbsp;
 <br>
