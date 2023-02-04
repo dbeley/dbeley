@@ -11,7 +11,7 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/20b804edd49da9c2aad646438207c251.jpg' width='16%' height='16%' alt='Thinking Fellers Union Local 282 - Mother of All Saints'>](https://www.last.fm/music/thinking%2bfellers%2bunion%2blocal%2b282/mother%2bof%2ball%2bsaints)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9639167f93114bf6fee449cad0ff5322.jpg' width='16%' height='16%' alt='Algernon Cadwallader - Parrot Flies'>](https://www.last.fm/music/algernon%2bcadwallader/parrot%2bflies)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/45c8158f321d0a42570513d35110133b.jpg' width='16%' height='16%' alt='Rufus Wainwright - Poses'>](https://www.last.fm/music/rufus%2bwainwright/poses)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a40d4c6f854242398a7c53e067e450a6.png' width='16%' height='16%' alt='Bob Dylan - Bringing It All Back Home'>](https://www.last.fm/music/bob%2bdylan/bringing%2bit%2ball%2bback%2bhome)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/16360c78f9c74cc6828c0a262711340a.jpg' width='16%' height='16%' alt='Gonzales - Soft Power'>](https://www.last.fm/music/gonzales/soft%2bpower)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg' width='16%' height='16%' alt='Low - HEY WHAT'>](https://www.last.fm/music/low/hey%2bwhat)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f94bc2235f6e15cd4ec679371b328440.png' width='16%' height='16%' alt='Poppy - Poppy.Computer'>](https://www.last.fm/music/poppy/poppy.computer)&nbsp;
