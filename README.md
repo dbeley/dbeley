@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9639167f93114bf6fee449cad0ff5322.jpg' width='16%' height='16%' alt='Algernon Cadwallader - Parrot Flies'>](https://www.last.fm/music/algernon%2bcadwallader/parrot%2bflies)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a40d4c6f854242398a7c53e067e450a6.png' width='16%' height='16%' alt='Bob Dylan - Bringing It All Back Home'>](https://www.last.fm/music/bob%2bdylan/bringing%2bit%2ball%2bback%2bhome)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg' width='16%' height='16%' alt='Low - HEY WHAT'>](https://www.last.fm/music/low/hey%2bwhat)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f94bc2235f6e15cd4ec679371b328440.png' width='16%' height='16%' alt='Poppy - Poppy.Computer'>](https://www.last.fm/music/poppy/poppy.computer)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5217cefa23a14e6470cd577eeda668ac.jpg' width='16%' height='16%' alt='Requin Chagrin - BYE BYE BABY'>](https://www.last.fm/music/requin%2bchagrin/bye%2bbye%2bbaby)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/852313c699366925cd1bde4bf9261e60.jpg' width='16%' height='16%' alt='Systems Officer - Underslept'>](https://www.last.fm/music/systems%2bofficer/underslept)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3df94f21acca286411eae70389f73894.jpg' width='16%' height='16%' alt='Indigo De Souza - Any Shape You Take'>](https://www.last.fm/music/indigo%2bde%2bsouza/any%2bshape%2byou%2btake)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a08c306ddf5b178ba0448efdfa106cf6.jpg' width='16%' height='16%' alt='Le Aids - Cum To Get Her'>](https://www.last.fm/music/le%2baids/cum%2bto%2bget%2bher)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6c995a96166bd8cf25d80f2e7f918291.jpg' width='16%' height='16%' alt='Nilüfer Yanya - Miss Universe'>](https://www.last.fm/music/nil%25c3%25bcfer%2byanya/miss%2buniverse)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/47eda98f52553c82c4dde3d833a3cde4.png' width='16%' height='16%' alt='Nilüfer Yanya - PAINLESS'>](https://www.last.fm/music/nil%25c3%25bcfer%2byanya/painless)&nbsp;
 <br>
