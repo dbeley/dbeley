@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/21b87f7dd4ae908bd24bd964645bffa1.jpg' width='16%' height='16%' alt='Kelela - Raven'>](https://www.last.fm/music/kelela/raven)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/76aab8ff90b36f27a15fa3b6e5b15ee1.jpg' width='16%' height='16%' alt='M83 - DSVII'>](https://www.last.fm/music/m83/dsvii)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a2421a41fa9246368a0eec13715d2dca.png' width='16%' height='16%' alt='Mission of Burma - Vs.'>](https://www.last.fm/music/mission%2bof%2bburma/vs.)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/71d8ef4d0ca6e452a2b3f6d544241327.jpg' width='16%' height='16%' alt='Yo La Tengo - Electr‐O‐Pura'>](https://www.last.fm/music/yo%2bla%2btengo/electr%25e2%2580%2590o%25e2%2580%2590pura)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2cdf6ad30c87420f92a4b3476d899cd8.png' width='16%' height='16%' alt='In Flames - Sounds of a Playground Fading'>](https://www.last.fm/music/in%2bflames/sounds%2bof%2ba%2bplayground%2bfading)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a2421a41fa9246368a0eec13715d2dca.png' width='16%' height='16%' alt='Mission of Burma - Vs.'>](https://www.last.fm/music/mission%2bof%2bburma/vs.)&nbsp;
 <br>
