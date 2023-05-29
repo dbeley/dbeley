@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5e055c9842304178ecd5a31d7edccfdf.jpg' width='16%' height='16%' alt='山下達郎 - RIDE ON TIME'>](https://www.last.fm/music/%25e5%25b1%25b1%25e4%25b8%258b%25e9%2581%2594%25e9%2583%258e/ride%2bon%2btime)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/710205ca393a2f47693d9e83356f4cdb.jpg' width='16%' height='16%' alt='山下達郎 - Spacy'>](https://www.last.fm/music/%25e5%25b1%25b1%25e4%25b8%258b%25e9%2581%2594%25e9%2583%258e/spacy)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9508856b4a0c8f380809017af9f61974.jpg' width='16%' height='16%' alt='The Velvet Underground - The Velvet Underground'>](https://www.last.fm/music/the%2bvelvet%2bunderground/the%2bvelvet%2bunderground)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/119ab04e57984577b61a87683c6391f3.png' width='16%' height='16%' alt='Jerry Martin - SimCity 3000: The Soundtrack'>](https://www.last.fm/music/jerry%2bmartin/simcity%2b3000%253a%2bthe%2bsoundtrack)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6128d8abe69f4784c7b0effe681e03d9.png' width='16%' height='16%' alt='Nico - Chelsea Girl'>](https://www.last.fm/music/nico/chelsea%2bgirl)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7db7419e66d48de7332cd8416c43c6d3.jpg' width='16%' height='16%' alt='平沢進 - Aurora'>](https://www.last.fm/music/%25e5%25b9%25b3%25e6%25b2%25a2%25e9%2580%25b2/aurora)&nbsp;
 <br>
