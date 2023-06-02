@@ -6,13 +6,13 @@
 
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0f560c1847e57e06001e3072cacf3c2b.jpg' width='16%' height='16%' alt='Doopees - Doopee Time'>](https://www.last.fm/music/doopees/doopee%2btime)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f31ec2ac9b822663f1d0f0da3b3a4c38.jpg' width='16%' height='16%' alt='Fountains of Wayne - Out-Of-State Plates'>](https://www.last.fm/music/fountains%2bof%2bwayne/out-of-state%2bplates)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ff4a2bb77b1d2b83a7c0cda3e4001541.png' width='16%' height='16%' alt='平沢進 - Siren'>](https://www.last.fm/music/%25e5%25b9%25b3%25e6%25b2%25a2%25e9%2580%25b2/siren)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5e055c9842304178ecd5a31d7edccfdf.jpg' width='16%' height='16%' alt='山下達郎 - RIDE ON TIME'>](https://www.last.fm/music/%25e5%25b1%25b1%25e4%25b8%258b%25e9%2581%2594%25e9%2583%258e/ride%2bon%2btime)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/710205ca393a2f47693d9e83356f4cdb.jpg' width='16%' height='16%' alt='山下達郎 - Spacy'>](https://www.last.fm/music/%25e5%25b1%25b1%25e4%25b8%258b%25e9%2581%2594%25e9%2583%258e/spacy)&nbsp;
-<br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7db7419e66d48de7332cd8416c43c6d3.jpg' width='16%' height='16%' alt='平沢進 - Aurora'>](https://www.last.fm/music/%25e5%25b9%25b3%25e6%25b2%25a2%25e9%2580%25b2/aurora)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a701c081706b4fda99d72aae99b9afa6.png' width='16%' height='16%' alt='Kraftwerk - Trans Europa Express'>](https://www.last.fm/music/kraftwerk/trans%2beuropa%2bexpress)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c18a765927dcd3befa8b63a587fc625e.jpg' width='16%' height='16%' alt='Yellow Magic Orchestra - Solid State Survivor'>](https://www.last.fm/music/yellow%2bmagic%2borchestra/solid%2bstate%2bsurvivor)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/305bec30f2d2412a2844ffa6d4e41065.jpg' width='16%' height='16%' alt='平沢進 - 救済の技法'>](https://www.last.fm/music/%25e5%25b9%25b3%25e6%25b2%25a2%25e9%2580%25b2/%25e6%2595%2591%25e6%25b8%2588%25e3%2581%25ae%25e6%258a%2580%25e6%25b3%2595)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b659f05d170579fb00458aed64d358cb.jpg' width='16%' height='16%' alt='Eddie Henderson - Heritage'>](https://www.last.fm/music/eddie%2bhenderson/heritage)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9c6865592dbe88c5e456edc3dac396cd.jpg' width='16%' height='16%' alt='Ginger Root - City Slicker'>](https://www.last.fm/music/ginger%2broot/city%2bslicker)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/72b9cc7810704015c05ed256b9fec928.jpg' width='16%' height='16%' alt='Rick Wakeman - Rick Wakemans Criminal Record'>](https://www.last.fm/music/rick%2bwakeman/rick%2bwakeman%2527s%2bcriminal%2brecord)&nbsp;
+<br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/027b859945aa4b39b6d2ad41e19ac38c.png' width='16%' height='16%' alt='Rick Wakeman - The Six Wives Of Henry VIII'>](https://www.last.fm/music/rick%2bwakeman/the%2bsix%2bwives%2bof%2bhenry%2bviii)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5ef60827d20b41498e396e14777a0024.jpg' width='16%' height='16%' alt='Opal - Early Recordings'>](https://www.last.fm/music/opal/early%2brecordings)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4177867652d71f7b36588ada2ef5dc03.jpg' width='16%' height='16%' alt='Dolphin - Звезда'>](https://www.last.fm/music/dolphin/%25d0%2597%25d0%25b2%25d0%25b5%25d0%25b7%25d0%25b4%25d0%25b0)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fea5d8167e396c8fe60e8dd31da40c73.jpg' width='16%' height='16%' alt='The National - First Two Pages of Frankenstein'>](https://www.last.fm/music/the%2bnational/first%2btwo%2bpages%2bof%2bfrankenstein)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e25e212cf2b24b759275ad993fc7ceab.jpg' width='16%' height='16%' alt='Rick Wakeman - The Piano Album'>](https://www.last.fm/music/rick%2bwakeman/the%2bpiano%2balbum)&nbsp;
 <br>
