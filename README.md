@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/617da94739994953c9dead5f00a6972c.png' width='16%' height='16%' alt='Kanye West - Yeezus'>](https://www.last.fm/music/kanye%2bwest/yeezus)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d1a6635c265ad6b80a5aa1619fe4b33f.jpg' width='16%' height='16%' alt='Protomartyr - Formal Growth in the Desert'>](https://www.last.fm/music/protomartyr/formal%2bgrowth%2bin%2bthe%2bdesert)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e331d7ccf4b99a326e9bd62cced019ab.jpg' width='16%' height='16%' alt='Chris Stapleton - Starting Over'>](https://www.last.fm/music/chris%2bstapleton/starting%2bover)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/824d6fe0b424b132b67dd6ab6ec0720a.png' width='16%' height='16%' alt='JPEGMAFIA - LP!'>](https://www.last.fm/music/jpegmafia/lp%2521)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/037b23a0412996806a14d24ff1fcf763.jpg' width='16%' height='16%' alt='JPEGMAFIA - LP!'>](https://www.last.fm/music/jpegmafia/lp%2521)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d56d20d9b72937e4655cc069f3df09ef.jpg' width='16%' height='16%' alt='Kanye West - 808s & Heartbreak'>](https://www.last.fm/music/kanye%2bwest/808s%2b%2526%2bheartbreak)&nbsp;
 <br>
