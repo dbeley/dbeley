@@ -10,9 +10,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6bc1781107a6ff90158c0ab222188b0d.jpg' width='16%' height='16%' alt='PJ Harvey - Stories From the City, Stories From the Sea'>](https://www.last.fm/music/pj%2bharvey/stories%2bfrom%2bthe%2bcity%252c%2bstories%2bfrom%2bthe%2bsea)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b47929a57fc4a51fd2e4b2569af7899f.png' width='16%' height='16%' alt='Chico Buarque - Construção'>](https://www.last.fm/music/chico%2bbuarque/constru%25c3%25a7%25c3%25a3o)&nbsp;
 <br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1c2e684b6752676cee5bcd3cde74dc9f.jpg' width='16%' height='16%' alt='Julius Rodriguez - Let Sound Tell All'>](https://www.last.fm/music/julius%2brodriguez/let%2bsound%2btell%2ball)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/00a5855b1ca82212bd3292bcbedbe1b0.jpg' width='16%' height='16%' alt='Miriam Makeba - Miriam Makeba'>](https://www.last.fm/music/miriam%2bmakeba/miriam%2bmakeba)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1d07b423b5075165cbc723376475e078.jpg' width='16%' height='16%' alt='Sigur Rós - ÁTTA'>](https://www.last.fm/music/sigur%2br%25c3%25b3s/%25c3%2581tta)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/65cbb61bd8eb4390ba677761eb18a524.jpg' width='16%' height='16%' alt='Violeta Parra - Las últimas composiciones de Violeta Parra'>](https://www.last.fm/music/violeta%2bparra/las%2b%25c3%25baltimas%2bcomposiciones%2bde%2bvioleta%2bparra)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d47585bf3ece259d3ac79330a062b207.png' width='16%' height='16%' alt='PJ Harvey - To Bring You My Love'>](https://www.last.fm/music/pj%2bharvey/to%2bbring%2byou%2bmy%2blove)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f76fb79ea21151a98679ec398798bd4e.jpg' width='16%' height='16%' alt='Brad Mehldau - Your Mother Should Know: Brad Mehldau Plays The Beatles'>](https://www.last.fm/music/brad%2bmehldau/your%2bmother%2bshould%2bknow%253a%2bbrad%2bmehldau%2bplays%2bthe%2bbeatles)&nbsp;
 <br>
