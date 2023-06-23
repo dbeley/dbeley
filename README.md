@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/15de59aabf8613156cd34f403a8dd621.jpg' width='16%' height='16%' alt='Hania Rani - Home'>](https://www.last.fm/music/hania%2brani/home)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/75fd8ce5a9ac4d469da56d345c767a5b.png' width='16%' height='16%' alt='Jonny Greenwood - There Will Be Blood'>](https://www.last.fm/music/jonny%2bgreenwood/there%2bwill%2bbe%2bblood)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/aac036c27488a38e5d27eee86bab88c5.jpg' width='16%' height='16%' alt='Jorge Ben Jor - A Tábua de Esmeralda'>](https://www.last.fm/music/jorge%2bben%2bjor/a%2bt%25c3%25a1bua%2bde%2besmeralda)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/81da75b4b7754a6dcab7c01513d5edf0.jpg' width='16%' height='16%' alt='PJ Harvey - Is This Desire?'>](https://www.last.fm/music/pj%2bharvey/is%2bthis%2bdesire%253f)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6bc1781107a6ff90158c0ab222188b0d.jpg' width='16%' height='16%' alt='PJ Harvey - Stories From the City, Stories From the Sea'>](https://www.last.fm/music/pj%2bharvey/stories%2bfrom%2bthe%2bcity%252c%2bstories%2bfrom%2bthe%2bsea)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/aa5384ba774a40c891e93229ab31843e.png' width='16%' height='16%' alt='Sloan - Twice Removed'>](https://www.last.fm/music/sloan/twice%2bremoved)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3021935443064eddaaa090048a1f4917.png' width='16%' height='16%' alt='Spoon - Kill the Moonlight'>](https://www.last.fm/music/spoon/kill%2bthe%2bmoonlight)&nbsp;
 <br>
