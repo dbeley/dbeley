@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/77f0b11de4054f2dbd54518764dd91b6.png' width='16%' height='16%' alt='Edan - Beauty and the Beat'>](https://www.last.fm/music/edan/beauty%2band%2bthe%2bbeat)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/15de59aabf8613156cd34f403a8dd621.jpg' width='16%' height='16%' alt='Hania Rani - Home'>](https://www.last.fm/music/hania%2brani/home)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d1d6cd7968608a8e88d87f5cf07d078f.jpg' width='16%' height='16%' alt='KNOWER - KNOWER FOREVER'>](https://www.last.fm/music/knower/knower%2bforever)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/aa5384ba774a40c891e93229ab31843e.png' width='16%' height='16%' alt='Sloan - Twice Removed'>](https://www.last.fm/music/sloan/twice%2bremoved)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3021935443064eddaaa090048a1f4917.png' width='16%' height='16%' alt='Spoon - Kill the Moonlight'>](https://www.last.fm/music/spoon/kill%2bthe%2bmoonlight)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/400dc3c0fe064e739424f2f1bf95561b.jpg' width='16%' height='16%' alt='Triosence - Turning Points'>](https://www.last.fm/music/triosence/turning%2bpoints)&nbsp;
 <br>
