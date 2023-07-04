@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c7d8eb8329e04143ac9ffb50b1af3275.png' width='16%' height='16%' alt='Paul McCartney - Run Devil Run'>](https://www.last.fm/music/paul%2bmccartney/run%2bdevil%2brun)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/abd1db0a5e4c44689a1644e67d758675.jpg' width='16%' height='16%' alt='The Beatles - 1962–1966'>](https://www.last.fm/music/the%2bbeatles/1962%25e2%2580%25931966)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ee4ae5e611f68e5b61e2b89425cc3bbd.png' width='16%' height='16%' alt='Unwound - Repetition'>](https://www.last.fm/music/unwound/repetition)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/833791c760a82dd35a16a8bf07b0521d.jpg' width='16%' height='16%' alt='Wings - Band on the Run'>](https://www.last.fm/music/wings/band%2bon%2bthe%2brun)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fbec3f7f04294706bff430b1402208af.jpg' width='16%' height='16%' alt='The Beatles - Let It Be… Naked'>](https://www.last.fm/music/the%2bbeatles/let%2bit%2bbe%25e2%2580%25a6%2bnaked)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/dc090e9f477a77c67f60da3203cedca1.png' width='16%' height='16%' alt='Weezer - Weezer (White Album)'>](https://www.last.fm/music/weezer/weezer%2b%2528white%2balbum%2529)&nbsp;
 <br>
