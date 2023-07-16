@@ -4,15 +4,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/d_beley) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0e17c97cccf44f7a85bb6c1c4029c0c9.png' width='16%' height='16%' alt='The Beatles - The Beatles'>](https://www.last.fm/music/the%2bbeatles/the%2bbeatles)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/999f26234f9c4e0db4997363bdf60087.png' width='16%' height='16%' alt='Electric Light Orchestra - Out of the Blue'>](https://www.last.fm/music/electric%2blight%2borchestra/out%2bof%2bthe%2bblue)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/af251669a48a4bafb448e1f6c0de01be.png' width='16%' height='16%' alt='The Beatles - Abbey Road'>](https://www.last.fm/music/the%2bbeatles/abbey%2broad)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d1a4000bd1184227b2c71fc52959b17b.png' width='16%' height='16%' alt='John Lennon - Lennon Legend: The Very Best of John Lennon'>](https://www.last.fm/music/john%2blennon/lennon%2blegend%253a%2bthe%2bvery%2bbest%2bof%2bjohn%2blennon)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/24c1bc6fa6e54fdf86fd709caed380cb.png' width='16%' height='16%' alt='The Beatles - Beatles for Sale'>](https://www.last.fm/music/the%2bbeatles/beatles%2bfor%2bsale)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/acb7a8b589c9694e30afbd745e6377d2.png' width='16%' height='16%' alt='George Harrison - All Things Must Pass'>](https://www.last.fm/music/george%2bharrison/all%2bthings%2bmust%2bpass)&nbsp;
-<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9337d8992cb242a1c2c24eaa6f324ce8.jpg' width='16%' height='16%' alt='Townes Van Zandt - Townes Van Zandt'>](https://www.last.fm/music/townes%2bvan%2bzandt/townes%2bvan%2bzandt)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/72ed10a859fb4c1fb29a546078ec737d.png' width='16%' height='16%' alt='The Beatles - Rubber Soul'>](https://www.last.fm/music/the%2bbeatles/rubber%2bsoul)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3e78eb567c474d2f817e49f4341c1033.png' width='16%' height='16%' alt='The Beatles - Help!'>](https://www.last.fm/music/the%2bbeatles/help%2521)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/473e3d1fde794405a28470fa3399b7d8.png' width='16%' height='16%' alt='The Beatles - Please Please Me'>](https://www.last.fm/music/the%2bbeatles/please%2bplease%2bme)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/deaec2d4735bea0d1c45fc75261624ae.jpg' width='16%' height='16%' alt='The Beatles - Revolver'>](https://www.last.fm/music/the%2bbeatles/revolver)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/51cb4d07939e4dad9de3c3ddde6f2e0c.jpg' width='16%' height='16%' alt='Eric Legnini Trio - Ballads'>](https://www.last.fm/music/eric%2blegnini%2btrio/ballads)&nbsp;
+<br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/333cf35f8b8d4784ae94a1938a630606.jpg' width='16%' height='16%' alt='The Rutles - The Rutles'>](https://www.last.fm/music/the%2brutles/the%2brutles)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0a66b8a4c85ecb75445af425445a1788.jpg' width='16%' height='16%' alt='Van Dyke Parks - Song Cycle'>](https://www.last.fm/music/van%2bdyke%2bparks/song%2bcycle)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c52eb3539f0d4029c019dcc6aef4309a.jpg' width='16%' height='16%' alt='Townes Van Zandt - Our Mother the Mountain'>](https://www.last.fm/music/townes%2bvan%2bzandt/our%2bmother%2bthe%2bmountain)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e9e38596393c4ae8b36078d257490f29.png' width='16%' height='16%' alt='Electric Light Orchestra - Eldorado: A Symphony by the Electric Light Orchestra'>](https://www.last.fm/music/electric%2blight%2borchestra/eldorado%253a%2ba%2bsymphony%2bby%2bthe%2belectric%2blight%2borchestra)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/07057ba0e0c346b4b80f2de44b592688.png' width='16%' height='16%' alt='Field Music - Tones Of Town'>](https://www.last.fm/music/field%2bmusic/tones%2bof%2btown)&nbsp;
 <br>
