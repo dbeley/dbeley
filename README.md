@@ -5,11 +5,14 @@
 ### My most listened albums on [last.fm](https://www.last.fm/user/d_beley) in the last week
 
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c4fa07c5ae1b4b18a15a03f6e4ec8bd7.jpg' width='16%' height='16%' alt='Georges Brassens - Les 100 plus belles chansons'>](https://www.last.fm/music/georges%2bbrassens/les%2b100%2bplus%2bbelles%2bchansons)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0530a2712afe3bb8c751304b33afc1ab.jpg' width='16%' height='16%' alt='Everything Everything - A Fever Dream'>](https://www.last.fm/music/everything%2beverything/a%2bfever%2bdream)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d3122046d72ffd8c8a0ca38d9bbec277.jpg' width='16%' height='16%' alt='Le Aids - Oh Dear, Those Were The Days'>](https://www.last.fm/music/le%2baids/oh%2bdear%252c%2bthose%2bwere%2bthe%2bdays)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b301ac9a72f14eb4ce3ddd785eb562b2.jpg' width='16%' height='16%' alt='Tomáš Dvořák - Machinarium Soundtrack'>](https://www.last.fm/music/tom%25c3%25a1%25c5%25a1%2bdvo%25c5%2599%25c3%25a1k/machinarium%2bsoundtrack)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c5ead34a6aca64a663a3ed83fadfc742.jpg' width='16%' height='16%' alt='Big Thief - Dragon New Warm Mountain I Believe in You'>](https://www.last.fm/music/big%2bthief/dragon%2bnew%2bwarm%2bmountain%2bi%2bbelieve%2bin%2byou)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ebd9cfee287f66a90bd365af6b7e2cf7.jpg' width='16%' height='16%' alt='Jeff Rosenstock - WORRY.'>](https://www.last.fm/music/jeff%2brosenstock/worry.)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/04dcaefd5a55412b41ae53bded77c9d4.jpg' width='16%' height='16%' alt='Astéréotypie - Aucun mec ne ressemble à Brad Pitt dans la Drôme'>](https://www.last.fm/music/ast%25c3%25a9r%25c3%25a9otypie/aucun%2bmec%2bne%2bressemble%2b%25c3%25a0%2bbrad%2bpitt%2bdans%2bla%2bdr%25c3%25b4me)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/749c955a525f308297f71eafb58c2d71.jpg' width='16%' height='16%' alt='Jeff Rosenstock - HELLMODE'>](https://www.last.fm/music/jeff%2brosenstock/hellmode)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4f3dd53076a4760c6394e68a3ebe9683.jpg' width='16%' height='16%' alt='Slowdive - everything is alive'>](https://www.last.fm/music/slowdive/everything%2bis%2balive)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a7ba56653be27fd8404adb9495248015.jpg' width='16%' height='16%' alt='Mocky - KEY CHANGE'>](https://www.last.fm/music/mocky/key%2bchange)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a2809561ea7217d6ba769ae8c749af3b.jpg' width='16%' height='16%' alt='Shuggie Otis - Inspiration Information'>](https://www.last.fm/music/shuggie%2botis/inspiration%2binformation)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/79948ef99473b59a1231f387375a658f.jpg' width='16%' height='16%' alt='Sonny Rollins - Tenor Madness'>](https://www.last.fm/music/sonny%2brollins/tenor%2bmadness)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6d2bde846a5933b29985d754166cee18.jpg' width='16%' height='16%' alt='Slowdive - Just for a Day'>](https://www.last.fm/music/slowdive/just%2bfor%2ba%2bday)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0fee759e8d2adbc4bb38c0e59c961a9d.jpg' width='16%' height='16%' alt='Sprain - The Lamb as Effigy'>](https://www.last.fm/music/sprain/the%2blamb%2bas%2beffigy)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7539e6684f56204908abd43f673ab13b.jpg' width='16%' height='16%' alt='Jeff Rosenstock - NO DREAM'>](https://www.last.fm/music/jeff%2brosenstock/no%2bdream)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/248f0f82efa0147e59c9fd6f32916075.jpg' width='16%' height='16%' alt='Jeff Rosenstock - We Cool?'>](https://www.last.fm/music/jeff%2brosenstock/we%2bcool%253f)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/788dfbc94a424d3b344aa97e68f68eed.jpg' width='16%' height='16%' alt='Mitski - The Land Is Inhospitable and So Are We'>](https://www.last.fm/music/mitski/the%2bland%2bis%2binhospitable%2band%2bso%2bare%2bwe)&nbsp;
+<br>
