@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d498668c94e9650ae99217ec973aa9db.jpg' width='16%' height='16%' alt='Codeine - Frigid Stars'>](https://www.last.fm/music/codeine/frigid%2bstars)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1d2464d66aa0911429e12011d86451bc.jpg' width='16%' height='16%' alt='Fishmans - 宇宙 日本 世田谷 (Uchu Nippon Setagaya)'>](https://www.last.fm/music/fishmans/%25e5%25ae%2587%25e5%25ae%2599%2b%25e6%2597%25a5%25e6%259c%25ac%2b%25e4%25b8%2596%25e7%2594%25b0%25e8%25b0%25b7%2b%2528uchu%2bnippon%2bsetagaya%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/708102afdb6da161fcd5f27dc1a019c9.jpg' width='16%' height='16%' alt='betcover!! - 卵'>](https://www.last.fm/music/betcover%2521%2521/%25e5%258d%25b5)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0f8e46e38decdaf02088b967c64361b3.jpg' width='16%' height='16%' alt='Fishmans - Orange'>](https://www.last.fm/music/fishmans/orange)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8f08a5cccec4cc9c9eea14682e7de1d2.jpg' width='16%' height='16%' alt='Lamp - 恋人へ'>](https://www.last.fm/music/lamp/%25e6%2581%258b%25e4%25ba%25ba%25e3%2581%25b8)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ad375c7964274ad09f8a8cc7b5596bef.png' width='16%' height='16%' alt='SUGAR BABE - SONGS'>](https://www.last.fm/music/sugar%2bbabe/songs)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3ed14c661d98452bca64927dfa174303.jpg' width='16%' height='16%' alt='王菲 - 浮躁'>](https://www.last.fm/music/%25e7%258e%258b%25e8%258f%25b2/%25e6%25b5%25ae%25e8%25ba%2581)&nbsp;
 <br>
