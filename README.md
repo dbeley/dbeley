@@ -10,9 +10,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/20107a8e4b6e495b8f26b23bfb9e5171.png' width='16%' height='16%' alt='Paul McCartney & Linda McCartney - RAM'>](https://www.last.fm/music/paul%2bmccartney%2b%2526%2blinda%2bmccartney/ram)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/02425ed2a34f4319c331bd7eeaddf9c3.jpg' width='16%' height='16%' alt='Pinback - Autumn Of The Seraphs'>](https://www.last.fm/music/pinback/autumn%2bof%2bthe%2bseraphs)&nbsp;
 <br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fe236f41e73cc4eb8d4e253427b0915b.jpg' width='16%' height='16%' alt='tricot - 真っ黒'>](https://www.last.fm/music/tricot/%25e7%259c%259f%25e3%2581%25a3%25e9%25bb%2592)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/484d74370cd44f818d5140dfc1edc638.png' width='16%' height='16%' alt='Another Sunny Day - London Weekend'>](https://www.last.fm/music/another%2bsunny%2bday/london%2bweekend)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c3e3a5577f06f204268f048455179d28.jpg' width='16%' height='16%' alt='Baptiste Trotignon - Brexit Music'>](https://www.last.fm/music/baptiste%2btrotignon/brexit%2bmusic)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/893fce336634c600b2bab31de7bbc9bd.jpg' width='16%' height='16%' alt='Madvillain - Madvillainy'>](https://www.last.fm/music/madvillain/madvillainy)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/04e10daff3151613e3245811c166b425.jpg' width='16%' height='16%' alt='Novos Baianos - Acabou Chorare'>](https://www.last.fm/music/novos%2bbaianos/acabou%2bchorare)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e1d647f324ff724f3c9563545571321c.jpg' width='16%' height='16%' alt='Chris Thile - Chris Thile & Brad Mehldau'>](https://www.last.fm/music/chris%2bthile/chris%2bthile%2b%2526%2bbrad%2bmehldau)&nbsp;
 <br>
