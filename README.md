@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5d93403fbc951b7d31fa80ff826b5180.jpg' width='16%' height='16%' alt='Japanese Breakfast - Jubilee'>](https://www.last.fm/music/japanese%2bbreakfast/jubilee)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e39eb31f874f4a5c4afa836845141437.jpg' width='16%' height='16%' alt='Olivia Rodrigo - GUTS'>](https://www.last.fm/music/olivia%2brodrigo/guts)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c42f05e7e5b149d7888799ca23418396.jpg' width='16%' height='16%' alt='Danny Brown - Quaranta'>](https://www.last.fm/music/danny%2bbrown/quaranta)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5313a74c73ebef3c9d2bb6d3ccf4337f.jpg' width='16%' height='16%' alt='Duster - Stratosphere'>](https://www.last.fm/music/duster/stratosphere)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/964662540ba245cec5d0d5d0e3b149f2.jpg' width='16%' height='16%' alt='Ghostface Killah - Supreme Clientele'>](https://www.last.fm/music/ghostface%2bkillah/supreme%2bclientele)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/12098b07c2774f8ccf8fa2f7b5b832e3.jpg' width='16%' height='16%' alt='Mos Def - Black On Both Sides'>](https://www.last.fm/music/mos%2bdef/black%2bon%2bboth%2bsides)&nbsp;
 <br>
