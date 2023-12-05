@@ -13,4 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b9c849c84a7d30b3aa6574602a45b8aa.jpg' width='16%' height='16%' alt='Swervedriver - Mezcal Head'>](https://www.last.fm/music/swervedriver/mezcal%2bhead)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e460b96d75fc4ea5ba5abafc376c4348.png' width='16%' height='16%' alt='Blur - Think Tank'>](https://www.last.fm/music/blur/think%2btank)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d951a0a1940d329f13b98239ea2e8ba1.jpg' width='16%' height='16%' alt='Chico Buarque - Chico Buarque de Hollanda'>](https://www.last.fm/music/chico%2bbuarque/chico%2bbuarque%2bde%2bhollanda)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c4ecb3bba64b45ccc557fe79ba68b0ba.jpg' width='16%' height='16%' alt='Herbie Hancock - Secrets'>](https://www.last.fm/music/herbie%2bhancock/secrets)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e128e76eb7a6efd60aa26055a2ba34ec.jpg' width='16%' height='16%' alt='Ill Considered - Liminal Space'>](https://www.last.fm/music/ill%2bconsidered/liminal%2bspace)&nbsp;
+<br>
