@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9463ee56d43a8e366d4d4a255041ce87.jpg' width='16%' height='16%' alt='Mammal Hands - Captured Spirits'>](https://www.last.fm/music/mammal%2bhands/captured%2bspirits)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4bb3b4090d73a8ea21135e9d12ae9f2f.jpg' width='16%' height='16%' alt='Cloud Nothings - Life Is Only One Event'>](https://www.last.fm/music/cloud%2bnothings/life%2bis%2bonly%2bone%2bevent)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/77d5ce44870fbdcb8f3b0da2212269e4.jpg' width='16%' height='16%' alt='Mammal Hands - Shadow Work'>](https://www.last.fm/music/mammal%2bhands/shadow%2bwork)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c4946c8d3977491f912181f10bf87f9b.jpg' width='16%' height='16%' alt='Ahmad Jamal - Chamber Music Of The New Jazz'>](https://www.last.fm/music/ahmad%2bjamal/chamber%2bmusic%2bof%2bthe%2bnew%2bjazz)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3d498c9a33bd410dc116c75c1251ce81.jpg' width='16%' height='16%' alt='Mammal Hands - Animalia'>](https://www.last.fm/music/mammal%2bhands/animalia)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ca1154a7412f404b22dce74f98c3cfa0.jpg' width='16%' height='16%' alt='Panopticon - The Rime of Memory'>](https://www.last.fm/music/panopticon/the%2brime%2bof%2bmemory)&nbsp;
 <br>
