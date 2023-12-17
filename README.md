@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e90c45fc3ffc49f354f6ac1c14ec13c3.jpg' width='16%' height='16%' alt='Manuel Rocheman - Cactus Dance'>](https://www.last.fm/music/manuel%2brocheman/cactus%2bdance)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cd49eff298a419cada0736f5a07bc402.jpg' width='16%' height='16%' alt='Einar Solberg - 16'>](https://www.last.fm/music/einar%2bsolberg/16)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ddd03f4958b84189b97284d47f872c5c.jpg' width='16%' height='16%' alt='Jacky Terrasson - Gouache'>](https://www.last.fm/music/jacky%2bterrasson/gouache)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c4946c8d3977491f912181f10bf87f9b.jpg' width='16%' height='16%' alt='Ahmad Jamal - Chamber Music Of The New Jazz'>](https://www.last.fm/music/ahmad%2bjamal/chamber%2bmusic%2bof%2bthe%2bnew%2bjazz)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6695c5a8b99e176a8546a5d6f7ba491c.jpg' width='16%' height='16%' alt='Tex Crick - Sweet Dreamin'>](https://www.last.fm/music/tex%2bcrick/sweet%2bdreamin%2527)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5d96710759384342c3e56fb815583e25.jpg' width='16%' height='16%' alt='Florian Pellissier Quintet - Biches bleues'>](https://www.last.fm/music/florian%2bpellissier%2bquintet/biches%2bbleues)&nbsp;
 <br>
