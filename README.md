@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4865b861a94d41a5bd38b1b78373e4eb.jpg' width='16%' height='16%' alt='Al Green - Gets Next to You'>](https://www.last.fm/music/al%2bgreen/gets%2bnext%2bto%2byou)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/59a6df63634f43db9930fc947ed5ae04.jpg' width='16%' height='16%' alt='Alain Bashung - Bleu Pétrole'>](https://www.last.fm/music/alain%2bbashung/bleu%2bp%25c3%25a9trole)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5caa19e86d8c7dc6b162aa44417fc879.jpg' width='16%' height='16%' alt='Chilly Gonzales - A very chilly christmas'>](https://www.last.fm/music/chilly%2bgonzales/a%2bvery%2bchilly%2bchristmas)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9f5df98d096f18e393177402081dc255.jpg' width='16%' height='16%' alt='The Beatles - Abbey Road'>](https://www.last.fm/music/the%2bbeatles/abbey%2broad)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b36a65a78aa0d0b27cb8c83b2e5cd4e6.png' width='16%' height='16%' alt='Arthur Russell - World of Echo'>](https://www.last.fm/music/arthur%2brussell/world%2bof%2becho)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/34e9fe6c3d85a9bb5170b09a799b0cd9.png' width='16%' height='16%' alt='Gang Starr - Moment Of Truth'>](https://www.last.fm/music/gang%2bstarr/moment%2bof%2btruth)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a2809561ea7217d6ba769ae8c749af3b.jpg' width='16%' height='16%' alt='Shuggie Otis - Inspiration Information'>](https://www.last.fm/music/shuggie%2botis/inspiration%2binformation)&nbsp;
 <br>
