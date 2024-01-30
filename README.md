@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/734fd954bebbe268c1fa07049d2d2fdd.jpg' width='16%' height='16%' alt='Christopher Larkin - Hollow Knight'>](https://www.last.fm/music/christopher%2blarkin/hollow%2bknight)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/edd50a3499e8e7fb3f5a624b30971ba8.jpg' width='16%' height='16%' alt='Johnnie Frierson - Have You Been Good To Yourself'>](https://www.last.fm/music/johnnie%2bfrierson/have%2byou%2bbeen%2bgood%2bto%2byourself)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/026deeac97fbc1b18538da7f8a94c747.jpg' width='16%' height='16%' alt='The Shangri‐Las - Myrmidons of Melodrama'>](https://www.last.fm/music/the%2bshangri%25e2%2580%2590las/myrmidons%2bof%2bmelodrama)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/db4368caefe294443a33a652fc516899.jpg' width='16%' height='16%' alt='Wire - The Ideal Copy'>](https://www.last.fm/music/wire/the%2bideal%2bcopy)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2e999e8e977f004e97f17d0d8dc8c37f.jpg' width='16%' height='16%' alt='Alain Bashung - Chatterton'>](https://www.last.fm/music/alain%2bbashung/chatterton)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2817f7a3df4f3497287d7e577154fea1.jpg' width='16%' height='16%' alt='Brian Eno - Another Day on Earth'>](https://www.last.fm/music/brian%2beno/another%2bday%2bon%2bearth)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/67f71f3da87029c0ed5d5adda0506581.jpg' width='16%' height='16%' alt='Glocca Morra - Just Married'>](https://www.last.fm/music/glocca%2bmorra/just%2bmarried)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8879f81513ea2f1bc32e2f493f1eaa7f.jpg' width='16%' height='16%' alt='Minutemen - Double Nickels on the Dime'>](https://www.last.fm/music/minutemen/double%2bnickels%2bon%2bthe%2bdime)&nbsp;
 <br>
