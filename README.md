@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/685a56d9936f4ce8afead850acbcbd05.jpg' width='16%' height='16%' alt='Paul McCartney - McCartney'>](https://www.last.fm/music/paul%2bmccartney/mccartney)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cc93b6f2904a488fbda811f198b50205.png' width='16%' height='16%' alt='Wire - Chairs Missing'>](https://www.last.fm/music/wire/chairs%2bmissing)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5e4301e6bf5455fad4f461baf462b5a9.jpg' width='16%' height='16%' alt='Radiohead - Hail to the Thief'>](https://www.last.fm/music/radiohead/hail%2bto%2bthe%2bthief)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/55ac8f97bde6cbe5e9a8857b435457e9.jpg' width='16%' height='16%' alt='Radiohead - Hail to the Thief'>](https://www.last.fm/music/radiohead/hail%2bto%2bthe%2bthief)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/29bb3360a1c5f91539cec663e71c1e99.gif' width='16%' height='16%' alt='Alain Bashung - Play Blessures'>](https://www.last.fm/music/alain%2bbashung/play%2bblessures)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e5426a988aa84b24b437ab04cc49c5cb.jpg' width='16%' height='16%' alt='The Chills - Submarine Bells'>](https://www.last.fm/music/the%2bchills/submarine%2bbells)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0530a2712afe3bb8c751304b33afc1ab.jpg' width='16%' height='16%' alt='Everything Everything - A Fever Dream'>](https://www.last.fm/music/everything%2beverything/a%2bfever%2bdream)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f8281a0ac73000ce53b80b0065484070.jpg' width='16%' height='16%' alt='XTC - Black Sea'>](https://www.last.fm/music/xtc/black%2bsea)&nbsp;
 <br>
