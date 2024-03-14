@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5402dffb89db43f282615f19eb92c8fd.png' width='16%' height='16%' alt='Eiffel - Tandoori'>](https://www.last.fm/music/eiffel/tandoori)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c9d7c6809f37924a14e6a15f8e2f13a4.jpg' width='16%' height='16%' alt='Liz Phair - Whip-Smart'>](https://www.last.fm/music/liz%2bphair/whip-smart)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3d16a8301f8d7306e33fc60f711d3a40.jpg' width='16%' height='16%' alt='The Sundays - Blind'>](https://www.last.fm/music/the%2bsundays/blind)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8c5d52f47ccab75b42e0ab817715ee81.jpg' width='16%' height='16%' alt='Eiffel - Le 1/4 Dheure Des Ahuris'>](https://www.last.fm/music/eiffel/le%2b1%252f4%2bd%2527heure%2bdes%2bahuris)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f3582e43943d4725c82968e5bfe835a1.png' width='16%' height='16%' alt='Nine Inch Nails - The Downward Spiral (Deluxe Edition)'>](https://www.last.fm/music/nine%2binch%2bnails/the%2bdownward%2bspiral%2b%2528deluxe%2bedition%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/230b873de980411993ab0be96c45cba4.png' width='16%' height='16%' alt='George Harrison - Wonderwall Music'>](https://www.last.fm/music/george%2bharrison/wonderwall%2bmusic)&nbsp;
 <br>
