@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3d16a8301f8d7306e33fc60f711d3a40.jpg' width='16%' height='16%' alt='The Sundays - Blind'>](https://www.last.fm/music/the%2bsundays/blind)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f3582e43943d4725c82968e5bfe835a1.png' width='16%' height='16%' alt='Nine Inch Nails - The Downward Spiral (Deluxe Edition)'>](https://www.last.fm/music/nine%2binch%2bnails/the%2bdownward%2bspiral%2b%2528deluxe%2bedition%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5ff262bd41f9b81ae0835c17d95bef15.jpg' width='16%' height='16%' alt='IDLES - Joy as an Act of Resistance.'>](https://www.last.fm/music/idles/joy%2bas%2ban%2bact%2bof%2bresistance.)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c9d7c6809f37924a14e6a15f8e2f13a4.jpg' width='16%' height='16%' alt='Liz Phair - Whip-Smart'>](https://www.last.fm/music/liz%2bphair/whip-smart)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/16a79799bef534f6ebc14f006385581d.jpg' width='16%' height='16%' alt='Slow Pulp - Yard'>](https://www.last.fm/music/slow%2bpulp/yard)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/359cabc5940d4683c6abdc2d5667583b.png' width='16%' height='16%' alt='Vince Guaraldi Trio - A Boy Named Charlie Brown'>](https://www.last.fm/music/vince%2bguaraldi%2btrio/a%2bboy%2bnamed%2bcharlie%2bbrown)&nbsp;
 <br>
