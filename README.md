@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/88cc5e7b5e3546889c61dc845280eb34.jpg' width='16%' height='16%' alt='Flotation Toy Warning - Bluffers Guide to the Flight Deck'>](https://www.last.fm/music/flotation%2btoy%2bwarning/bluffer%2527s%2bguide%2bto%2bthe%2bflight%2bdeck)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/acb7a8b589c9694e30afbd745e6377d2.png' width='16%' height='16%' alt='George Harrison - All Things Must Pass'>](https://www.last.fm/music/george%2bharrison/all%2bthings%2bmust%2bpass)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0946b711278220010c0f051555b85156.jpg' width='16%' height='16%' alt='Ornette Coleman - Skies Of America'>](https://www.last.fm/music/ornette%2bcoleman/skies%2bof%2bamerica)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c5f0d6a68c4dc12caa23a1c8fb77e4a5.jpg' width='16%' height='16%' alt='Royal Headache - High'>](https://www.last.fm/music/royal%2bheadache/high)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a0e3183938374bdad96fd89338dffaa2.png' width='16%' height='16%' alt='The Sea and Cake - One Bedroom'>](https://www.last.fm/music/the%2bsea%2band%2bcake/one%2bbedroom)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/640a079125b040d7b3a26beebad91a2b.png' width='16%' height='16%' alt='The World Is a Beautiful Place & I Am No Longer Afraid to Die - Whenever, If Ever'>](https://www.last.fm/music/the%2bworld%2bis%2ba%2bbeautiful%2bplace%2b%2526%2bi%2bam%2bno%2blonger%2bafraid%2bto%2bdie/whenever%252c%2bif%2bever)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f60b0691b7294dbd8c300b36276576e7.png' width='16%' height='16%' alt='Vampire Weekend - Contra'>](https://www.last.fm/music/vampire%2bweekend/contra)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg' width='16%' height='16%' alt='George Harrison - Living in the Material World'>](https://www.last.fm/music/george%2bharrison/living%2bin%2bthe%2bmaterial%2bworld)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/09c2109379b1493aaae4cdb3be93f4cf.jpg' width='16%' height='16%' alt='The Bats - The Guilty Office'>](https://www.last.fm/music/the%2bbats/the%2bguilty%2boffice)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a009a6cedfcd95030f45b269877bf871.jpg' width='16%' height='16%' alt='Beyoncé - RENAISSANCE'>](https://www.last.fm/music/beyonc%25c3%25a9/renaissance)&nbsp;
 <br>
