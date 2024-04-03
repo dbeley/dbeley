@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9941f11472e440f28411d1fdc763bc5b.png' width='16%' height='16%' alt='Prince - Controversy'>](https://www.last.fm/music/prince/controversy)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4c0ac238f90c02a3348236cd87e7495c.jpg' width='16%' height='16%' alt='The Jesus and Mary Chain - Glasgow Eyes'>](https://www.last.fm/music/the%2bjesus%2band%2bmary%2bchain/glasgow%2beyes)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce391ebc54f44f8311895e7949577638.jpg' width='16%' height='16%' alt='Ben Wendel - The Seasons'>](https://www.last.fm/music/ben%2bwendel/the%2bseasons)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/586533d37a5fab3e10f8c66c5df44939.jpg' width='16%' height='16%' alt='Julia Holter - Something in the Room She Moves'>](https://www.last.fm/music/julia%2bholter/something%2bin%2bthe%2broom%2bshe%2bmoves)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fd0fb9e39ddf4e7fb71ddc2410c25ba6.png' width='16%' height='16%' alt='Esbjörn Svensson Trio - E.S.T. Live 95'>](https://www.last.fm/music/esbj%25c3%25b6rn%2bsvensson%2btrio/e.s.t.%2blive%2b%252795)&nbsp;
 <br>
