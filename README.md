@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e4a1cdf7e3c774a092f947d5a11564c4.jpg' width='16%' height='16%' alt='George Harrison - Living in the Material World'>](https://www.last.fm/music/george%2bharrison/living%2bin%2bthe%2bmaterial%2bworld)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a009a6cedfcd95030f45b269877bf871.jpg' width='16%' height='16%' alt='Beyoncé - RENAISSANCE'>](https://www.last.fm/music/beyonc%25c3%25a9/renaissance)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9941f11472e440f28411d1fdc763bc5b.png' width='16%' height='16%' alt='Prince - Controversy'>](https://www.last.fm/music/prince/controversy)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4c0ac238f90c02a3348236cd87e7495c.jpg' width='16%' height='16%' alt='The Jesus and Mary Chain - Glasgow Eyes'>](https://www.last.fm/music/the%2bjesus%2band%2bmary%2bchain/glasgow%2beyes)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce391ebc54f44f8311895e7949577638.jpg' width='16%' height='16%' alt='Ben Wendel - The Seasons'>](https://www.last.fm/music/ben%2bwendel/the%2bseasons)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fd0fb9e39ddf4e7fb71ddc2410c25ba6.png' width='16%' height='16%' alt='Esbjörn Svensson Trio - E.S.T. Live 95'>](https://www.last.fm/music/esbj%25c3%25b6rn%2bsvensson%2btrio/e.s.t.%2blive%2b%252795)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9941f11472e440f28411d1fdc763bc5b.png' width='16%' height='16%' alt='Prince - Controversy'>](https://www.last.fm/music/prince/controversy)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce391ebc54f44f8311895e7949577638.jpg' width='16%' height='16%' alt='Ben Wendel - The Seasons'>](https://www.last.fm/music/ben%2bwendel/the%2bseasons)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/302d8c92150587501ad81abfbc5b94e1.jpg' width='16%' height='16%' alt='Ringo Starr - Ringo'>](https://www.last.fm/music/ringo%2bstarr/ringo)&nbsp;
 <br>
