@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d6425109c73351a58d6d617a7122ea92.jpg' width='16%' height='16%' alt='NoMeansNo - Wrong'>](https://www.last.fm/music/nomeansno/wrong)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/aa892e726fa61a89143f3499dd3a5a28.jpg' width='16%' height='16%' alt='Orange Juice - You Can’t Hide Your Love Forever'>](https://www.last.fm/music/orange%2bjuice/you%2bcan%25e2%2580%2599t%2bhide%2byour%2blove%2bforever)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/62e79d7331b34ea9ced494570a2fe797.png' width='16%' height='16%' alt='LCD Soundsystem - Sound of Silver'>](https://www.last.fm/music/lcd%2bsoundsystem/sound%2bof%2bsilver)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fd0fb9e39ddf4e7fb71ddc2410c25ba6.png' width='16%' height='16%' alt='Esbjörn Svensson Trio - E.S.T. Live 95'>](https://www.last.fm/music/esbj%25c3%25b6rn%2bsvensson%2btrio/e.s.t.%2blive%2b%252795)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ab214148a22b2ea307c4eaf7f35a0aa9.jpg' width='16%' height='16%' alt='Autolux - Future Perfect'>](https://www.last.fm/music/autolux/future%2bperfect)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8f3dd5e288f5e669672b778f4270d19e.jpg' width='16%' height='16%' alt='NoMeansNo - Why Do They Call Me Mr. Happy?'>](https://www.last.fm/music/nomeansno/why%2bdo%2bthey%2bcall%2bme%2bmr.%2bhappy%253f)&nbsp;
 <br>
