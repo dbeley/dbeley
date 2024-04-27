@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/37c34de60373bf729c7e3272560d7089.jpg' width='16%' height='16%' alt='Kenny Barron Trio - Lemuria-Seascape'>](https://www.last.fm/music/kenny%2bbarron%2btrio/lemuria-seascape)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/abd681f7ef3ed16ddc13b9087fb4ee60.jpg' width='16%' height='16%' alt='Red Garland - Red Garlands Piano'>](https://www.last.fm/music/red%2bgarland/red%2bgarland%2527s%2bpiano)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e66179b717c1ca469388192f4f43ca37.jpg' width='16%' height='16%' alt='Junior Mance - The Soulful Piano of Junior Mance'>](https://www.last.fm/music/junior%2bmance/the%2bsoulful%2bpiano%2bof%2bjunior%2bmance)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/55952d3d40ab33a55bd7b0f7d834930d.jpg' width='16%' height='16%' alt='Sonny Clark - Leapin And Lopin'>](https://www.last.fm/music/sonny%2bclark/leapin%2527%2band%2blopin%2527)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6472450a3e4dee56a673f962fb2c0186.jpg' width='16%' height='16%' alt='Wynton Kelly - Full View'>](https://www.last.fm/music/wynton%2bkelly/full%2bview)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/636bb0ff2f18ea8614ca670f4852d175.jpg' width='16%' height='16%' alt='Everything Everything - Raw Data Feel'>](https://www.last.fm/music/everything%2beverything/raw%2bdata%2bfeel)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/74ccf20c0ae6172c6f962be8fac852d8.jpg' width='16%' height='16%' alt='Art Blakey & The Jazz Messengers - A Night in Tunisia'>](https://www.last.fm/music/art%2bblakey%2b%2526%2bthe%2bjazz%2bmessengers/a%2bnight%2bin%2btunisia)&nbsp;
 <br>
