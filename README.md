@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f7217fa1319c242872b6148740b26bcc.png' width='16%' height='16%' alt='Julia Holter - Have You In My Wilderness'>](https://www.last.fm/music/julia%2bholter/have%2byou%2bin%2bmy%2bwilderness)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/586533d37a5fab3e10f8c66c5df44939.jpg' width='16%' height='16%' alt='Julia Holter - Something in the Room She Moves'>](https://www.last.fm/music/julia%2bholter/something%2bin%2bthe%2broom%2bshe%2bmoves)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d5c97f0595e229f94189c691282aad36.png' width='16%' height='16%' alt='Various Artists - Fallout 4: Diamond City Radio'>](https://www.last.fm/music/various%2bartists/fallout%2b4%253a%2bdiamond%2bcity%2bradio)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4dad18057aa89ba5105cd9a973e3ec2f.jpg' width='16%' height='16%' alt='Bob Dylan - Nashville Skyline'>](https://www.last.fm/music/bob%2bdylan/nashville%2bskyline)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b6988e93906c42939d0892061944f6bd.png' width='16%' height='16%' alt='Julia Holter - Loud City Song'>](https://www.last.fm/music/julia%2bholter/loud%2bcity%2bsong)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d5c97f0595e229f94189c691282aad36.png' width='16%' height='16%' alt='Various Artists - Fallout 4: Diamond City Radio'>](https://www.last.fm/music/various%2bartists/fallout%2b4%253a%2bdiamond%2bcity%2bradio)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e66179b717c1ca469388192f4f43ca37.jpg' width='16%' height='16%' alt='Junior Mance - The Soulful Piano of Junior Mance'>](https://www.last.fm/music/junior%2bmance/the%2bsoulful%2bpiano%2bof%2bjunior%2bmance)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1bbf9a623a81a1ec102717c9439c32d0.jpg' width='16%' height='16%' alt='Miles Davis - The Complete Birth of the Cool'>](https://www.last.fm/music/miles%2bdavis/the%2bcomplete%2bbirth%2bof%2bthe%2bcool)&nbsp;
 <br>
