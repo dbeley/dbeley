@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2c54400e5fa831de1ad15652b360ed05.png' width='16%' height='16%' alt='The Lemon Twigs - A Dream Is All We Know'>](https://www.last.fm/music/the%2blemon%2btwigs/a%2bdream%2bis%2ball%2bwe%2bknow)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e642ee5ee80f03233ae16b7a868a172b.jpg' width='16%' height='16%' alt='Jim O’Rourke - Eureka'>](https://www.last.fm/music/jim%2bo%25e2%2580%2599rourke/eureka)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/357674ba00e83e21f4a0d2eb2204cd1d.png' width='16%' height='16%' alt='Kamasi Washington - Fearless Movement'>](https://www.last.fm/music/kamasi%2bwashington/fearless%2bmovement)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cca613c9c5d3480d9ff6ae4636e22e12.jpg' width='16%' height='16%' alt='Red Garland Trio - A Garland Of Red'>](https://www.last.fm/music/red%2bgarland%2btrio/a%2bgarland%2bof%2bred)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5915e64614eed98460bc850cc6b76bd5.jpg' width='16%' height='16%' alt='Sonny Clark - Standards'>](https://www.last.fm/music/sonny%2bclark/standards)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/18ee0dffd7ecbeb2191c9c882ca1abed.jpg' width='16%' height='16%' alt='Zach Bryan - Zach Bryan'>](https://www.last.fm/music/zach%2bbryan/zach%2bbryan)&nbsp;
 <br>
