@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1e297b4385fa4c16cc911398d13bdf04.png' width='16%' height='16%' alt='Freddie Gibbs & Madlib - Piñata'>](https://www.last.fm/music/freddie%2bgibbs%2b%2526%2bmadlib/pi%25c3%25b1ata)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/67f71f3da87029c0ed5d5adda0506581.jpg' width='16%' height='16%' alt='Glocca Morra - Just Married'>](https://www.last.fm/music/glocca%2bmorra/just%2bmarried)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/79d9ecf3ab0435af0b97c1303e91251f.jpg' width='16%' height='16%' alt='Islands - Return to the Sea'>](https://www.last.fm/music/islands/return%2bto%2bthe%2bsea)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/30b0db96c46a3aebe7a0a968b532c306.jpg' width='16%' height='16%' alt='The Oscar Peterson Trio - Night Train'>](https://www.last.fm/music/the%2boscar%2bpeterson%2btrio/night%2btrain)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9869939c291c6bb023fd68ce600e490b.jpg' width='16%' height='16%' alt='English Teacher - This Could Be Texas'>](https://www.last.fm/music/english%2bteacher/this%2bcould%2bbe%2btexas)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a8dc09e1853070c5ba9a2bd58c2683de.jpg' width='16%' height='16%' alt='Friko - Where We’ve Been, Where We Go from Here'>](https://www.last.fm/music/friko/where%2bwe%25e2%2580%2599ve%2bbeen%252c%2bwhere%2bwe%2bgo%2bfrom%2bhere)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f5ebc39b1f907ab9e0df8ea47841f0c5.jpg' width='16%' height='16%' alt='JID - The Forever Story'>](https://www.last.fm/music/jid/the%2bforever%2bstory)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f4e2c03514e6fee224cc0894a20b0575.jpg' width='16%' height='16%' alt='Art Blakey & The Jazz Messengers - The Jazz Messengers'>](https://www.last.fm/music/art%2bblakey%2b%2526%2bthe%2bjazz%2bmessengers/the%2bjazz%2bmessengers)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ac3f78ee698b378b1b170132b2f9d143.jpg' width='16%' height='16%' alt='The Beths - Jump Rope Gazers'>](https://www.last.fm/music/the%2bbeths/jump%2brope%2bgazers)&nbsp;
 <br>
