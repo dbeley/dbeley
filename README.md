@@ -5,14 +5,14 @@
 ### My most listened albums on [last.fm](https://www.last.fm/user/d_beley) in the last week
 
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/07c3b7f594f5513c5f07fa7f8fb81787.jpg' width='16%' height='16%' alt='Zach Bryan - American Heartbreak'>](https://www.last.fm/music/zach%2bbryan/american%2bheartbreak)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fbfb4cc05bacc31765cb78c0d67eada4.jpg' width='16%' height='16%' alt='(Sandy) Alex G - Rocket'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/rocket)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0fb06d94de31102e30dc28b6c23246b5.jpg' width='16%' height='16%' alt='Alex G - House of Sugar'>](https://www.last.fm/music/alex%2bg/house%2bof%2bsugar)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8bbb31da139345622cb44d2bd5d1cccd.jpg' width='16%' height='16%' alt='(Sandy) Alex G - Beach Music'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/beach%2bmusic)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg' width='16%' height='16%' alt='Alex G - TRICK'>](https://www.last.fm/music/alex%2bg/trick)&nbsp;
+<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9a1d7119e61a28cb650b18a12f37a2d8.jpg' width='16%' height='16%' alt='Mach‐Hommy - Pray For Haiti'>](https://www.last.fm/music/mach%25e2%2580%2590hommy/pray%2bfor%2bhaiti)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d0edbd695dd46f9b647a6e39682392bb.jpg' width='16%' height='16%' alt='XTC - Oranges & Lemons'>](https://www.last.fm/music/xtc/oranges%2b%2526%2blemons)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a073ac85e2fb427e99cb2d154af8935b.png' width='16%' height='16%' alt='Yo La Tengo - I Can Hear the Heart Beating as One'>](https://www.last.fm/music/yo%2bla%2btengo/i%2bcan%2bhear%2bthe%2bheart%2bbeating%2bas%2bone)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg' width='16%' height='16%' alt='Alex G - TRICK'>](https://www.last.fm/music/alex%2bg/trick)&nbsp;
-<br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/aae5d6e8190f62aeb6482c6f01798996.jpg' width='16%' height='16%' alt='Alex G - God Save the Animals'>](https://www.last.fm/music/alex%2bg/god%2bsave%2bthe%2banimals)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f075459ce6577c51d9954b81958d1287.jpg' width='16%' height='16%' alt='Bob Dylan - The Freewheelin’ Bob Dylan'>](https://www.last.fm/music/bob%2bdylan/the%2bfreewheelin%25e2%2580%2599%2bbob%2bdylan)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/184fb59b18664121c11939b81c25d865.jpg' width='16%' height='16%' alt='Paradise Lost - Believe in Nothing'>](https://www.last.fm/music/paradise%2blost/believe%2bin%2bnothing)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/de9d83c3296b6625aa94cf870732645f.jpg' width='16%' height='16%' alt='Paul McCartney & Linda McCartney - RAM'>](https://www.last.fm/music/paul%2bmccartney%2b%2526%2blinda%2bmccartney/ram)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cefac95dd25efe6e03834aea24b4d0d4.jpg' width='16%' height='16%' alt='Alain Bashung - LImprudence'>](https://www.last.fm/music/alain%2bbashung/l%2527imprudence)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3b9e9decf68b4f109f57d72d8ebd4b4b.jpg' width='16%' height='16%' alt='Daft Punk - Alive 2007'>](https://www.last.fm/music/daft%2bpunk/alive%2b2007)&nbsp;
 <br>
