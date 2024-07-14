@@ -4,15 +4,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/d_beley) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6dffc9bc394a40098a5e3233e248f1e0.png' width='16%' height='16%' alt='The Beach Boys - Smile'>](https://www.last.fm/music/the%2bbeach%2bboys/smile)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f26cf6845f6560a0d35bf6b2d1984498.jpg' width='16%' height='16%' alt='The Magnetic Fields - Get Lost'>](https://www.last.fm/music/the%2bmagnetic%2bfields/get%2blost)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/96da63916e6341a9bb2e98f24c99a0c3.png' width='16%' height='16%' alt='The Magnetic Fields - Holiday'>](https://www.last.fm/music/the%2bmagnetic%2bfields/holiday)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7dbbfe5461f6495ab0a216db3316f976.jpg' width='16%' height='16%' alt='The Magnetic Fields - i'>](https://www.last.fm/music/the%2bmagnetic%2bfields/i)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f80ad952c2ed41cbc1e3a3ef395be717.jpg' width='16%' height='16%' alt='Silver Jews - Starlite Walker'>](https://www.last.fm/music/silver%2bjews/starlite%2bwalker)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b0f17c2dfa0542b3a4b4ff31ae0f5895.png' width='16%' height='16%' alt='Minus the Bear - Menos El Oso'>](https://www.last.fm/music/minus%2bthe%2bbear/menos%2bel%2boso)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e0a758dcec12caa1af9b2d3c95fd2201.jpg' width='16%' height='16%' alt='Minus the Bear - Planet of Ice'>](https://www.last.fm/music/minus%2bthe%2bbear/planet%2bof%2bice)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d4bdd038cacbec705e269edb0fd38419.png' width='16%' height='16%' alt='Pink Floyd - The Dark Side of the Moon'>](https://www.last.fm/music/pink%2bfloyd/the%2bdark%2bside%2bof%2bthe%2bmoon)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d2e281e662d6c24ccabb75113a77f9e3.jpg' width='16%' height='16%' alt='Steely Dan - The Royal Scam'>](https://www.last.fm/music/steely%2bdan/the%2broyal%2bscam)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/65d5754129ceda58929f622c82e999c3.jpg' width='16%' height='16%' alt='Wings - Back To The Egg'>](https://www.last.fm/music/wings/back%2bto%2bthe%2begg)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/98c56e1124f6e4a72dc15904c7856da0.jpg' width='16%' height='16%' alt='Insomnium - Anno 1696'>](https://www.last.fm/music/insomnium/anno%2b1696)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8f08a5cccec4cc9c9eea14682e7de1d2.jpg' width='16%' height='16%' alt='Lamp - 恋人へ'>](https://www.last.fm/music/lamp/%25e6%2581%258b%25e4%25ba%25ba%25e3%2581%25b8)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a7e140a70f48651ec6ba64b5c05a301b.jpg' width='16%' height='16%' alt='Lupe Fiasco - Samurai'>](https://www.last.fm/music/lupe%2bfiasco/samurai)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1a1b12e8da2f0727c84f57cd35e42603.jpg' width='16%' height='16%' alt='Sunny Day Real Estate - LP2'>](https://www.last.fm/music/sunny%2bday%2breal%2bestate/lp2)&nbsp;
 <br>
