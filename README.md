@@ -10,9 +10,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/509a00756d5997721dc13f1578339f04.png' width='16%' height='16%' alt='At the Drive-In - Relationship of Command'>](https://www.last.fm/music/at%2bthe%2bdrive-in/relationship%2bof%2bcommand)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/317e87c6279059d93fd616a0dc0ec932.jpg' width='16%' height='16%' alt='Ahmad Jamal - Ahmad Jamal at the Pershing: But Not for Me'>](https://www.last.fm/music/ahmad%2bjamal/ahmad%2bjamal%2bat%2bthe%2bpershing%253a%2bbut%2bnot%2bfor%2bme)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5efd3a722587f3bf448160c7cfb4c625.jpg' width='16%' height='16%' alt='The Beths - Expert in a Dying Field'>](https://www.last.fm/music/the%2bbeths/expert%2bin%2ba%2bdying%2bfield)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/acbf312c704f4fa0850acbfa5f646c1b.png' width='16%' height='16%' alt='Starflyer 59 - Starflyer 59'>](https://www.last.fm/music/starflyer%2b59/starflyer%2b59)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1fdb8604f3a84f9c8b1079722ddfc530.png' width='16%' height='16%' alt='Esbjörn Svensson Trio - Seven Days of Falling'>](https://www.last.fm/music/esbj%25c3%25b6rn%2bsvensson%2btrio/seven%2bdays%2bof%2bfalling)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2b4894198dca4ad97973ec3ae8f319fd.jpg' width='16%' height='16%' alt='Pinback - Pinback'>](https://www.last.fm/music/pinback/pinback)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/01537037357390031238cdd7d5a5e0ac.jpg' width='16%' height='16%' alt='Pinback - Nautical Antiques'>](https://www.last.fm/music/pinback/nautical%2bantiques)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/abd681f7ef3ed16ddc13b9087fb4ee60.jpg' width='16%' height='16%' alt='Red Garland - Red Garlands Piano'>](https://www.last.fm/music/red%2bgarland/red%2bgarland%2527s%2bpiano)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ccfa4dfb55cb4979b0465ffd47104417.jpg' width='16%' height='16%' alt='Billie Holiday - The Diva Series'>](https://www.last.fm/music/billie%2bholiday/the%2bdiva%2bseries)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/328752095bb469046dbc91af44a3c6fb.jpg' width='16%' height='16%' alt='Bud Powell - A Portrait of Thelonious'>](https://www.last.fm/music/bud%2bpowell/a%2bportrait%2bof%2bthelonious)&nbsp;
 <br>
