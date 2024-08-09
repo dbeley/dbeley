@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/381737fd59cb42a89fc2686d93204717.png' width='16%' height='16%' alt='Children of Bodom - Follow the Reaper'>](https://www.last.fm/music/children%2bof%2bbodom/follow%2bthe%2breaper)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/41863d6793c2b219b47093d2840c7649.jpg' width='16%' height='16%' alt='Porter Robinson - SMILE! :D'>](https://www.last.fm/music/porter%2brobinson/smile%2521%2b%253ad)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e3d95ddef6f60080e68028629a8eb154.png' width='16%' height='16%' alt='Talking Heads - Fear of Music'>](https://www.last.fm/music/talking%2bheads/fear%2bof%2bmusic)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fa6300602e6b237ce918d9fcbe337c32.png' width='16%' height='16%' alt='Bud Powell - The Amazing Bud Powell'>](https://www.last.fm/music/bud%2bpowell/the%2bamazing%2bbud%2bpowell)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/359cabc5940d4683c6abdc2d5667583b.png' width='16%' height='16%' alt='Vince Guaraldi Trio - A Boy Named Charlie Brown'>](https://www.last.fm/music/vince%2bguaraldi%2btrio/a%2bboy%2bnamed%2bcharlie%2bbrown)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b35aca2f5dfcd3497085d7ad79932d5e.jpg' width='16%' height='16%' alt='12 Rods - Split Personalities'>](https://www.last.fm/music/12%2brods/split%2bpersonalities)&nbsp;
 <br>
