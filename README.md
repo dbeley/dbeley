@@ -4,15 +4,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/d_beley) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/75a12d682dfc355068dbb83fb4ec458b.jpg' width='16%' height='16%' alt='Zach Bryan - The Great American Bar Scene'>](https://www.last.fm/music/zach%2bbryan/the%2bgreat%2bamerican%2bbar%2bscene)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1175749c0c20b87dffd37b8ea75fffe7.jpg' width='16%' height='16%' alt='The Magnetic Fields - The Wayward Bus / Distant Plastic Trees'>](https://www.last.fm/music/the%2bmagnetic%2bfields/the%2bwayward%2bbus%2b%252f%2bdistant%2bplastic%2btrees)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e41b308ca8a94f72e26a79320a3bf313.jpg' width='16%' height='16%' alt='Alvvays - Blue Rev'>](https://www.last.fm/music/alvvays/blue%2brev)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/25cc466e31139013b0bfd4b275e8ef4e.jpg' width='16%' height='16%' alt='DJ Sabrina The Teenage DJ - Charmed'>](https://www.last.fm/music/dj%2bsabrina%2bthe%2bteenage%2bdj/charmed)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/96da63916e6341a9bb2e98f24c99a0c3.png' width='16%' height='16%' alt='The Magnetic Fields - Holiday'>](https://www.last.fm/music/the%2bmagnetic%2bfields/holiday)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/381737fd59cb42a89fc2686d93204717.png' width='16%' height='16%' alt='Children of Bodom - Follow the Reaper'>](https://www.last.fm/music/children%2bof%2bbodom/follow%2bthe%2breaper)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/515b7450118c4ff0b8d0a9ad2b4375ec.png' width='16%' height='16%' alt='Pavement - Crooked Rain, Crooked Rain'>](https://www.last.fm/music/pavement/crooked%2brain%252c%2bcrooked%2brain)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b25931cc6991394dacfc6e50bdbe31ac.jpg' width='16%' height='16%' alt='Sudan Archives - Athena'>](https://www.last.fm/music/sudan%2barchives/athena)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/41863d6793c2b219b47093d2840c7649.jpg' width='16%' height='16%' alt='Porter Robinson - SMILE! :D'>](https://www.last.fm/music/porter%2brobinson/smile%2521%2b%253ad)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/59e286bb3c4d44449a8841ff35b16821.png' width='16%' height='16%' alt='Jan Johansson - Jazz på svenska'>](https://www.last.fm/music/jan%2bjohansson/jazz%2bp%25c3%25a5%2bsvenska)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/71935e2f042bef5c74cd4a483dd0cb4d.png' width='16%' height='16%' alt='Joey Alexander - Continuance'>](https://www.last.fm/music/joey%2balexander/continuance)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e540008f0ca81ba8c6ab6b838fd07889.png' width='16%' height='16%' alt='파란노을 - Sky Hundred'>](https://www.last.fm/music/%25ed%258c%258c%25eb%259e%2580%25eb%2585%25b8%25ec%259d%2584/sky%2bhundred)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f26cf6845f6560a0d35bf6b2d1984498.jpg' width='16%' height='16%' alt='The Magnetic Fields - Get Lost'>](https://www.last.fm/music/the%2bmagnetic%2bfields/get%2blost)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/381737fd59cb42a89fc2686d93204717.png' width='16%' height='16%' alt='Children of Bodom - Follow the Reaper'>](https://www.last.fm/music/children%2bof%2bbodom/follow%2bthe%2breaper)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/861822f12e98662304a6d37be1c2fc33.png' width='16%' height='16%' alt='Dave Brubeck - Time In'>](https://www.last.fm/music/dave%2bbrubeck/time%2bin)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c86b29cb8a0722ca4fb484499f8e7cb6.jpg' width='16%' height='16%' alt='Happyness - Write In'>](https://www.last.fm/music/happyness/write%2bin)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2d6aa2fb662841f2ae4f37b69240021b.jpg' width='16%' height='16%' alt='Ahmad Jamal Trio - Count Em 88'>](https://www.last.fm/music/ahmad%2bjamal%2btrio/count%2b%2527em%2b88)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7e6b9e7e67914808b7ead5cb0dd50e6f.png' width='16%' height='16%' alt='Can - Future Days'>](https://www.last.fm/music/can/future%2bdays)&nbsp;
 <br>
