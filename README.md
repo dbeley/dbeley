@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/515b7450118c4ff0b8d0a9ad2b4375ec.png' width='16%' height='16%' alt='Pavement - Crooked Rain, Crooked Rain'>](https://www.last.fm/music/pavement/crooked%2brain%252c%2bcrooked%2brain)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b25931cc6991394dacfc6e50bdbe31ac.jpg' width='16%' height='16%' alt='Sudan Archives - Athena'>](https://www.last.fm/music/sudan%2barchives/athena)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c04861341a86e2054772ba6783cb4ffc.png' width='16%' height='16%' alt='Sufjan Stevens - Javelin'>](https://www.last.fm/music/sufjan%2bstevens/javelin)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e67029cf031ca5d9bdd6d2fb8e854a98.jpg' width='16%' height='16%' alt='DAngelo - Brown Sugar'>](https://www.last.fm/music/d%2527angelo/brown%2bsugar)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d49bf5d8b40fd32c0af3601e6d84a138.png' width='16%' height='16%' alt='Sade - Promise'>](https://www.last.fm/music/sade/promise)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/861822f12e98662304a6d37be1c2fc33.png' width='16%' height='16%' alt='Dave Brubeck - Time In'>](https://www.last.fm/music/dave%2bbrubeck/time%2bin)&nbsp;
 <br>
