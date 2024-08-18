@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b25931cc6991394dacfc6e50bdbe31ac.jpg' width='16%' height='16%' alt='Sudan Archives - Athena'>](https://www.last.fm/music/sudan%2barchives/athena)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c04861341a86e2054772ba6783cb4ffc.png' width='16%' height='16%' alt='Sufjan Stevens - Javelin'>](https://www.last.fm/music/sufjan%2bstevens/javelin)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e67029cf031ca5d9bdd6d2fb8e854a98.jpg' width='16%' height='16%' alt='DAngelo - Brown Sugar'>](https://www.last.fm/music/d%2527angelo/brown%2bsugar)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d49bf5d8b40fd32c0af3601e6d84a138.png' width='16%' height='16%' alt='Sade - Promise'>](https://www.last.fm/music/sade/promise)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/714bb7c07755e002d49f144bfcdfcdc7.jpg' width='16%' height='16%' alt='Leonard Cohen - Songs of Leonard Cohen'>](https://www.last.fm/music/leonard%2bcohen/songs%2bof%2bleonard%2bcohen)&nbsp;
 <br>
