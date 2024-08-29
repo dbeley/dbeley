@@ -4,15 +4,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/d_beley) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a924190403553d2e8f742d2148d8b6eb.jpg' width='16%' height='16%' alt='Agalloch - Pale Folklore'>](https://www.last.fm/music/agalloch/pale%2bfolklore)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ec600d74bd75d0b42f5782b58df37f99.jpg' width='16%' height='16%' alt='Agalloch - Ashes Against the Grain'>](https://www.last.fm/music/agalloch/ashes%2bagainst%2bthe%2bgrain)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a924190403553d2e8f742d2148d8b6eb.jpg' width='16%' height='16%' alt='Agalloch - Pale Folklore'>](https://www.last.fm/music/agalloch/pale%2bfolklore)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cb8b6b0db163433eb22c77accf436050.png' width='16%' height='16%' alt='Agalloch - The Mantle'>](https://www.last.fm/music/agalloch/the%2bmantle)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7288ec5442a34c3583f9cb38d38595ee.jpg' width='16%' height='16%' alt='Danny Brown - Atrocity Exhibition'>](https://www.last.fm/music/danny%2bbrown/atrocity%2bexhibition)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5fffc45953ee4daba99589c0f154c103.jpg' width='16%' height='16%' alt='Aesop Rock - Labor Days'>](https://www.last.fm/music/aesop%2brock/labor%2bdays)&nbsp;
-<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e7e3cea2ec239739d1e2e81a80dea0a3.jpg' width='16%' height='16%' alt='Agalloch - The White EP'>](https://www.last.fm/music/agalloch/the%2bwhite%2bep)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/39f82958589c0f2c1a3dd88639144573.png' width='16%' height='16%' alt='Deftones - White Pony'>](https://www.last.fm/music/deftones/white%2bpony)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/784d1dfb86d4c499a060af271fc309a4.jpg' width='16%' height='16%' alt='Everything Everything - Mountainhead'>](https://www.last.fm/music/everything%2beverything/mountainhead)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d6425109c73351a58d6d617a7122ea92.jpg' width='16%' height='16%' alt='NoMeansNo - Wrong'>](https://www.last.fm/music/nomeansno/wrong)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/617adca361fc1e60f4150601a421fd31.jpg' width='16%' height='16%' alt='Sudan Archives - Natural Brown Prom Queen'>](https://www.last.fm/music/sudan%2barchives/natural%2bbrown%2bprom%2bqueen)&nbsp;
+<br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2a959509c1380250afca7d0f8a5edc44.png' width='16%' height='16%' alt='Sweet Trip - Velocity : Design : Comfort'>](https://www.last.fm/music/sweet%2btrip/velocity%2b%253a%2bdesign%2b%253a%2bcomfort)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/64b1c55cf96a26bd851e053a745e76bc.jpg' width='16%' height='16%' alt='Agalloch - Marrow of the Spirit'>](https://www.last.fm/music/agalloch/marrow%2bof%2bthe%2bspirit)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6d08d938c62e4ead96abd1e8a35d1ed4.jpg' width='16%' height='16%' alt='Alvvays - Antisocialites B-sides'>](https://www.last.fm/music/alvvays/antisocialites%2bb-sides)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/509a00756d5997721dc13f1578339f04.png' width='16%' height='16%' alt='At the Drive-In - Relationship of Command'>](https://www.last.fm/music/at%2bthe%2bdrive-in/relationship%2bof%2bcommand)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3eb82f97b81243ab931f549c105f4e7d.jpg' width='16%' height='16%' alt='At the Drive-In - Vaya'>](https://www.last.fm/music/at%2bthe%2bdrive-in/vaya)&nbsp;
 <br>
