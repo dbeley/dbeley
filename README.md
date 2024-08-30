@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2a959509c1380250afca7d0f8a5edc44.png' width='16%' height='16%' alt='Sweet Trip - Velocity : Design : Comfort'>](https://www.last.fm/music/sweet%2btrip/velocity%2b%253a%2bdesign%2b%253a%2bcomfort)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/64b1c55cf96a26bd851e053a745e76bc.jpg' width='16%' height='16%' alt='Agalloch - Marrow of the Spirit'>](https://www.last.fm/music/agalloch/marrow%2bof%2bthe%2bspirit)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6d08d938c62e4ead96abd1e8a35d1ed4.jpg' width='16%' height='16%' alt='Alvvays - Antisocialites B-sides'>](https://www.last.fm/music/alvvays/antisocialites%2bb-sides)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/509a00756d5997721dc13f1578339f04.png' width='16%' height='16%' alt='At the Drive-In - Relationship of Command'>](https://www.last.fm/music/at%2bthe%2bdrive-in/relationship%2bof%2bcommand)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3eb82f97b81243ab931f549c105f4e7d.jpg' width='16%' height='16%' alt='At the Drive-In - Vaya'>](https://www.last.fm/music/at%2bthe%2bdrive-in/vaya)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b0c1511b79b6a4a86d55fdd36ea9b3b5.jpg' width='16%' height='16%' alt='Boards of Canada - Geogaddi'>](https://www.last.fm/music/boards%2bof%2bcanada/geogaddi)&nbsp;
 <br>
