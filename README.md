@@ -4,15 +4,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/d_beley) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2a959509c1380250afca7d0f8a5edc44.png' width='16%' height='16%' alt='Sweet Trip - Velocity : Design : Comfort'>](https://www.last.fm/music/sweet%2btrip/velocity%2b%253a%2bdesign%2b%253a%2bcomfort)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b0c1511b79b6a4a86d55fdd36ea9b3b5.jpg' width='16%' height='16%' alt='Boards of Canada - Geogaddi'>](https://www.last.fm/music/boards%2bof%2bcanada/geogaddi)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0bb566f53e9f4cbfccf926acd7371183.png' width='16%' height='16%' alt='Boards of Canada - Music Has the Right to Children'>](https://www.last.fm/music/boards%2bof%2bcanada/music%2bhas%2bthe%2bright%2bto%2bchildren)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7c5916be5a424a42a43ec307205ad061.png' width='16%' height='16%' alt='Cannibal Ox - The Cold Vein'>](https://www.last.fm/music/cannibal%2box/the%2bcold%2bvein)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7288ec5442a34c3583f9cb38d38595ee.jpg' width='16%' height='16%' alt='Danny Brown - Atrocity Exhibition'>](https://www.last.fm/music/danny%2bbrown/atrocity%2bexhibition)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b503d145d1b55c27fe5debb9a33d7765.jpg' width='16%' height='16%' alt='Carly Rae Jepsen - The Loneliest Time'>](https://www.last.fm/music/carly%2brae%2bjepsen/the%2bloneliest%2btime)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e41b308ca8a94f72e26a79320a3bf313.jpg' width='16%' height='16%' alt='Alvvays - Blue Rev'>](https://www.last.fm/music/alvvays/blue%2brev)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/119ab04e57984577b61a87683c6391f3.png' width='16%' height='16%' alt='Jerry Martin - SimCity 3000: The Soundtrack'>](https://www.last.fm/music/jerry%2bmartin/simcity%2b3000%253a%2bthe%2bsoundtrack)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d5c97f0595e229f94189c691282aad36.png' width='16%' height='16%' alt='Various Artists - Fallout 4: Diamond City Radio'>](https://www.last.fm/music/various%2bartists/fallout%2b4%253a%2bdiamond%2bcity%2bradio)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0fb06d94de31102e30dc28b6c23246b5.jpg' width='16%' height='16%' alt='Alex G - House of Sugar'>](https://www.last.fm/music/alex%2bg/house%2bof%2bsugar)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c32cd109176d4241b2b68183b631a47c.png' width='16%' height='16%' alt='Danny Brown - XXX'>](https://www.last.fm/music/danny%2bbrown/xxx)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/784d1dfb86d4c499a060af271fc309a4.jpg' width='16%' height='16%' alt='Everything Everything - Mountainhead'>](https://www.last.fm/music/everything%2beverything/mountainhead)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1e297b4385fa4c16cc911398d13bdf04.png' width='16%' height='16%' alt='Freddie Gibbs & Madlib - Piñata'>](https://www.last.fm/music/freddie%2bgibbs%2b%2526%2bmadlib/pi%25c3%25b1ata)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0584bfcaafec4159c151667aefb424dc.png' width='16%' height='16%' alt='Hum - You’d Prefer An Astronaut'>](https://www.last.fm/music/hum/you%25e2%2580%2599d%2bprefer%2ban%2bastronaut)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ad40a9d964dbdd90fe805e4280d9bbb0.jpg' width='16%' height='16%' alt='JAY-Z - Reasonable Doubt'>](https://www.last.fm/music/jay-z/reasonable%2bdoubt)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/46d822f1febda349fe65ddb6ecc0dd00.jpg' width='16%' height='16%' alt='Bill Wells & Maher Shalal Hash Baz - Osaka Bridge'>](https://www.last.fm/music/bill%2bwells%2b%2526%2bmaher%2bshalal%2bhash%2bbaz/osaka%2bbridge)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/515b7450118c4ff0b8d0a9ad2b4375ec.png' width='16%' height='16%' alt='Pavement - Crooked Rain, Crooked Rain'>](https://www.last.fm/music/pavement/crooked%2brain%252c%2bcrooked%2brain)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2a959509c1380250afca7d0f8a5edc44.png' width='16%' height='16%' alt='Sweet Trip - Velocity : Design : Comfort'>](https://www.last.fm/music/sweet%2btrip/velocity%2b%253a%2bdesign%2b%253a%2bcomfort)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8bbb31da139345622cb44d2bd5d1cccd.jpg' width='16%' height='16%' alt='(Sandy) Alex G - Beach Music'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/beach%2bmusic)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fbfb4cc05bacc31765cb78c0d67eada4.jpg' width='16%' height='16%' alt='(Sandy) Alex G - Rocket'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/rocket)&nbsp;
 <br>
