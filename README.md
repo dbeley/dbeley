@@ -4,15 +4,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/d_beley) in the last week
 
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0787b4f6e2086c763482254d375b17f0.png' width='16%' height='16%' alt='Magdalena Bay - Imaginal Disk'>](https://www.last.fm/music/magdalena%2bbay/imaginal%2bdisk)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b503d145d1b55c27fe5debb9a33d7765.jpg' width='16%' height='16%' alt='Carly Rae Jepsen - The Loneliest Time'>](https://www.last.fm/music/carly%2brae%2bjepsen/the%2bloneliest%2btime)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0fb06d94de31102e30dc28b6c23246b5.jpg' width='16%' height='16%' alt='Alex G - House of Sugar'>](https://www.last.fm/music/alex%2bg/house%2bof%2bsugar)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg' width='16%' height='16%' alt='Alex G - TRICK'>](https://www.last.fm/music/alex%2bg/trick)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2828149f3884159e3ddd5fd0801267b2.jpg' width='16%' height='16%' alt='Juliana Gattas - Maquillada en la Cama'>](https://www.last.fm/music/juliana%2bgattas/maquillada%2ben%2bla%2bcama)&nbsp;
+<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e41b308ca8a94f72e26a79320a3bf313.jpg' width='16%' height='16%' alt='Alvvays - Blue Rev'>](https://www.last.fm/music/alvvays/blue%2brev)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8bbb31da139345622cb44d2bd5d1cccd.jpg' width='16%' height='16%' alt='(Sandy) Alex G - Beach Music'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/beach%2bmusic)&nbsp;
-<br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7bad0ad69b9523d8816157c2677b4963.jpg' width='16%' height='16%' alt='Tina Brooks - True Blue'>](https://www.last.fm/music/tina%2bbrooks/true%2bblue)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/119ab04e57984577b61a87683c6391f3.png' width='16%' height='16%' alt='Jerry Martin - SimCity 3000: The Soundtrack'>](https://www.last.fm/music/jerry%2bmartin/simcity%2b3000%253a%2bthe%2bsoundtrack)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d5c97f0595e229f94189c691282aad36.png' width='16%' height='16%' alt='Various Artists - Fallout 4: Diamond City Radio'>](https://www.last.fm/music/various%2bartists/fallout%2b4%253a%2bdiamond%2bcity%2bradio)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fbfb4cc05bacc31765cb78c0d67eada4.jpg' width='16%' height='16%' alt='(Sandy) Alex G - Rocket'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/rocket)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/aae5d6e8190f62aeb6482c6f01798996.jpg' width='16%' height='16%' alt='Alex G - God Save the Animals'>](https://www.last.fm/music/alex%2bg/god%2bsave%2bthe%2banimals)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8a1d09a41d4140ffa411e66607c994fe.png' width='16%' height='16%' alt='Nick Cave & the Bad Seeds - Let Love In'>](https://www.last.fm/music/nick%2bcave%2b%2526%2bthe%2bbad%2bseeds/let%2blove%2bin)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0e34af89cd8c0c513ed736e736cc4123.jpg' width='16%' height='16%' alt='Mount Kimbie - The Sunset Violent'>](https://www.last.fm/music/mount%2bkimbie/the%2bsunset%2bviolent)&nbsp;
 <br>
