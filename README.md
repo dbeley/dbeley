@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e41b308ca8a94f72e26a79320a3bf313.jpg' width='16%' height='16%' alt='Alvvays - Blue Rev'>](https://www.last.fm/music/alvvays/blue%2brev)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8bbb31da139345622cb44d2bd5d1cccd.jpg' width='16%' height='16%' alt='(Sandy) Alex G - Beach Music'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/beach%2bmusic)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a4cccfa6082b0c3d0bcb35e3efee0e7c.jpg' width='16%' height='16%' alt='Booker Ervin - The Freedom Book'>](https://www.last.fm/music/booker%2bervin/the%2bfreedom%2bbook)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7bad0ad69b9523d8816157c2677b4963.jpg' width='16%' height='16%' alt='Tina Brooks - True Blue'>](https://www.last.fm/music/tina%2bbrooks/true%2bblue)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/119ab04e57984577b61a87683c6391f3.png' width='16%' height='16%' alt='Jerry Martin - SimCity 3000: The Soundtrack'>](https://www.last.fm/music/jerry%2bmartin/simcity%2b3000%253a%2bthe%2bsoundtrack)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0e34af89cd8c0c513ed736e736cc4123.jpg' width='16%' height='16%' alt='Mount Kimbie - The Sunset Violent'>](https://www.last.fm/music/mount%2bkimbie/the%2bsunset%2bviolent)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bdeaf43285b304448e07f5c3d554a643.jpg' width='16%' height='16%' alt='Andrew Hill - Point of Departure'>](https://www.last.fm/music/andrew%2bhill/point%2bof%2bdeparture)&nbsp;
 <br>
