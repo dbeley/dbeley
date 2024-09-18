@@ -4,15 +4,15 @@
 
 ### My most listened albums on [last.fm](https://www.last.fm/user/d_beley) in the last week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a196da5cbfd2821d6a33d5978b820d05.jpg' width='16%' height='16%' alt='The Beatles - The Beatles'>](https://www.last.fm/music/the%2bbeatles/the%2bbeatles)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8695a71527f248f3c8a9875b42d0f508.jpg' width='16%' height='16%' alt='The Magnetic Fields - 69 Love Songs'>](https://www.last.fm/music/the%2bmagnetic%2bfields/69%2blove%2bsongs)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a36190af22bb80b14eefd21282e17856.jpg' width='16%' height='16%' alt='Antônio Carlos Jobim - Inédito'>](https://www.last.fm/music/ant%25c3%25b4nio%2bcarlos%2bjobim/in%25c3%25a9dito)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8bbb31da139345622cb44d2bd5d1cccd.jpg' width='16%' height='16%' alt='(Sandy) Alex G - Beach Music'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/beach%2bmusic)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg' width='16%' height='16%' alt='Alex G - TRICK'>](https://www.last.fm/music/alex%2bg/trick)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7288ec5442a34c3583f9cb38d38595ee.jpg' width='16%' height='16%' alt='Danny Brown - Atrocity Exhibition'>](https://www.last.fm/music/danny%2bbrown/atrocity%2bexhibition)&nbsp;
+<br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b7b9b1e9d8007ddaeaa9ee8a8e45a4c3.png' width='16%' height='16%' alt='Earl Sweatshirt - Some Rap Songs'>](https://www.last.fm/music/earl%2bsweatshirt/some%2brap%2bsongs)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0219c3d253127cdb95fec5a4f16e6d89.jpg' width='16%' height='16%' alt='Benny Goodman - The Famous 1938 Carnegie Hall Jazz Concert'>](https://www.last.fm/music/benny%2bgoodman/the%2bfamous%2b1938%2bcarnegie%2bhall%2bjazz%2bconcert)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8e557c5e0b08733673d22fb8c1344115.png' width='16%' height='16%' alt='Nilüfer Yanya - My Method Actor'>](https://www.last.fm/music/nil%25c3%25bcfer%2byanya/my%2bmethod%2bactor)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/deaec2d4735bea0d1c45fc75261624ae.jpg' width='16%' height='16%' alt='The Beatles - Revolver'>](https://www.last.fm/music/the%2bbeatles/revolver)&nbsp;
-<br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg' width='16%' height='16%' alt='Alex G - TRICK'>](https://www.last.fm/music/alex%2bg/trick)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8bbb31da139345622cb44d2bd5d1cccd.jpg' width='16%' height='16%' alt='(Sandy) Alex G - Beach Music'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/beach%2bmusic)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f76fb79ea21151a98679ec398798bd4e.jpg' width='16%' height='16%' alt='Brad Mehldau - Your Mother Should Know: Brad Mehldau Plays The Beatles'>](https://www.last.fm/music/brad%2bmehldau/your%2bmother%2bshould%2bknow%253a%2bbrad%2bmehldau%2bplays%2bthe%2bbeatles)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4d54f37e810545c4a7c8486e19a625f7.jpg' width='16%' height='16%' alt='Baptiste Trotignon - Song Song Song'>](https://www.last.fm/music/baptiste%2btrotignon/song%2bsong%2bsong)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/de9d83c3296b6625aa94cf870732645f.jpg' width='16%' height='16%' alt='Paul McCartney & Linda McCartney - RAM'>](https://www.last.fm/music/paul%2bmccartney%2b%2526%2blinda%2bmccartney/ram)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/85540f3f9e225b93de5972556ceb97d6.png' width='16%' height='16%' alt='Vince Staples - Big Fish Theory'>](https://www.last.fm/music/vince%2bstaples/big%2bfish%2btheory)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/df9e72398d90044cb4d8e945d0d1abe3.jpg' width='16%' height='16%' alt='JPEGMAFIA & Danny Brown - SCARING THE HOES'>](https://www.last.fm/music/jpegmafia%2b%2526%2bdanny%2bbrown/scaring%2bthe%2bhoes)&nbsp;
 <br>
