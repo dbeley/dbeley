@@ -16,7 +16,7 @@ def main():
 
     readme_content = """### Hi there 👋, I'm [dbeley](https://dbeley.ovh/en)!\n
 ![dbeley's github stats](https://github-readme-stats.vercel.app/api?username=dbeley)\n
-### My most listened albums on [last.fm](https://www.last.fm/user/d_beley) in the last week\n
+### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week\n
 """
 
     image_size = "16%"

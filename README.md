@@ -2,7 +2,7 @@
 
 ![dbeley's github stats](https://github-readme-stats.vercel.app/api?username=dbeley)
 
-### My most listened albums on [last.fm](https://www.last.fm/user/d_beley) in the last week
+### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/58a0b35dae94252478938e42d6afbc94.jpg' width='16%' height='16%' alt='Todd Rundgren - A Wizard, A True Star'>](https://www.last.fm/music/todd%2brundgren/a%2bwizard%252c%2ba%2btrue%2bstar)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg' width='16%' height='16%' alt='Alex G - TRICK'>](https://www.last.fm/music/alex%2bg/trick)&nbsp;
