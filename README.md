@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5efd3a722587f3bf448160c7cfb4c625.jpg' width='16%' height='16%' alt='The Beths - Expert in a Dying Field'>](https://www.last.fm/music/the%2bbeths/expert%2bin%2ba%2bdying%2bfield)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4805592b3e8850cc3aa85ee73f33faab.jpg' width='16%' height='16%' alt='Xiu Xiu - 13" Frank Beltrame Italian Stiletto with Bison Horn Grips'>](https://www.last.fm/music/xiu%2bxiu/13%2522%2bfrank%2bbeltrame%2bitalian%2bstiletto%2bwith%2bbison%2bhorn%2bgrips)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f76da5e7f8895fa1de817316332a1db3.jpg' width='16%' height='16%' alt='Stereolab - Transient Random-Noise Bursts with Announcements'>](https://www.last.fm/music/stereolab/transient%2brandom-noise%2bbursts%2bwith%2bannouncements)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5a4441e6eaf8337da22616122b8bccd6.jpg' width='16%' height='16%' alt='The Smile - Cutouts'>](https://www.last.fm/music/the%2bsmile/cutouts)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/557397c58f19a5a89a003056ab196692.jpg' width='16%' height='16%' alt='Frank Zappa - Hot Rats'>](https://www.last.fm/music/frank%2bzappa/hot%2brats)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/63e9b9e298e04a3fcacd004584dc3c51.png' width='16%' height='16%' alt='R.E.M. - Chronic Town'>](https://www.last.fm/music/r.e.m./chronic%2btown)&nbsp;
 <br>
