@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f01dc65b3d4496b4d34d6a004f329930.png' width='16%' height='16%' alt='Do Make Say Think - & Yet & Yet'>](https://www.last.fm/music/do%2bmake%2bsay%2bthink/%2526%2byet%2b%2526%2byet)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f98967850adeaae9c2bc5888347b5a27.jpg' width='16%' height='16%' alt='Serge Gainsbourg - Histoire de Melody Nelson'>](https://www.last.fm/music/serge%2bgainsbourg/histoire%2bde%2bmelody%2bnelson)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/86795378ccd7a566d9941eb427b03c46.jpg' width='16%' height='16%' alt='Ari Hoenig - Golden Treasures'>](https://www.last.fm/music/ari%2bhoenig/golden%2btreasures)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/22089c271beb16edf01f3a3482102bf2.jpg' width='16%' height='16%' alt='Emmet Cohen - Vibe Provider'>](https://www.last.fm/music/emmet%2bcohen/vibe%2bprovider)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/49f7e188981276aac6cdf7ac3ab709a5.jpg' width='16%' height='16%' alt='Immanuel Wilkins - Omega'>](https://www.last.fm/music/immanuel%2bwilkins/omega)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a0beb2c48c08e2d3ded06875fe248bb2.jpg' width='16%' height='16%' alt='Slowdive - Souvlaki'>](https://www.last.fm/music/slowdive/souvlaki)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c46ec0f0ee194be4cb3c1901d00996c0.jpg' width='16%' height='16%' alt='The Afghan Whigs - 1965'>](https://www.last.fm/music/the%2bafghan%2bwhigs/1965)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b00527c6ae0cd1d4c9bf3706b130ad56.jpg' width='16%' height='16%' alt='Charli xcx - BRAT'>](https://www.last.fm/music/charli%2bxcx/brat)&nbsp;
 <br>
