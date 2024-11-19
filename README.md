@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d47d417aabf8403c85c172dc8f523892.png' width='16%' height='16%' alt='Billy Cobham - Spectrum'>](https://www.last.fm/music/billy%2bcobham/spectrum)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/160b550d5a074213b67755faaa082e7b.jpg' width='16%' height='16%' alt='Erroll Garner - The Erroll Garner Collection Vol.2 - Dancing On The Ceiling'>](https://www.last.fm/music/erroll%2bgarner/the%2berroll%2bgarner%2bcollection%2bvol.2%2b-%2bdancing%2bon%2bthe%2bceiling)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1de40e0d56fb05d36516d08b94526bbf.png' width='16%' height='16%' alt='New Jazz Underground - the MF DOOM SUiTE.'>](https://www.last.fm/music/new%2bjazz%2bunderground/the%2bmf%2bdoom%2bsuite.)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0287654dc00a671fffa4e5446370719d.png' width='16%' height='16%' alt='Dexter Gordon - Go'>](https://www.last.fm/music/dexter%2bgordon/go)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/221a3ec408ecda4f97be58a150f0fcf4.jpg' width='16%' height='16%' alt='Bud Powell - Strictly Powell'>](https://www.last.fm/music/bud%2bpowell/strictly%2bpowell)&nbsp;
 <br>
