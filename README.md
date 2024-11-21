@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d2d96264d48d44f4a6157194e5a28570.jpg' width='16%' height='16%' alt='The RH Factor - Distractions'>](https://www.last.fm/music/the%2brh%2bfactor/distractions)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6f172e04bcc47fb3037c2adf2448476a.jpg' width='16%' height='16%' alt='高中正義 - An Insatiable High'>](https://www.last.fm/music/%25e9%25ab%2598%25e4%25b8%25ad%25e6%25ad%25a3%25e7%25be%25a9/an%2binsatiable%2bhigh)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/31bfb9c860a50183ff80f829e04842cd.png' width='16%' height='16%' alt='Mount Eerie - Night Palace'>](https://www.last.fm/music/mount%2beerie/night%2bpalace)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fd43f06f84dab8b923600c1c5ed9f532.jpg' width='16%' height='16%' alt='Ella Fitzgerald - Ella Wishes You a Swinging Christmas'>](https://www.last.fm/music/ella%2bfitzgerald/ella%2bwishes%2byou%2ba%2bswinging%2bchristmas)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3f38f7b27ae0db97eb90e40ab0fe6968.jpg' width='16%' height='16%' alt='Various Artists - Tropicália: Ou Panis et Circenses'>](https://www.last.fm/music/various%2bartists/tropic%25c3%25a1lia%253a%2bou%2bpanis%2bet%2bcircenses)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/94a8d4e53b94488191602b911b3a97fe.jpg' width='16%' height='16%' alt='Nat King Cole - After Midnight'>](https://www.last.fm/music/nat%2bking%2bcole/after%2bmidnight)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b255eed8ebf17624b1c2e62431645bc3.jpg' width='16%' height='16%' alt='Billie Holiday - Body and Soul'>](https://www.last.fm/music/billie%2bholiday/body%2band%2bsoul)&nbsp;
 <br>
