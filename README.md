@@ -4,15 +4,15 @@
 
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ea2f03957a5bcd480eb599cb029cf81c.png' width='16%' height='16%' alt='Walter Smith III - return to casual'>](https://www.last.fm/music/walter%2bsmith%2biii/return%2bto%2bcasual)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/965b203e6950715e435a5b63a0a25eed.jpg' width='16%' height='16%' alt='Miles Davis - The Complete In a Silent Way Sessions'>](https://www.last.fm/music/miles%2bdavis/the%2bcomplete%2bin%2ba%2bsilent%2bway%2bsessions)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg' width='16%' height='16%' alt='Alex G - TRICK'>](https://www.last.fm/music/alex%2bg/trick)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/03337c9410154aa74af1e6b23bafa085.jpg' width='16%' height='16%' alt='Alex G - RACE'>](https://www.last.fm/music/alex%2bg/race)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0fb06d94de31102e30dc28b6c23246b5.jpg' width='16%' height='16%' alt='Alex G - House of Sugar'>](https://www.last.fm/music/alex%2bg/house%2bof%2bsugar)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f37e5a7ff8cb43f79ae44c335e400bf5.jpg' width='16%' height='16%' alt='Kurt Rosenwinkel - The Next Step'>](https://www.last.fm/music/kurt%2brosenwinkel/the%2bnext%2bstep)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2b439de93fd07adb2d7d3da6cf75bcba.jpg' width='16%' height='16%' alt='Miles Davis - Filles de Kilimanjaro'>](https://www.last.fm/music/miles%2bdavis/filles%2bde%2bkilimanjaro)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/50f513ad4b1a4bb1a5ca8530568660fd.jpg' width='16%' height='16%' alt='Miles Davis - On the Corner'>](https://www.last.fm/music/miles%2bdavis/on%2bthe%2bcorner)&nbsp;
 <br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fa6e5ed9190419835ffaa56cd0e2ac00.jpg' width='16%' height='16%' alt='Sum 41 - All the Good Shit: 14 Solid Gold Hits 2000–2008'>](https://www.last.fm/music/sum%2b41/all%2bthe%2bgood%2bshit%253a%2b14%2bsolid%2bgold%2bhits%2b2000%25e2%2580%25932008)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0fb06d94de31102e30dc28b6c23246b5.jpg' width='16%' height='16%' alt='Alex G - House of Sugar'>](https://www.last.fm/music/alex%2bg/house%2bof%2bsugar)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0c6756fee65118d45f73613122e3d2b5.jpg' width='16%' height='16%' alt='3776 - The Birth and Death of the Universe through Mount Fuji'>](https://www.last.fm/music/3776/the%2bbirth%2band%2bdeath%2bof%2bthe%2buniverse%2bthrough%2bmount%2bfuji)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/abf2a3bb93a14d399029e7c0c80e4df0.jpg' width='16%' height='16%' alt='Brad Mehldau - Deregulating Jazz'>](https://www.last.fm/music/brad%2bmehldau/deregulating%2bjazz)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c1e138ff19888c6492d146abc7ba8f71.jpg' width='16%' height='16%' alt='Charlie Parker - Verve Jazz Masters 15'>](https://www.last.fm/music/charlie%2bparker/verve%2bjazz%2bmasters%2b15)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fd3a223d72cc45b2c5991e7b665e48af.jpg' width='16%' height='16%' alt='Hank Jones - Piano Solo'>](https://www.last.fm/music/hank%2bjones/piano%2bsolo)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/17d4163ad71b4ff785dd5a356c39543d.jpg' width='16%' height='16%' alt='Herbie Hancock - V.S.O.P.'>](https://www.last.fm/music/herbie%2bhancock/v.s.o.p.)&nbsp;
 <br>
