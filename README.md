@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0fb06d94de31102e30dc28b6c23246b5.jpg' width='16%' height='16%' alt='Alex G - House of Sugar'>](https://www.last.fm/music/alex%2bg/house%2bof%2bsugar)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0c6756fee65118d45f73613122e3d2b5.jpg' width='16%' height='16%' alt='3776 - The Birth and Death of the Universe through Mount Fuji'>](https://www.last.fm/music/3776/the%2bbirth%2band%2bdeath%2bof%2bthe%2buniverse%2bthrough%2bmount%2bfuji)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c1e138ff19888c6492d146abc7ba8f71.jpg' width='16%' height='16%' alt='Charlie Parker - Verve Jazz Masters 15'>](https://www.last.fm/music/charlie%2bparker/verve%2bjazz%2bmasters%2b15)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fd3a223d72cc45b2c5991e7b665e48af.jpg' width='16%' height='16%' alt='Hank Jones - Piano Solo'>](https://www.last.fm/music/hank%2bjones/piano%2bsolo)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/749c955a525f308297f71eafb58c2d71.jpg' width='16%' height='16%' alt='Jeff Rosenstock - HELLMODE'>](https://www.last.fm/music/jeff%2brosenstock/hellmode)&nbsp;
 <br>
