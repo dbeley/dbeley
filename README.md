@@ -10,9 +10,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c2ebee2cc17148f5c85c1c795b967f5c.jpg' width='16%' height='16%' alt='Freddie Redd Quintet - Shades of Redd'>](https://www.last.fm/music/freddie%2bredd%2bquintet/shades%2bof%2bredd)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/363b7be1a0df78260aee74e671974164.jpg' width='16%' height='16%' alt='The Dream Syndicate - The Days of Wine and Roses'>](https://www.last.fm/music/the%2bdream%2bsyndicate/the%2bdays%2bof%2bwine%2band%2broses)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fe3ee50dd4344df497ab8953c2e65ca0.jpg' width='16%' height='16%' alt='The Horace Silver Quintet - Six Pieces Of Silver'>](https://www.last.fm/music/the%2bhorace%2bsilver%2bquintet/six%2bpieces%2bof%2bsilver)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/30b0db96c46a3aebe7a0a968b532c306.jpg' width='16%' height='16%' alt='The Oscar Peterson Trio - Night Train'>](https://www.last.fm/music/the%2boscar%2bpeterson%2btrio/night%2btrain)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/38b513388a1da4e665d812f5f8bf8315.jpg' width='16%' height='16%' alt='Abbey Lincoln - Abbey Is Blue'>](https://www.last.fm/music/abbey%2blincoln/abbey%2bis%2bblue)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/de0548b350043b7f7ea1ad6f6a3f7edc.jpg' width='16%' height='16%' alt='Ari Hoenig - Tea for three'>](https://www.last.fm/music/ari%2bhoenig/tea%2bfor%2bthree)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a82ff791f31cf4d743bba519931b3a23.jpg' width='16%' height='16%' alt='Duke Pearson - Sweet Honey Bee'>](https://www.last.fm/music/duke%2bpearson/sweet%2bhoney%2bbee)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/eaaaf47963cb4fe9a7d68bf9dfb04fbb.jpg' width='16%' height='16%' alt='Red Garland - The P.C. Blues'>](https://www.last.fm/music/red%2bgarland/the%2bp.c.%2bblues)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c98c05394deea54872bed7462ffbc2be.jpg' width='16%' height='16%' alt='Stephen Malkmus - Stephen Malkmus'>](https://www.last.fm/music/stephen%2bmalkmus/stephen%2bmalkmus)&nbsp;
 <br>
