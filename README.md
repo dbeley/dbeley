@@ -10,9 +10,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/20d1b449814341b2a2133e0cc9539a59.jpg' width='16%' height='16%' alt='Ben Paterson - Blues for Oscar'>](https://www.last.fm/music/ben%2bpaterson/blues%2bfor%2boscar)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9b19605ed5724ddf96f1dbea92fa8ded.png' width='16%' height='16%' alt='Esbjörn Svensson Trio - Tuesday Wonderland'>](https://www.last.fm/music/esbj%25c3%25b6rn%2bsvensson%2btrio/tuesday%2bwonderland)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c98c05394deea54872bed7462ffbc2be.jpg' width='16%' height='16%' alt='Stephen Malkmus - Stephen Malkmus'>](https://www.last.fm/music/stephen%2bmalkmus/stephen%2bmalkmus)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8f9e3369f138099c6306d53bb0a55003.jpg' width='16%' height='16%' alt='Ornette Coleman - Change of the Century'>](https://www.last.fm/music/ornette%2bcoleman/change%2bof%2bthe%2bcentury)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0946b711278220010c0f051555b85156.jpg' width='16%' height='16%' alt='Ornette Coleman - Skies Of America'>](https://www.last.fm/music/ornette%2bcoleman/skies%2bof%2bamerica)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f1e80613d1bc4f38cf38ea4f8d342dad.jpg' width='16%' height='16%' alt='John Coltrane Quartet - Africa Brass, Volume 1 & 2'>](https://www.last.fm/music/john%2bcoltrane%2bquartet/africa%2bbrass%252c%2bvolume%2b1%2b%2526%2b2)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0c15072235f22a5c91b856f998c7173c.jpg' width='16%' height='16%' alt='Airto Moreira - Free'>](https://www.last.fm/music/airto%2bmoreira/free)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/00ce7410e6cfd2d0f9f1d847aa793daf.jpg' width='16%' height='16%' alt='Aphex Twin - Selected Ambient Works 85–92'>](https://www.last.fm/music/aphex%2btwin/selected%2bambient%2bworks%2b85%25e2%2580%259392)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/515b7450118c4ff0b8d0a9ad2b4375ec.png' width='16%' height='16%' alt='Pavement - Crooked Rain, Crooked Rain'>](https://www.last.fm/music/pavement/crooked%2brain%252c%2bcrooked%2brain)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e695bbe6233aa3b82bdb215cf0d65d89.jpg' width='16%' height='16%' alt='Ben Paterson - Live At Van Gelders'>](https://www.last.fm/music/ben%2bpaterson/live%2bat%2bvan%2bgelder%2527s)&nbsp;
 <br>
