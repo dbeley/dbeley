@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c5ead34a6aca64a663a3ed83fadfc742.jpg' width='16%' height='16%' alt='Big Thief - Dragon New Warm Mountain I Believe in You'>](https://www.last.fm/music/big%2bthief/dragon%2bnew%2bwarm%2bmountain%2bi%2bbelieve%2bin%2byou)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/52feaba2e909684881d532bc3b912efc.jpg' width='16%' height='16%' alt='Ethel Cain - Preachers Daughter'>](https://www.last.fm/music/ethel%2bcain/preacher%2527s%2bdaughter)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5befc35dbafb43bb8ba0cf1f3f0aab72.png' width='16%' height='16%' alt='John Coltrane - Olé Coltrane'>](https://www.last.fm/music/john%2bcoltrane/ol%25c3%25a9%2bcoltrane)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1444d2daf17340a09b1aa531083a58b8.png' width='16%' height='16%' alt='John Coltrane - Soultrane'>](https://www.last.fm/music/john%2bcoltrane/soultrane)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6e25ac157dd814da990a186851cf48c8.jpg' width='16%' height='16%' alt='Keith Jarrett Trio - Bye Bye Blackbird'>](https://www.last.fm/music/keith%2bjarrett%2btrio/bye%2bbye%2bblackbird)&nbsp;
 <br>
