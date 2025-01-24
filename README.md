@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a9d213e67687e34bb930599cb9d77488.jpg' width='16%' height='16%' alt='Amaro Freitas - YY'>](https://www.last.fm/music/amaro%2bfreitas/y%2527y)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/187c78197108fd595ad57da10778f910.jpg' width='16%' height='16%' alt='Miles Davis Quintet - Workin With The Miles Davis Quintet'>](https://www.last.fm/music/miles%2bdavis%2bquintet/workin%2527%2bwith%2bthe%2bmiles%2bdavis%2bquintet)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/99d3638b45096704de012b64390fc71c.png' width='16%' height='16%' alt='Carly Rae Jepsen - E•MO•TION'>](https://www.last.fm/music/carly%2brae%2bjepsen/e%25e2%2580%25a2mo%25e2%2580%25a2tion)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/52feaba2e909684881d532bc3b912efc.jpg' width='16%' height='16%' alt='Ethel Cain - Preachers Daughter'>](https://www.last.fm/music/ethel%2bcain/preacher%2527s%2bdaughter)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4b076c9b7e06aaf8bee4666701b6e2d0.jpg' width='16%' height='16%' alt='Miles Davis - Milestones'>](https://www.last.fm/music/miles%2bdavis/milestones)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d62ddb58994e45243879a07ee57fdbf7.jpg' width='16%' height='16%' alt='カネコアヤノ - タオルケットは穏やかな'>](https://www.last.fm/music/%25e3%2582%25ab%25e3%2583%258d%25e3%2582%25b3%25e3%2582%25a2%25e3%2583%25a4%25e3%2583%258e/%25e3%2582%25bf%25e3%2582%25aa%25e3%2583%25ab%25e3%2582%25b1%25e3%2583%2583%25e3%2583%2588%25e3%2581%25af%25e7%25a9%258f%25e3%2582%2584%25e3%2581%258b%25e3%2581%25aa)&nbsp;
 <br>
