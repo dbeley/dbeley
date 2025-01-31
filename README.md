@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1526a424b6b50203f85d2b1f6baba550.jpg' width='16%' height='16%' alt='Organized Konfusion - Stress (the extinction agenda)'>](https://www.last.fm/music/organized%2bkonfusion/stress%2b%2528the%2bextinction%2bagenda%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5bfefd12e724dbc0cb6cfa984dbb02c4.jpg' width='16%' height='16%' alt='Eric Reed - Everybody Gets the Blues'>](https://www.last.fm/music/eric%2breed/everybody%2bgets%2bthe%2bblues)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/52feaba2e909684881d532bc3b912efc.jpg' width='16%' height='16%' alt='Ethel Cain - Preachers Daughter'>](https://www.last.fm/music/ethel%2bcain/preacher%2527s%2bdaughter)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f208c5b5995f360cb0a492880372f0fd.jpg' width='16%' height='16%' alt='Nala Sinephro - SPACE 1.8'>](https://www.last.fm/music/nala%2bsinephro/space%2b1.8)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c09acb551c444dc289ce2ba05e93b4a4.png' width='16%' height='16%' alt='Unsane - Unsane'>](https://www.last.fm/music/unsane/unsane)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/71935e2f042bef5c74cd4a483dd0cb4d.png' width='16%' height='16%' alt='Joey Alexander - Continuance'>](https://www.last.fm/music/joey%2balexander/continuance)&nbsp;
 <br>
