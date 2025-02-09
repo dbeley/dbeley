@@ -10,9 +10,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f29c5e55c0b0268a49a9b651d1035774.jpg' width='16%' height='16%' alt='Chilly Gonzales - Solo Piano 20th Anniversary (Live in Paris)'>](https://www.last.fm/music/chilly%2bgonzales/solo%2bpiano%2b20th%2banniversary%2b%2528live%2bin%2bparis%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3332b3cee5de8598dbd080f8e2783f93.jpg' width='16%' height='16%' alt='Black Country, New Road - Ants From Up There'>](https://www.last.fm/music/black%2bcountry%252c%2bnew%2broad/ants%2bfrom%2bup%2bthere)&nbsp;
 <br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fa73baa58d654414a0d50e5db44a3ffe.jpg' width='16%' height='16%' alt='Don Caballero - American Don'>](https://www.last.fm/music/don%2bcaballero/american%2bdon)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2fd688c3fb13e07aa521175a299aead5.jpg' width='16%' height='16%' alt='Solange - A Seat at the Table'>](https://www.last.fm/music/solange/a%2bseat%2bat%2bthe%2btable)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/10665330bf1e97af57e52b98fe27386e.jpg' width='16%' height='16%' alt='Squid - Bright Green Field'>](https://www.last.fm/music/squid/bright%2bgreen%2bfield)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3c2c0ad8d2744ac5cac6535492aae6a4.png' width='16%' height='16%' alt='Herbie Hancock - Man-Child'>](https://www.last.fm/music/herbie%2bhancock/man-child)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5ffcdcdfbdf472ea643b737d7b38dd34.jpg' width='16%' height='16%' alt='Stanley Clarke - Stanley Clarke'>](https://www.last.fm/music/stanley%2bclarke/stanley%2bclarke)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/28bbf7dd157e437ac37bce1b8bc8dea9.jpg' width='16%' height='16%' alt='Ahmad Jamal - The Legendary Okeh & Epic Recordings'>](https://www.last.fm/music/ahmad%2bjamal/the%2blegendary%2bokeh%2b%2526%2bepic%2brecordings)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5131d6ce66c5c1e5f9738fb181592138.jpg' width='16%' height='16%' alt='Art Blakey & The Jazz Messengers - Caravan'>](https://www.last.fm/music/art%2bblakey%2b%2526%2bthe%2bjazz%2bmessengers/caravan)&nbsp;
 <br>
