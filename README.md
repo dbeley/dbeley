@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1abffa4d62b3a091b403fef4453db44e.jpg' width='16%' height='16%' alt='MJ Lenderman - Boat Songs'>](https://www.last.fm/music/mj%2blenderman/boat%2bsongs)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2ef03ea4a875cc7c2e1578aec2194598.jpg' width='16%' height='16%' alt='John Coltrane Quartet - Ballads'>](https://www.last.fm/music/john%2bcoltrane%2bquartet/ballads)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/abd681f7ef3ed16ddc13b9087fb4ee60.jpg' width='16%' height='16%' alt='Red Garland - Red Garlands Piano'>](https://www.last.fm/music/red%2bgarland/red%2bgarland%2527s%2bpiano)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/878e16f63bd1ccb172f7489e5acdca9a.jpg' width='16%' height='16%' alt='Freddie Hubbard - Backlash'>](https://www.last.fm/music/freddie%2bhubbard/backlash)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2ab0853430214b6fbe96ebfd2c15d141.jpg' width='16%' height='16%' alt='Barry Harris - Listen To Barry Harris... Solo Piano'>](https://www.last.fm/music/barry%2bharris/listen%2bto%2bbarry%2bharris...%2bsolo%2bpiano)&nbsp;
 <br>
