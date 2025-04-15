@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/20d1b449814341b2a2133e0cc9539a59.jpg' width='16%' height='16%' alt='Ben Paterson - Blues for Oscar'>](https://www.last.fm/music/ben%2bpaterson/blues%2bfor%2boscar)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c2ebee2cc17148f5c85c1c795b967f5c.jpg' width='16%' height='16%' alt='Freddie Redd Quintet - Shades of Redd'>](https://www.last.fm/music/freddie%2bredd%2bquintet/shades%2bof%2bredd)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d7a39e9c501c4ecaaeb78831a1e7e577.png' width='16%' height='16%' alt='Neil Young & Crazy Horse - Greendale'>](https://www.last.fm/music/neil%2byoung%2b%2526%2bcrazy%2bhorse/greendale)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3082dff4965a9d7bf53d83e5cd3324b2.jpg' width='16%' height='16%' alt='Miles Davis - E.S.P.'>](https://www.last.fm/music/miles%2bdavis/e.s.p.)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4fa76654728b461ba22728681c046335.jpg' width='16%' height='16%' alt='Ahmad Jamal Trio - Complete Live At The Pershing Lounge 1958'>](https://www.last.fm/music/ahmad%2bjamal%2btrio/complete%2blive%2bat%2bthe%2bpershing%2blounge%2b1958)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8c15b9b55a2a473189353b73e70512d5.jpg' width='16%' height='16%' alt='Bill Evans Trio - Time Remembered'>](https://www.last.fm/music/bill%2bevans%2btrio/time%2bremembered)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/aae298cdcaf849bec99cb394a2016592.png' width='16%' height='16%' alt='Bob Dylan - The Best of Bob Dylan'>](https://www.last.fm/music/bob%2bdylan/the%2bbest%2bof%2bbob%2bdylan)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3169d4d7ca95457ab3c52dee4fb5447b.png' width='16%' height='16%' alt='Brian Eno - Before and After Science'>](https://www.last.fm/music/brian%2beno/before%2band%2bafter%2bscience)&nbsp;
 <br>
