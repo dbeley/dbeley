@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/954ccffca43551bbcd3991f92dd49a1a.png' width='16%' height='16%' alt='Susumu Yokota - Symbol'>](https://www.last.fm/music/susumu%2byokota/symbol)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e7ed1800de8ac7131dd28640753506ef.jpg' width='16%' height='16%' alt='Chico Buarque - Chico Buarque'>](https://www.last.fm/music/chico%2bbuarque/chico%2bbuarque)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ddff2c7f6288a60473943649f0b9eb9e.png' width='16%' height='16%' alt='Os Mutantes - Os Mutantes'>](https://www.last.fm/music/os%2bmutantes/os%2bmutantes)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b0fc63d436aeb3ba7c4f49c247accf31.jpg' width='16%' height='16%' alt='Sting - Ten Summoners Tales'>](https://www.last.fm/music/sting/ten%2bsummoner%2527s%2btales)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2fc941299087f4cc602d8a9fce398c24.jpg' width='16%' height='16%' alt='Novos Baianos - Novos Baianos F.C.'>](https://www.last.fm/music/novos%2bbaianos/novos%2bbaianos%2bf.c.)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d86681c216dc1c80e74072529a22b856.jpg' width='16%' height='16%' alt='The Clean - Anthology'>](https://www.last.fm/music/the%2bclean/anthology)&nbsp;
 <br>
