@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/101d26194a33557f8c529fe6d26457e9.jpg' width='16%' height='16%' alt='Caroline - Caroline'>](https://www.last.fm/music/caroline/caroline)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9f293bf701cf80f9cf8df2a00cc16c7a.png' width='16%' height='16%' alt='Enslaved - In Times'>](https://www.last.fm/music/enslaved/in%2btimes)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e77d65081c73f34ba8b39cf797455f46.jpg' width='16%' height='16%' alt='key vs. locket - i felt like a sketch'>](https://www.last.fm/music/key%2bvs.%2blocket/i%2bfelt%2blike%2ba%2bsketch)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5acd068587e959132a87bc58830606dc.png' width='16%' height='16%' alt='Silvana Estrada - Marchita'>](https://www.last.fm/music/silvana%2bestrada/marchita)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/440ecca180b7ef44e738db0fc93e7d18.jpg' width='16%' height='16%' alt='Ben Paterson - That Old Feeling'>](https://www.last.fm/music/ben%2bpaterson/that%2bold%2bfeeling)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/14e8c850ffee9fad1ad02e0d4e3122a6.jpg' width='16%' height='16%' alt='Kenny Burrell & John Coltrane - Kenny Burrell & John Coltrane'>](https://www.last.fm/music/kenny%2bburrell%2b%2526%2bjohn%2bcoltrane/kenny%2bburrell%2b%2526%2bjohn%2bcoltrane)&nbsp;
 <br>
