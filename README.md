@@ -10,9 +10,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8a47324bc6be4dbccd9fc958a4651c6b.png' width='16%' height='16%' alt='Belo - Mistério'>](https://www.last.fm/music/belo/mist%25c3%25a9rio)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3c5cad010d63422cc2c46f835d0a79fa.png' width='16%' height='16%' alt='Soda Stereo - Sueño Stereo'>](https://www.last.fm/music/soda%2bstereo/sue%25c3%25b1o%2bstereo)&nbsp;
 <br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/28db3fdca036fb53c62754694a89d3fd.jpg' width='16%' height='16%' alt='Radiohead - A Moon Shaped Pool'>](https://www.last.fm/music/radiohead/a%2bmoon%2bshaped%2bpool)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/914105990e144a0882133a6af172a079.png' width='16%' height='16%' alt='Vince Guaraldi - Vince Guaraldi and the Lost Cues from the Charlie Brown Television Specials'>](https://www.last.fm/music/vince%2bguaraldi/vince%2bguaraldi%2band%2bthe%2blost%2bcues%2bfrom%2bthe%2bcharlie%2bbrown%2btelevision%2bspecials)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/72d0b18010a542469b82a59259f6b9bf.png' width='16%' height='16%' alt='The Caretaker - An Empty Bliss Beyond This World'>](https://www.last.fm/music/the%2bcaretaker/an%2bempty%2bbliss%2bbeyond%2bthis%2bworld)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/734fd954bebbe268c1fa07049d2d2fdd.jpg' width='16%' height='16%' alt='Christopher Larkin - Hollow Knight'>](https://www.last.fm/music/christopher%2blarkin/hollow%2bknight)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8640e1006a463021598f173fd490e959.jpg' width='16%' height='16%' alt='Belo - Belo em Casa'>](https://www.last.fm/music/belo/belo%2bem%2bcasa)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/51f7b6654a610c03ea7348dee3158105.jpg' width='16%' height='16%' alt='Keith Jarrett - The Melody At Night, With You'>](https://www.last.fm/music/keith%2bjarrett/the%2bmelody%2bat%2bnight%252c%2bwith%2byou)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4706bc51baa7d81abe809c32edc72dbb.jpg' width='16%' height='16%' alt='Belo - Belo - 10 Anos de Sucesso (Deluxe)'>](https://www.last.fm/music/belo/belo%2b-%2b10%2banos%2bde%2bsucesso%2b%2528deluxe%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/10ef2e1d1c81390e4ebb8caaa54f09a0.jpg' width='16%' height='16%' alt='Belo - Pra Ver o Sol Brilhar (Ao Vivo)'>](https://www.last.fm/music/belo/pra%2bver%2bo%2bsol%2bbrilhar%2b%2528ao%2bvivo%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/afcb9b3e84bb94061bb77039f48fa265.jpg' width='16%' height='16%' alt='Amon Amarth - The Great Heathen Army'>](https://www.last.fm/music/amon%2bamarth/the%2bgreat%2bheathen%2barmy)&nbsp;
 <br>
