@@ -4,12 +4,15 @@
 
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3fcb32948e2e561f2882fc4ed445efcb.jpg' width='16%' height='16%' alt='At the Drive-In - Acrobatic Tenement'>](https://www.last.fm/music/at%2bthe%2bdrive-in/acrobatic%2btenement)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/83b8ba7098904df8cd2a781da5b4f871.jpg' width='16%' height='16%' alt='The Cure - Disintegration'>](https://www.last.fm/music/the%2bcure/disintegration)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8704b74422ded0142edb4f9977b01dc1.jpg' width='16%' height='16%' alt='Billy Taylor Trio - Music Keeps Us Young'>](https://www.last.fm/music/billy%2btaylor%2btrio/music%2bkeeps%2bus%2byoung)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/59a8cd9d2ea8e238c78c16b8201f129e.jpg' width='16%' height='16%' alt='Swans - White Light From The Mouth Of Infinity / Love Of Life'>](https://www.last.fm/music/swans/white%2blight%2bfrom%2bthe%2bmouth%2bof%2binfinity%2b%252f%2blove%2bof%2blife)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/813c370575588680bb00f084cb12726e.jpg' width='16%' height='16%' alt='Angelo Badalamenti - Music From Twin Peaks'>](https://www.last.fm/music/angelo%2bbadalamenti/music%2bfrom%2btwin%2bpeaks)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/537ec3ac69344140ace0d8563b3eb80b.jpg' width='16%' height='16%' alt='Brad Mehldau - Largo'>](https://www.last.fm/music/brad%2bmehldau/largo)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5f08b647ec5bf2f8f1b7743c5943f4f3.jpg' width='16%' height='16%' alt='Garbage - Garbage'>](https://www.last.fm/music/garbage/garbage)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/afc92866d9ce4f66cfaf8b4b5d309226.jpg' width='16%' height='16%' alt='Keith Jarrett Trio - Standards, Volume 1'>](https://www.last.fm/music/keith%2bjarrett%2btrio/standards%252c%2bvolume%2b1)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/97d747fc07d1bd7c0476edf76efd0044.jpg' width='16%' height='16%' alt='Marillion - Fugazi'>](https://www.last.fm/music/marillion/fugazi)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/58cbe1d4cc2b4077abf97c2c6f7b1a7b.jpg' width='16%' height='16%' alt='Soundgarden - Down on the Upside'>](https://www.last.fm/music/soundgarden/down%2bon%2bthe%2bupside)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fe5ff0f082985a8632fe4a0bcfc58a47.jpg' width='16%' height='16%' alt='The Smashing Pumpkins - The Aeroplane Flies High'>](https://www.last.fm/music/the%2bsmashing%2bpumpkins/the%2baeroplane%2bflies%2bhigh)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/024dc283f04ee3dc9c59f9252cffabaa.png' width='16%' height='16%' alt='Zwan - Mary Star of the Sea'>](https://www.last.fm/music/zwan/mary%2bstar%2bof%2bthe%2bsea)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b8747a1fdd334913c9681ed7ca85b064.jpg' width='16%' height='16%' alt='Dexter Gordon - Gettin Around'>](https://www.last.fm/music/dexter%2bgordon/gettin%2527%2baround)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fee5867a0fc9228dd7cce408bf7eb3db.jpg' width='16%' height='16%' alt='Miles Davis - Bags Groove'>](https://www.last.fm/music/miles%2bdavis/bags%2527%2bgroove)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/575c44661187437c813204838b9f677c.png' width='16%' height='16%' alt='Placebo - Black Market Music'>](https://www.last.fm/music/placebo/black%2bmarket%2bmusic)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/022cbcfefaea2ee16b8fe469335536d7.jpg' width='16%' height='16%' alt='The Cure - Kiss Me Kiss Me Kiss Me'>](https://www.last.fm/music/the%2bcure/kiss%2bme%2bkiss%2bme%2bkiss%2bme)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7e1f7cafa97e32a9fc549f5cf13061ae.jpg' width='16%' height='16%' alt='The Cure - Wish'>](https://www.last.fm/music/the%2bcure/wish)&nbsp;
+<br>
