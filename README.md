@@ -8,11 +8,11 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e4c84efa4965da3dc4c1a40c40afe389.png' width='16%' height='16%' alt='Men I Trust - Oncle Jazz'>](https://www.last.fm/music/men%2bi%2btrust/oncle%2bjazz)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/30b0db96c46a3aebe7a0a968b532c306.jpg' width='16%' height='16%' alt='The Oscar Peterson Trio - Night Train'>](https://www.last.fm/music/the%2boscar%2bpeterson%2btrio/night%2btrain)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e34cab881a844600ab25a427444c179f.png' width='16%' height='16%' alt='The Weakerthans - Reconstruction Site'>](https://www.last.fm/music/the%2bweakerthans/reconstruction%2bsite)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8704b74422ded0142edb4f9977b01dc1.jpg' width='16%' height='16%' alt='Billy Taylor Trio - Music Keeps Us Young'>](https://www.last.fm/music/billy%2btaylor%2btrio/music%2bkeeps%2bus%2byoung)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6d80863aa0d64f9990b7116c6d600cef.jpg' width='16%' height='16%' alt='The Langley Schools Music Project - Innocence & Despair'>](https://www.last.fm/music/the%2blangley%2bschools%2bmusic%2bproject/innocence%2b%2526%2bdespair)&nbsp;
 <br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8704b74422ded0142edb4f9977b01dc1.jpg' width='16%' height='16%' alt='Billy Taylor Trio - Music Keeps Us Young'>](https://www.last.fm/music/billy%2btaylor%2btrio/music%2bkeeps%2bus%2byoung)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3a57fb04dd7715c7b2a1755ff938e7ec.jpg' width='16%' height='16%' alt='Brad Mehldau Trio - Blues and Ballads'>](https://www.last.fm/music/brad%2bmehldau%2btrio/blues%2band%2bballads)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cd6970c6cc93e84898668af46c808285.jpg' width='16%' height='16%' alt='Men I Trust - Equus Caballus'>](https://www.last.fm/music/men%2bi%2btrust/equus%2bcaballus)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/de915bce509904328f870e8c52a47c6b.png' width='16%' height='16%' alt='Men I Trust - Untourable Album'>](https://www.last.fm/music/men%2bi%2btrust/untourable%2balbum)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/59a8cd9d2ea8e238c78c16b8201f129e.jpg' width='16%' height='16%' alt='Swans - White Light From The Mouth Of Infinity / Love Of Life'>](https://www.last.fm/music/swans/white%2blight%2bfrom%2bthe%2bmouth%2bof%2binfinity%2b%252f%2blove%2bof%2blife)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d9fdf647e2214ab3ca138cb52e860461.png' width='16%' height='16%' alt='The Weakerthans - Left and Leaving'>](https://www.last.fm/music/the%2bweakerthans/left%2band%2bleaving)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4e31f6b52ff52b99a93650badd19b2c5.jpg' width='16%' height='16%' alt='Phoebe Bridgers - Punisher'>](https://www.last.fm/music/phoebe%2bbridgers/punisher)&nbsp;
 <br>
