@@ -4,15 +4,15 @@
 
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/83b8ba7098904df8cd2a781da5b4f871.jpg' width='16%' height='16%' alt='The Cure - Disintegration'>](https://www.last.fm/music/the%2bcure/disintegration)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5b06a3fc07e41a0d2946a407d4349601.png' width='16%' height='16%' alt='Adrianne Lenker - Live at Revolution Hall'>](https://www.last.fm/music/adrianne%2blenker/live%2bat%2brevolution%2bhall)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e4c84efa4965da3dc4c1a40c40afe389.png' width='16%' height='16%' alt='Men I Trust - Oncle Jazz'>](https://www.last.fm/music/men%2bi%2btrust/oncle%2bjazz)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/eadd6e7c27f332bfc59099a5aa7aba4d.jpg' width='16%' height='16%' alt='McKinley Dixon - Magic, Alive!'>](https://www.last.fm/music/mckinley%2bdixon/magic%252c%2balive%2521)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/afc0109f4d52aeeed592b83aced50941.jpg' width='16%' height='16%' alt='Billy Woods - GOLLIWOG'>](https://www.last.fm/music/billy%2bwoods/golliwog)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/30b0db96c46a3aebe7a0a968b532c306.jpg' width='16%' height='16%' alt='The Oscar Peterson Trio - Night Train'>](https://www.last.fm/music/the%2boscar%2bpeterson%2btrio/night%2btrain)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e34cab881a844600ab25a427444c179f.png' width='16%' height='16%' alt='The Weakerthans - Reconstruction Site'>](https://www.last.fm/music/the%2bweakerthans/reconstruction%2bsite)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6d80863aa0d64f9990b7116c6d600cef.jpg' width='16%' height='16%' alt='The Langley Schools Music Project - Innocence & Despair'>](https://www.last.fm/music/the%2blangley%2bschools%2bmusic%2bproject/innocence%2b%2526%2bdespair)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8704b74422ded0142edb4f9977b01dc1.jpg' width='16%' height='16%' alt='Billy Taylor Trio - Music Keeps Us Young'>](https://www.last.fm/music/billy%2btaylor%2btrio/music%2bkeeps%2bus%2byoung)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e34cab881a844600ab25a427444c179f.png' width='16%' height='16%' alt='The Weakerthans - Reconstruction Site'>](https://www.last.fm/music/the%2bweakerthans/reconstruction%2bsite)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ad9e0bcc76824a8327dd4ed57d20dd5b.jpg' width='16%' height='16%' alt='Addison Rae - Addison'>](https://www.last.fm/music/addison%2brae/addison)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6d80863aa0d64f9990b7116c6d600cef.jpg' width='16%' height='16%' alt='The Langley Schools Music Project - Innocence & Despair'>](https://www.last.fm/music/the%2blangley%2bschools%2bmusic%2bproject/innocence%2b%2526%2bdespair)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3a57fb04dd7715c7b2a1755ff938e7ec.jpg' width='16%' height='16%' alt='Brad Mehldau Trio - Blues and Ballads'>](https://www.last.fm/music/brad%2bmehldau%2btrio/blues%2band%2bballads)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cd6970c6cc93e84898668af46c808285.jpg' width='16%' height='16%' alt='Men I Trust - Equus Caballus'>](https://www.last.fm/music/men%2bi%2btrust/equus%2bcaballus)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/de915bce509904328f870e8c52a47c6b.png' width='16%' height='16%' alt='Men I Trust - Untourable Album'>](https://www.last.fm/music/men%2bi%2btrust/untourable%2balbum)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4e31f6b52ff52b99a93650badd19b2c5.jpg' width='16%' height='16%' alt='Phoebe Bridgers - Punisher'>](https://www.last.fm/music/phoebe%2bbridgers/punisher)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fa7b07f897ebaf7eefad15fc805e9cbf.jpg' width='16%' height='16%' alt='Mac Miller - Balloonerism'>](https://www.last.fm/music/mac%2bmiller/balloonerism)&nbsp;
 <br>
