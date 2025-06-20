@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/70030ea1bfe749f1a176b33dc9cc6722.jpg' width='16%' height='16%' alt='XTC - Black Sea (remastered)'>](https://www.last.fm/music/xtc/black%2bsea%2b%2528remastered%2529)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b35aca2f5dfcd3497085d7ad79932d5e.jpg' width='16%' height='16%' alt='12 Rods - Split Personalities'>](https://www.last.fm/music/12%2brods/split%2bpersonalities)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0a8babeb0aa541bfc1183c47b9f46737.png' width='16%' height='16%' alt='Guided by Voices - Bee Thousand'>](https://www.last.fm/music/guided%2bby%2bvoices/bee%2bthousand)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d7e681f8d31de18401319eb84ac3521e.jpg' width='16%' height='16%' alt='Lykathea Aflame - Elvenefris'>](https://www.last.fm/music/lykathea%2baflame/elvenefris)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c5679b83f6f6762fe9b13e64299acfda.jpg' width='16%' height='16%' alt='Ahmad Jamal - Happy Moods'>](https://www.last.fm/music/ahmad%2bjamal/happy%2bmoods)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c980ac9ed35f454f851928f67ea41db0.jpg' width='16%' height='16%' alt='Brad Mehldau Trio - Day Is Done'>](https://www.last.fm/music/brad%2bmehldau%2btrio/day%2bis%2bdone)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7258be9626654f4b8e9e8e410660a05c.jpg' width='16%' height='16%' alt='Charlie Haden with Michael Brecker - American Dreams'>](https://www.last.fm/music/charlie%2bhaden%2bwith%2bmichael%2bbrecker/american%2bdreams)&nbsp;
 <br>
