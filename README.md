@@ -4,15 +4,15 @@
 
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/94761a6a1554ed9fab8b9c06745dd858.jpg' width='16%' height='16%' alt='Jacques Brel - Ces Gens-Là'>](https://www.last.fm/music/jacques%2bbrel/ces%2bgens-l%25c3%25a0)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/04e10daff3151613e3245811c166b425.jpg' width='16%' height='16%' alt='Novos Baianos - Acabou Chorare'>](https://www.last.fm/music/novos%2bbaianos/acabou%2bchorare)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2abd5ffdfb15f156135e2b53f343fc0f.jpg' width='16%' height='16%' alt='DAngelo - Voodoo'>](https://www.last.fm/music/d%2527angelo/voodoo)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c5b36223b8174166c1723f282d67b283.jpg' width='16%' height='16%' alt='Stefano Bollani - Joy In Spite Of Everything'>](https://www.last.fm/music/stefano%2bbollani/joy%2bin%2bspite%2bof%2beverything)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/84b96746227062e313823f548318aa32.jpg' width='16%' height='16%' alt='Ella Fitzgerald - Ella Fitzgerald Sings The George And Ira Gershwin Song Book'>](https://www.last.fm/music/ella%2bfitzgerald/ella%2bfitzgerald%2bsings%2bthe%2bgeorge%2band%2bira%2bgershwin%2bsong%2bbook)&nbsp;
+<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/440ecca180b7ef44e738db0fc93e7d18.jpg' width='16%' height='16%' alt='Ben Paterson - That Old Feeling'>](https://www.last.fm/music/ben%2bpaterson/that%2bold%2bfeeling)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3a96166fac0f162fc40b0558e7e83e91.jpg' width='16%' height='16%' alt='Chick Corea - Now He Sings, Now He Sobs'>](https://www.last.fm/music/chick%2bcorea/now%2bhe%2bsings%252c%2bnow%2bhe%2bsobs)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/430d2e86ee6d0fa9dec2f46c044956b1.jpg' width='16%' height='16%' alt='Pavement - Brighten the Corners'>](https://www.last.fm/music/pavement/brighten%2bthe%2bcorners)&nbsp;
-<br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ee5df2d6290341c0553e66f583ed8abe.png' width='16%' height='16%' alt='Stephen Malkmus and the Jicks - Pig Lib'>](https://www.last.fm/music/stephen%2bmalkmus%2band%2bthe%2bjicks/pig%2blib)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0c15072235f22a5c91b856f998c7173c.jpg' width='16%' height='16%' alt='Airto Moreira - Free'>](https://www.last.fm/music/airto%2bmoreira/free)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/efae0076093d4a0ccadcbe7b8e4276a3.png' width='16%' height='16%' alt='Arthur Russell - Calling Out of Context'>](https://www.last.fm/music/arthur%2brussell/calling%2bout%2bof%2bcontext)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/242e33871d764ee8002c0666dd2674cc.jpg' width='16%' height='16%' alt='Bill Evans Trio - Portrait in Jazz'>](https://www.last.fm/music/bill%2bevans%2btrio/portrait%2bin%2bjazz)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fd78ddd9aa164b158461dd040acd4f6a.jpg' width='16%' height='16%' alt='Black Kray - CRACK CLOUD$ OVER ARTS KITCHEN'>](https://www.last.fm/music/black%2bkray/crack%2bcloud%2524%2bover%2barts%2bkitchen)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ed2208dd319137ee6b3045b4d43f5164.jpg' width='16%' height='16%' alt='Frank Sinatra - Swing Easy!'>](https://www.last.fm/music/frank%2bsinatra/swing%2beasy%2521)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1595ada05b944e45aa9c716d4d577824.jpg' width='16%' height='16%' alt='George Shearing - Verve Jazz Masters 57'>](https://www.last.fm/music/george%2bshearing/verve%2bjazz%2bmasters%2b57)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e9b20811a3b3b3d1ba074933162683fe.jpg' width='16%' height='16%' alt='Kenny Barron - Beyond This Place'>](https://www.last.fm/music/kenny%2bbarron/beyond%2bthis%2bplace)&nbsp;
 <br>
