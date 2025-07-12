@@ -1,14 +1,15 @@
 import logging
 import time
 import argparse
+from concurrent.futures import ThreadPoolExecutor
 import pylast
 
 logger = logging.getLogger()
-temps_debut = time.time()
 
 
 def main():
     args = parse_args()
+    start_time = time.time()
     network = pylast.LastFMNetwork(api_key=args.API_KEY, api_secret=args.API_SECRET)
     limit = args.rows * args.columns
     user = network.get_user(args.username)
@@ -20,23 +21,27 @@ def main():
 """
 
     image_size = "16%"
-    correct_images = 0
-    for item in top_albums:
-        album = item.item
+    albums = [item.item for item in top_albums]
+
+    def fetch_cover(album):
         try:
-            image_url = album.get_cover_image()
+            return album.get_cover_image()
         except Exception as e:
             logger.warning(e)
-            continue
+            return None
+
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        images = list(executor.map(fetch_cover, albums))
+
+    correct_images = 0
+    for album, image_url in zip(albums, images):
         if not image_url:
             continue
-        readme_content += (
-            "[<img src='{}' width='{}' alt='{}'>]({})&nbsp;\n".format(
-                image_url,
-                image_size,
-                f"{album.get_artist()} - {album.get_name()}".replace("'", ""),
-                album.get_url(),
-            )
+        readme_content += "[<img src='{}' width='{}' alt='{}'>]({})&nbsp;\n".format(
+            image_url,
+            image_size,
+            f"{album.get_artist()} - {album.get_name()}".replace("'", ""),
+            album.get_url(),
         )
         if correct_images > 1 and (correct_images + 1) % args.columns == 0:
             readme_content += "<br>\n"
@@ -45,7 +50,7 @@ def main():
             break
     with open("README.md", "w") as f:
         f.write(readme_content)
-    logger.info("Runtime : %.2f seconds." % (time.time() - temps_debut))
+    logger.info("Runtime : %.2f seconds." % (time.time() - start_time))
 
 
 def parse_args():
@@ -91,6 +96,8 @@ def parse_args():
     parser.add_argument("--API_SECRET", help="Lastfm API secret (optional).")
     parser.set_defaults(disable_cache=False)
     args = parser.parse_args()
+    if args.columns is None:
+        args.columns = args.rows
 
     logging.basicConfig(level=args.loglevel, format=format)
     return args
