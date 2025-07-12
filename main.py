@@ -31,9 +31,8 @@ def main():
         if not image_url:
             continue
         readme_content += (
-            "[<img src='{}' width='{}' height='{}' alt='{}'>]({})&nbsp;\n".format(
+            "[<img src='{}' width='{}' alt='{}'>]({})&nbsp;\n".format(
                 image_url,
-                image_size,
                 image_size,
                 f"{album.get_artist()} - {album.get_name()}".replace("'", ""),
                 album.get_url(),
