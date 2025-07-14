@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6b5cbb52f6a496fff407dc736a8a6235.jpg' width='16%' alt='Alex G - RULES'>](https://www.last.fm/music/alex%2bg/rules)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/23426eab791af909e42ce5a9ba4a0339.jpg' width='16%' alt='(Sandy) Alex G - DSU'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/dsu)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f1f0ad12ae4c8556e149a34718f4653d.jpg' width='16%' alt='Ahmad Jamal - Tranquility'>](https://www.last.fm/music/ahmad%2bjamal/tranquility)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0fb06d94de31102e30dc28b6c23246b5.jpg' width='16%' alt='Alex G - House of Sugar'>](https://www.last.fm/music/alex%2bg/house%2bof%2bsugar)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b7a86fff37d74bcacb8bba15e03ed121.jpg' width='16%' alt='Brad Mehldau Trio - Live at Stockholm Concerthouse'>](https://www.last.fm/music/brad%2bmehldau%2btrio/live%2bat%2bstockholm%2bconcerthouse)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/120386f2880f47dfc71873cda716683c.png' width='16%' alt='Elliott Smith - Figure 8'>](https://www.last.fm/music/elliott%2bsmith/figure%2b8)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/71935e2f042bef5c74cd4a483dd0cb4d.png' width='16%' alt='Joey Alexander - Continuance'>](https://www.last.fm/music/joey%2balexander/continuance)&nbsp;
 <br>
