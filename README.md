@@ -4,15 +4,15 @@
 
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9b50f269fee2102519146c945ee4b2e0.jpg' width='16%' alt='Nils Landgren Funk Unit - Paint It Blue'>](https://www.last.fm/music/nils%2blandgren%2bfunk%2bunit/paint%2bit%2bblue)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8bbb31da139345622cb44d2bd5d1cccd.jpg' width='16%' alt='(Sandy) Alex G - Beach Music'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/beach%2bmusic)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/03337c9410154aa74af1e6b23bafa085.jpg' width='16%' alt='Alex G - RACE'>](https://www.last.fm/music/alex%2bg/race)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0b8520054cfd8af493b44a8bed0a2361.jpg' width='16%' alt='Alex G - TRICK'>](https://www.last.fm/music/alex%2bg/trick)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fbfb4cc05bacc31765cb78c0d67eada4.jpg' width='16%' alt='(Sandy) Alex G - Rocket'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/rocket)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/aae5d6e8190f62aeb6482c6f01798996.jpg' width='16%' alt='Alex G - God Save the Animals'>](https://www.last.fm/music/alex%2bg/god%2bsave%2bthe%2banimals)&nbsp;
 <br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/aae5d6e8190f62aeb6482c6f01798996.jpg' width='16%' alt='Alex G - God Save the Animals'>](https://www.last.fm/music/alex%2bg/god%2bsave%2bthe%2banimals)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6b5cbb52f6a496fff407dc736a8a6235.jpg' width='16%' alt='Alex G - RULES'>](https://www.last.fm/music/alex%2bg/rules)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/23426eab791af909e42ce5a9ba4a0339.jpg' width='16%' alt='(Sandy) Alex G - DSU'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/dsu)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0fb06d94de31102e30dc28b6c23246b5.jpg' width='16%' alt='Alex G - House of Sugar'>](https://www.last.fm/music/alex%2bg/house%2bof%2bsugar)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/120386f2880f47dfc71873cda716683c.png' width='16%' alt='Elliott Smith - Figure 8'>](https://www.last.fm/music/elliott%2bsmith/figure%2b8)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/69755fdd7532efee2811bb5cc81e0dc7.jpg' width='16%' alt='John Coltrane - Giant Steps'>](https://www.last.fm/music/john%2bcoltrane/giant%2bsteps)&nbsp;
 <br>
