@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9c2d54d8e7658b8d1a4f6ee607e4e1cb.jpg' width='16%' alt='Metallica - Ride the Lightning'>](https://www.last.fm/music/metallica/ride%2bthe%2blightning)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4796958c95d7e470098ae64e1c5c4fe4.jpg' width='16%' alt='Joshua Redman Quartet - Spirit Of The Moment: Live At The Village Vanguard'>](https://www.last.fm/music/joshua%2bredman%2bquartet/spirit%2bof%2bthe%2bmoment%253a%2blive%2bat%2bthe%2bvillage%2bvanguard)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1a700942f2f9cdda2bd3e839f563cf35.png' width='16%' alt='Nourished by Time - The Passionate Ones'>](https://www.last.fm/music/nourished%2bby%2btime/the%2bpassionate%2bones)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a53c581b122c5db40ab02cd8de1b4411.jpg' width='16%' alt='Ben Paterson - For Once in My Life'>](https://www.last.fm/music/ben%2bpaterson/for%2bonce%2bin%2bmy%2blife)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/08a487ae19df073f1ec2050a6b3b9da6.jpg' width='16%' alt='Joey Valence & Brae - NO HANDS'>](https://www.last.fm/music/joey%2bvalence%2b%2526%2bbrae/no%2bhands)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/30b0db96c46a3aebe7a0a968b532c306.jpg' width='16%' alt='The Oscar Peterson Trio - Night Train'>](https://www.last.fm/music/the%2boscar%2bpeterson%2btrio/night%2btrain)&nbsp;
 <br>
