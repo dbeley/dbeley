@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1a700942f2f9cdda2bd3e839f563cf35.png' width='16%' alt='Nourished by Time - The Passionate Ones'>](https://www.last.fm/music/nourished%2bby%2btime/the%2bpassionate%2bones)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a53c581b122c5db40ab02cd8de1b4411.jpg' width='16%' alt='Ben Paterson - For Once in My Life'>](https://www.last.fm/music/ben%2bpaterson/for%2bonce%2bin%2bmy%2blife)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/08a487ae19df073f1ec2050a6b3b9da6.jpg' width='16%' alt='Joey Valence & Brae - NO HANDS'>](https://www.last.fm/music/joey%2bvalence%2b%2526%2bbrae/no%2bhands)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/30b0db96c46a3aebe7a0a968b532c306.jpg' width='16%' alt='The Oscar Peterson Trio - Night Train'>](https://www.last.fm/music/the%2boscar%2bpeterson%2btrio/night%2btrain)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/87b352f89bf68757b0e741b6fb242024.jpg' width='16%' alt='Shuggie Otis - Freedom Flight'>](https://www.last.fm/music/shuggie%2botis/freedom%2bflight)&nbsp;
 <br>
