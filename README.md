@@ -6,13 +6,13 @@
 
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/97d196d819a44e7b335a2f40e19ea420.jpg' width='16%' alt='Various Artists - Paul McCartney in Jazz : A Jazz Tribute to Paul McCartney'>](https://www.last.fm/music/various%2bartists/paul%2bmccartney%2bin%2bjazz%2b%253a%2ba%2bjazz%2btribute%2bto%2bpaul%2bmccartney)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5069488bed47c7877f3c594020870dbd.jpg' width='16%' alt='Hayley Williams - Ego Death At A Bachelorette Party'>](https://www.last.fm/music/hayley%2bwilliams/ego%2bdeath%2bat%2ba%2bbachelorette%2bparty)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/85be0b3d6ec6443dc471fe1bfb96ec5a.jpg' width='16%' alt='Stan Getz & The Oscar Peterson Trio - Stan Getz and the Oscar Peterson Trio'>](https://www.last.fm/music/stan%2bgetz%2b%2526%2bthe%2boscar%2bpeterson%2btrio/stan%2bgetz%2band%2bthe%2boscar%2bpeterson%2btrio)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6f3ac9182fac0117d026a90785d57901.png' width='16%' alt='Zé Ramalho - Zé Ramalho'>](https://www.last.fm/music/z%25c3%25a9%2bramalho/z%25c3%25a9%2bramalho)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2a455d3c94965f38fc1b898a27fc85ab.jpg' width='16%' alt='Ella Fitzgerald - Ella Fitzgerald Sings the Jerome Kern Songbook'>](https://www.last.fm/music/ella%2bfitzgerald/ella%2bfitzgerald%2bsings%2bthe%2bjerome%2bkern%2bsongbook)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6c2b367226baa31687fc54434a6e7818.jpg' width='16%' alt='Ella Fitzgerald - Ella Fitzgerald Sings the Rodgers and Hart Song Book'>](https://www.last.fm/music/ella%2bfitzgerald/ella%2bfitzgerald%2bsings%2bthe%2brodgers%2band%2bhart%2bsong%2bbook)&nbsp;
 <br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/85be0b3d6ec6443dc471fe1bfb96ec5a.jpg' width='16%' alt='Stan Getz & The Oscar Peterson Trio - Stan Getz and the Oscar Peterson Trio'>](https://www.last.fm/music/stan%2bgetz%2b%2526%2bthe%2boscar%2bpeterson%2btrio/stan%2bgetz%2band%2bthe%2boscar%2bpeterson%2btrio)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c106bba5f3952f1df3c0f74c22b1ac77.jpg' width='16%' alt='George Benson - Breezin'>](https://www.last.fm/music/george%2bbenson/breezin%2527)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/87b352f89bf68757b0e741b6fb242024.jpg' width='16%' alt='Shuggie Otis - Freedom Flight'>](https://www.last.fm/music/shuggie%2botis/freedom%2bflight)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0f8319fbeca78d579d4c5321048a6d54.jpg' width='16%' alt='Anaïs Reno - At PizzaExpress Live - In London'>](https://www.last.fm/music/ana%25c3%25afs%2breno/at%2bpizzaexpress%2blive%2b-%2bin%2blondon)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2493fc8934da9338c8a8b7849e064f33.jpg' width='16%' alt='Bob Reynolds - Hindsight'>](https://www.last.fm/music/bob%2breynolds/hindsight)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e02ae5b95c00077b7c79db96fe756450.jpg' width='16%' alt='Bob Reynolds - Guitar Band'>](https://www.last.fm/music/bob%2breynolds/guitar%2bband)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a5488c6372f104314f38fa1e8b558fe6.jpg' width='16%' alt='Brad Mehldau - Ride into the Sun'>](https://www.last.fm/music/brad%2bmehldau/ride%2binto%2bthe%2bsun)&nbsp;
 <br>
