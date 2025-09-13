@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cf1924769cb493e30af0dde9b6ce061a.jpg' width='16%' alt='Ashley Henry - My Voice'>](https://www.last.fm/music/ashley%2bhenry/my%2bvoice)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5bb90bb6c12dbb45b7217a4c59f4b385.png' width='16%' alt='Blood Orange - Essex Honey'>](https://www.last.fm/music/blood%2borange/essex%2bhoney)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/87b352f89bf68757b0e741b6fb242024.jpg' width='16%' alt='Shuggie Otis - Freedom Flight'>](https://www.last.fm/music/shuggie%2botis/freedom%2bflight)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a5488c6372f104314f38fa1e8b558fe6.jpg' width='16%' alt='Brad Mehldau - Ride into the Sun'>](https://www.last.fm/music/brad%2bmehldau/ride%2binto%2bthe%2bsun)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c106bba5f3952f1df3c0f74c22b1ac77.jpg' width='16%' alt='George Benson - Breezin'>](https://www.last.fm/music/george%2bbenson/breezin%2527)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6210b95657dd065bcd2e174703b9f852.png' width='16%' alt='Marisa Monte - Memórias, Crônicas e Declarações de Amor'>](https://www.last.fm/music/marisa%2bmonte/mem%25c3%25b3rias%252c%2bcr%25c3%25b4nicas%2be%2bdeclara%25c3%25a7%25c3%25b5es%2bde%2bamor)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/93d62eb0fb3947e8a1580ffc481fde0b.png' width='16%' alt='Spacemen 3 - The Perfect Prescription'>](https://www.last.fm/music/spacemen%2b3/the%2bperfect%2bprescription)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f40b51330a294bdf9a3f0763d69f15ae.jpg' width='16%' alt='Adonis Rose - On The Verge'>](https://www.last.fm/music/adonis%2brose/on%2bthe%2bverge)&nbsp;
 <br>
