@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5bb90bb6c12dbb45b7217a4c59f4b385.png' width='16%' alt='Blood Orange - Essex Honey'>](https://www.last.fm/music/blood%2borange/essex%2bhoney)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a5488c6372f104314f38fa1e8b558fe6.jpg' width='16%' alt='Brad Mehldau - Ride into the Sun'>](https://www.last.fm/music/brad%2bmehldau/ride%2binto%2bthe%2bsun)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/89701aeecb37def48d933184c590d457.jpg' width='16%' alt='Nubya Garcia - Source'>](https://www.last.fm/music/nubya%2bgarcia/source)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b5fb754c9b99a45af93a05a34db79b8f.jpg' width='16%' alt='Hank Mobley - Roll Call'>](https://www.last.fm/music/hank%2bmobley/roll%2bcall)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2337da435476676e9eabfc04f6ea81e0.jpg' width='16%' alt='Hank Mobley - Roll Call'>](https://www.last.fm/music/hank%2bmobley/roll%2bcall)&nbsp;
 <br>
