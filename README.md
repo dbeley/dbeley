@@ -8,5 +8,7 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/89701aeecb37def48d933184c590d457.jpg' width='16%' alt='Nubya Garcia - Source'>](https://www.last.fm/music/nubya%2bgarcia/source)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2337da435476676e9eabfc04f6ea81e0.jpg' width='16%' alt='Hank Mobley - Roll Call'>](https://www.last.fm/music/hank%2bmobley/roll%2bcall)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/22589dc4ab6bf172ecc59f19573bc547.jpg' width='16%' alt='George Benson - Shape of Things to Come'>](https://www.last.fm/music/george%2bbenson/shape%2bof%2bthings%2bto%2bcome)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/847b9fe4ff14bed4871d7a8479ef7033.jpg' width='16%' alt='Level 42 - Running in the Family'>](https://www.last.fm/music/level%2b42/running%2bin%2bthe%2bfamily)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6cecabcc9eaf02616756657c0653febb.jpg' width='16%' alt='Maruja - Pain To Power'>](https://www.last.fm/music/maruja/pain%2bto%2bpower)&nbsp;
 <br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/847b9fe4ff14bed4871d7a8479ef7033.jpg' width='16%' alt='Level 42 - Running in the Family'>](https://www.last.fm/music/level%2b42/running%2bin%2bthe%2bfamily)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9481ead4fe71437986e8fef624c91ede.jpg' width='16%' alt='Nat King Cole - 32 Live Original Songs'>](https://www.last.fm/music/nat%2bking%2bcole/32%2blive%2boriginal%2bsongs)&nbsp;
