@@ -5,8 +5,8 @@
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fa074207f800d84d41158081db45054f.jpg' width='16%' alt='Wednesday - Bleeds'>](https://www.last.fm/music/wednesday/bleeds)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/16cf624f60941f15aa0ddef16dba430e.png' width='16%' alt='Addison Rae - Addison'>](https://www.last.fm/music/addison%2brae/addison)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7fd1aa07649e0f1ab607a88a84ee3db7.jpg' width='16%' alt='Feu! Chatterton - Labyrinthe'>](https://www.last.fm/music/feu%2521%2bchatterton/labyrinthe)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/16cf624f60941f15aa0ddef16dba430e.png' width='16%' alt='Addison Rae - Addison'>](https://www.last.fm/music/addison%2brae/addison)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4c5c9c375f2e685654294bc1090a4ae3.jpg' width='16%' alt='Joanna Sternberg - I’ve Got Me'>](https://www.last.fm/music/joanna%2bsternberg/i%25e2%2580%2599ve%2bgot%2bme)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/75695cd196406316f055a757728c6ee7.jpg' width='16%' alt='Geese - Getting Killed'>](https://www.last.fm/music/geese/getting%2bkilled)&nbsp;
 <br>
