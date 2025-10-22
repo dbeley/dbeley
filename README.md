@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b0209422481dab0e53e46578fd243963.jpg' width='16%' alt='bob hund - Bob Hund'>](https://www.last.fm/music/bob%2bhund/bob%2bhund)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/63a3ea22de6c4c6b842c2a149b59e81f.png' width='16%' alt='Beach House - Bloom'>](https://www.last.fm/music/beach%2bhouse/bloom)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/229bb7d2ccd0dedb567a489ff7778ecd.png' width='16%' alt='Everything Everything - Raw Data Feel'>](https://www.last.fm/music/everything%2beverything/raw%2bdata%2bfeel)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/10e816c8557155a150cb0f20aea2d09d.png' width='16%' alt='Everything Everything - Mountainhead'>](https://www.last.fm/music/everything%2beverything/mountainhead)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/dc70139e0457a04d2749fe062647fc79.png' width='16%' alt='Nick Drake - Pink Moon'>](https://www.last.fm/music/nick%2bdrake/pink%2bmoon)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/57b122e05ded2a780008d15d6fff45a6.png' width='16%' alt='Elliott Smith - Elliott Smith'>](https://www.last.fm/music/elliott%2bsmith/elliott%2bsmith)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/10e816c8557155a150cb0f20aea2d09d.png' width='16%' alt='Everything Everything - Mountainhead'>](https://www.last.fm/music/everything%2beverything/mountainhead)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9597a3b25436611d117167eec2c80dc5.jpg' width='16%' alt='Elliott Smith - Either/Or'>](https://www.last.fm/music/elliott%2bsmith/either%252for)&nbsp;
 <br>
