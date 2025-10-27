@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/229bb7d2ccd0dedb567a489ff7778ecd.png' width='16%' alt='Everything Everything - Raw Data Feel'>](https://www.last.fm/music/everything%2beverything/raw%2bdata%2bfeel)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/22b0e9b250ae50b46645ea292786b647.jpg' width='16%' alt='Surf Curse - BUDS'>](https://www.last.fm/music/surf%2bcurse/buds)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/28bbf7dd157e437ac37bce1b8bc8dea9.jpg' width='16%' alt='Ahmad Jamal - The Legendary Okeh & Epic Recordings'>](https://www.last.fm/music/ahmad%2bjamal/the%2blegendary%2bokeh%2b%2526%2bepic%2brecordings)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/332d02af2e01e214081dc56d78b0c382.jpg' width='16%' alt='Barry Harris - Preminado'>](https://www.last.fm/music/barry%2bharris/preminado)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/10e816c8557155a150cb0f20aea2d09d.png' width='16%' alt='Everything Everything - Mountainhead'>](https://www.last.fm/music/everything%2beverything/mountainhead)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/57b122e05ded2a780008d15d6fff45a6.png' width='16%' alt='Elliott Smith - Elliott Smith'>](https://www.last.fm/music/elliott%2bsmith/elliott%2bsmith)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/de69c61b0ad8c4d957cb666b20013718.jpg' width='16%' alt='Wynton Marsalis - Marsalis Standard Time, Vol. 1'>](https://www.last.fm/music/wynton%2bmarsalis/marsalis%2bstandard%2btime%252c%2bvol.%2b1)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8c15b9b55a2a473189353b73e70512d5.jpg' width='16%' alt='Bill Evans Trio - Time Remembered'>](https://www.last.fm/music/bill%2bevans%2btrio/time%2bremembered)&nbsp;
 <br>
