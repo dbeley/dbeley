@@ -8,11 +8,11 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/68e5bb88733c78378d6c21f3970fc94b.jpg' width='16%' alt='Sudan Archives - THE BPM'>](https://www.last.fm/music/sudan%2barchives/the%2bbpm)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/29cd52e0f2ba0d5dcf2b2684cc71ef58.jpg' width='16%' alt='Tame Impala - Deadbeat'>](https://www.last.fm/music/tame%2bimpala/deadbeat)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/44cc565ac3be4292c2333c6d228b2089.jpg' width='16%' alt='Denny Zeitlin - Carnival'>](https://www.last.fm/music/denny%2bzeitlin/carnival)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/28bbf7dd157e437ac37bce1b8bc8dea9.jpg' width='16%' alt='Ahmad Jamal - The Legendary Okeh & Epic Recordings'>](https://www.last.fm/music/ahmad%2bjamal/the%2blegendary%2bokeh%2b%2526%2bepic%2brecordings)&nbsp;
-<br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/332d02af2e01e214081dc56d78b0c382.jpg' width='16%' alt='Barry Harris - Preminado'>](https://www.last.fm/music/barry%2bharris/preminado)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/880e7d2551f6e777983081cb5c582108.jpg' width='16%' alt='Florian Pellissier Quintet - Cap de bonne espérance'>](https://www.last.fm/music/florian%2bpellissier%2bquintet/cap%2bde%2bbonne%2besp%25c3%25a9rance)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0916c006681c48e0c8b28e2069656db3.jpg' width='16%' alt='Denny Zeitlin Trio - As Long As Theres Music'>](https://www.last.fm/music/denny%2bzeitlin%2btrio/as%2blong%2bas%2bthere%2527s%2bmusic)&nbsp;
+<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/510546e3b6df7504392274c528c77780.jpg' width='16%' alt='my bloody valentine - Loveless'>](https://www.last.fm/music/my%2bbloody%2bvalentine/loveless)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e02ae5b95c00077b7c79db96fe756450.jpg' width='16%' alt='Bob Reynolds - Guitar Band'>](https://www.last.fm/music/bob%2breynolds/guitar%2bband)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6cd1ef53fad54b5b09e66f51469d4f38.png' width='16%' alt='Elvis Costello - My Aim Is True'>](https://www.last.fm/music/elvis%2bcostello/my%2baim%2bis%2btrue)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0f5edf4c2e1f4e839a8f90c6385b8763.jpg' width='16%' alt='Squeeze - Cool For Cats'>](https://www.last.fm/music/squeeze/cool%2bfor%2bcats)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/406afa5fad8e9d789a745da5b55314f8.jpg' width='16%' alt='Beach Bunny - Prom Queen'>](https://www.last.fm/music/beach%2bbunny/prom%2bqueen)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fd3c48190e82d5b039bb55ca61207d46.jpg' width='16%' alt='Chapterhouse - Whirlpool'>](https://www.last.fm/music/chapterhouse/whirlpool)&nbsp;
 <br>
