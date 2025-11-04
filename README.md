@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0916c006681c48e0c8b28e2069656db3.jpg' width='16%' alt='Denny Zeitlin Trio - As Long As Theres Music'>](https://www.last.fm/music/denny%2bzeitlin%2btrio/as%2blong%2bas%2bthere%2527s%2bmusic)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/510546e3b6df7504392274c528c77780.jpg' width='16%' alt='my bloody valentine - Loveless'>](https://www.last.fm/music/my%2bbloody%2bvalentine/loveless)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/68a0cc0a4fc781409b357f6591594b8c.jpg' width='16%' alt='David Kauffman & Eric Caboor - Songs from Suicide Bridge'>](https://www.last.fm/music/david%2bkauffman%2b%2526%2beric%2bcaboor/songs%2bfrom%2bsuicide%2bbridge)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6cd1ef53fad54b5b09e66f51469d4f38.png' width='16%' alt='Elvis Costello - My Aim Is True'>](https://www.last.fm/music/elvis%2bcostello/my%2baim%2bis%2btrue)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0f5edf4c2e1f4e839a8f90c6385b8763.jpg' width='16%' alt='Squeeze - Cool For Cats'>](https://www.last.fm/music/squeeze/cool%2bfor%2bcats)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/406afa5fad8e9d789a745da5b55314f8.jpg' width='16%' alt='Beach Bunny - Prom Queen'>](https://www.last.fm/music/beach%2bbunny/prom%2bqueen)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fd3c48190e82d5b039bb55ca61207d46.jpg' width='16%' alt='Chapterhouse - Whirlpool'>](https://www.last.fm/music/chapterhouse/whirlpool)&nbsp;
 <br>
