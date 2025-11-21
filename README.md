@@ -10,9 +10,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/356bdfd1593c530dcab9da6f708883e7.png' width='16%' alt='Bill Evans - Conversations With Myself'>](https://www.last.fm/music/bill%2bevans/conversations%2bwith%2bmyself)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2a455d3c94965f38fc1b898a27fc85ab.jpg' width='16%' alt='Ella Fitzgerald - Ella Fitzgerald Sings the Jerome Kern Songbook'>](https://www.last.fm/music/ella%2bfitzgerald/ella%2bfitzgerald%2bsings%2bthe%2bjerome%2bkern%2bsongbook)&nbsp;
 <br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d2389b806dd5061b6a75e360c4c46c88.jpg' width='16%' alt='Clairo - Immunity'>](https://www.last.fm/music/clairo/immunity)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg' width='16%' alt='Clairo - Charm'>](https://www.last.fm/music/clairo/charm)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/749c955a525f308297f71eafb58c2d71.jpg' width='16%' alt='Jeff Rosenstock - HELLMODE'>](https://www.last.fm/music/jeff%2brosenstock/hellmode)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d780a778e9d4b0b4b115bd6bd50e7717.jpg' width='16%' alt='Big L - Lifestylez Ov Da Poor & Dangerous'>](https://www.last.fm/music/big%2bl/lifestylez%2bov%2bda%2bpoor%2b%2526%2bdangerous)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/190a3d0eeb4ecbc0fe8ef3abcb95abf1.jpg' width='16%' alt='Freddie Hubbard - Ready for Freddie'>](https://www.last.fm/music/freddie%2bhubbard/ready%2bfor%2bfreddie)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/db53dc34b52a21d85d34694c3562911c.jpg' width='16%' alt='My Dead Girlfriend - hades (the nine stages of change at the deceased remains)'>](https://www.last.fm/music/my%2bdead%2bgirlfriend/hades%2b%2528the%2bnine%2bstages%2bof%2bchange%2bat%2bthe%2bdeceased%2bremains%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a701147934594475c460612e9639cd06.png' width='16%' alt='The Prodigy - The Fat of the Land'>](https://www.last.fm/music/the%2bprodigy/the%2bfat%2bof%2bthe%2bland)&nbsp;
 <br>
