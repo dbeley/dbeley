@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/04bb95b8a19d4df4ac43d6b3f259cb71.jpg' width='16%' alt='Johnny Mathis - Merry Christmas'>](https://www.last.fm/music/johnny%2bmathis/merry%2bchristmas)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/55e47f952223131db791a7cea2271530.jpg' width='16%' alt='Whipping Boy - Heartworm'>](https://www.last.fm/music/whipping%2bboy/heartworm)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d2389b806dd5061b6a75e360c4c46c88.jpg' width='16%' alt='Clairo - Immunity'>](https://www.last.fm/music/clairo/immunity)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6e8d5d5ca3c27594162651accd47cb7e.jpg' width='16%' alt='Clairo - Charm'>](https://www.last.fm/music/clairo/charm)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9019a3bb5cb6fdf33aa57a6854409cda.jpg' width='16%' alt='Pavement - Terror Twilight'>](https://www.last.fm/music/pavement/terror%2btwilight)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6f6b1204098b88a517e18b94ad51abb2.jpg' width='16%' alt='Sad Lovers and Giants - Epic Garden Music'>](https://www.last.fm/music/sad%2blovers%2band%2bgiants/epic%2bgarden%2bmusic)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/909484b931449e8fc2e4fecca90b7eb5.png' width='16%' alt='Talking Heads - Remain in Light'>](https://www.last.fm/music/talking%2bheads/remain%2bin%2blight)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/51f7b6654a610c03ea7348dee3158105.jpg' width='16%' alt='Keith Jarrett - The Melody At Night, With You'>](https://www.last.fm/music/keith%2bjarrett/the%2bmelody%2bat%2bnight%252c%2bwith%2byou)&nbsp;
 <br>
