@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1779a96c5a6347b6599c06547146e755.jpg' width='16%' alt='Kiwi Jr. - Football Money'>](https://www.last.fm/music/kiwi%2bjr./football%2bmoney)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0f4626ed05229adf8b630db9948c15f9.png' width='16%' alt='Gillian Welch - Revival'>](https://www.last.fm/music/gillian%2bwelch/revival)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d7328eabb1f2db75c96597ea44aa64cc.jpg' width='16%' alt='illuminati hotties - Let Me Do One More'>](https://www.last.fm/music/illuminati%2bhotties/let%2bme%2bdo%2bone%2bmore)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9019a3bb5cb6fdf33aa57a6854409cda.jpg' width='16%' alt='Pavement - Terror Twilight'>](https://www.last.fm/music/pavement/terror%2btwilight)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6f535be0d85caa057fadfc47845af924.jpg' width='16%' alt='Catherine Wheel - Chrome'>](https://www.last.fm/music/catherine%2bwheel/chrome)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cf427ef11ba0ac3b0cfdadb8f4aa5742.jpg' width='16%' alt='Rhapsody of Fire - Dawn Of Victory'>](https://www.last.fm/music/rhapsody%2bof%2bfire/dawn%2bof%2bvictory)&nbsp;
 <br>
