@@ -12,9 +12,9 @@ jobs:
     deploy:
         runs-on: ubuntu-latest
         steps:
-        - uses: actions/checkout@v2
+        - uses: actions/checkout@v6
         - name: Set up Python
-          uses: actions/setup-python@v2
+          uses: actions/setup-python@v6
           with:
             python-version: '3.x'
         - name: Install dependencies
@@ -27,7 +27,7 @@ jobs:
             LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
             LASTFM_API_SECRET: ${{ secrets.LASTFM_API_SECRET }}
         - name: Commit README.md
-          uses: EndBug/add-and-commit@v4
+          uses: EndBug/add-and-commit@v9
           with:
             author_name: Action
             author_email: action@github.com
