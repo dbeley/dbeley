@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/40e357a8c9962876e806cc5328a383e0.jpg' width='16%' alt='Magdalena Bay - Imaginal Disk'>](https://www.last.fm/music/magdalena%2bbay/imaginal%2bdisk)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bf1ee2653fc79d3c8e2f4964be2494be.jpg' width='16%' alt='Scorpions - Blackout'>](https://www.last.fm/music/scorpions/blackout)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7b42e543600505a5cdc4475e2aa72ebd.png' width='16%' alt='Carly Rae Jepsen - Dedicated Side B'>](https://www.last.fm/music/carly%2brae%2bjepsen/dedicated%2bside%2bb)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/14b237831e90c0eb4e69728168604cc4.jpg' width='16%' alt='The Clientele - Bonfires on the Heath'>](https://www.last.fm/music/the%2bclientele/bonfires%2bon%2bthe%2bheath)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1b93da0254fdeec7307cb3f1d1e16cee.png' width='16%' alt='PinkPantheress - Fancy That'>](https://www.last.fm/music/pinkpantheress/fancy%2bthat)&nbsp;
 <br>
