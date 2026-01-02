@@ -4,15 +4,15 @@
 
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4fe86649ec554237a929931cc4677d29.jpg' width='16%' alt='Bill Evans - We Will Meet Again'>](https://www.last.fm/music/bill%2bevans/we%2bwill%2bmeet%2bagain)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c425106279157d9f2bb18ee56e8671ec.jpg' width='16%' alt='Russell Malone - Black Butterfly'>](https://www.last.fm/music/russell%2bmalone/black%2bbutterfly)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/434b8e31b25c0a6d031a915d2b137f3b.jpg' width='16%' alt='Patricio Rey y sus Redonditos de Ricota - Un Baion Para el Ojo Idiota'>](https://www.last.fm/music/patricio%2brey%2by%2bsus%2bredonditos%2bde%2bricota/un%2bbaion%2bpara%2bel%2bojo%2bidiota)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/79037520456541c8892dde8334d73ebe.png' width='16%' alt='Amorphis - The Beginning of Times'>](https://www.last.fm/music/amorphis/the%2bbeginning%2bof%2btimes)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b3987ea108b929eead2f59fdd3b4a007.jpg' width='16%' alt='Chappell Roan - The Rise and Fall of a Midwest Princess'>](https://www.last.fm/music/chappell%2broan/the%2brise%2band%2bfall%2bof%2ba%2bmidwest%2bprincess)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/306e566d3bb7cce540dd41d7e6811556.jpg' width='16%' alt='Slowdive - Souvlaki'>](https://www.last.fm/music/slowdive/souvlaki)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/254f8e6ecb5fc5fb63a65fa387090e4f.jpg' width='16%' alt='Wayne Shorter - Speak No Evil'>](https://www.last.fm/music/wayne%2bshorter/speak%2bno%2bevil)&nbsp;
-<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/102271a7f00843edc3b7c082fe831683.png' width='16%' alt='Animal Collective - Feels'>](https://www.last.fm/music/animal%2bcollective/feels)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7160d8a7050830e47eaa444214d921fa.png' width='16%' alt='Azealia Banks - 1991'>](https://www.last.fm/music/azealia%2bbanks/1991)&nbsp;
+<br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/25cc466e31139013b0bfd4b275e8ef4e.jpg' width='16%' alt='DJ Sabrina The Teenage DJ - Charmed'>](https://www.last.fm/music/dj%2bsabrina%2bthe%2bteenage%2bdj/charmed)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6c4cc60b932f08f438b350c8b52b0192.jpg' width='16%' alt='Felbm - Tape 1 / Tape 2'>](https://www.last.fm/music/felbm/tape%2b1%2b%252f%2btape%2b2)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/307d327f1121b965ac04b256a21ac70c.jpg' width='16%' alt='Felbm - Tape 3/Tape 4'>](https://www.last.fm/music/felbm/tape%2b3%252ftape%2b4)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fd1dba878d9fde2bfab5e2489833af9a.jpg' width='16%' alt='Joe Dassin - Ses Plus Grands Succès'>](https://www.last.fm/music/joe%2bdassin/ses%2bplus%2bgrands%2bsucc%25c3%25a8s)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e8693de0a153e609b3eaebb42d62e8be.png' width='16%' alt='Nirvana - Nevermind'>](https://www.last.fm/music/nirvana/nevermind)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/67e531c5d5a543dac38e5e098343e93a.jpg' width='16%' alt='Rush - Exit… Stage Left'>](https://www.last.fm/music/rush/exit%25e2%2580%25a6%2bstage%2bleft)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a3914156c862caa0023ce55b4009c001.jpg' width='16%' alt='Sam Rivers - Fuchsia Swing Song'>](https://www.last.fm/music/sam%2brivers/fuchsia%2bswing%2bsong)&nbsp;
 <br>
