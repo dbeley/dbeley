@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/02fc4a9388f62ee1d6bf4d9f982d86a8.png' width='16%' alt='Jacob Mann - 32'>](https://www.last.fm/music/jacob%2bmann/32)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f958b9a2221d4469c463ccea86a9b618.png' width='16%' alt='Horace Silver - The Jody Grind'>](https://www.last.fm/music/horace%2bsilver/the%2bjody%2bgrind)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/25d7c1ecacd64b898fa34e9524626f9e.jpg' width='16%' alt='Wayne Shorter - Night Dreamer'>](https://www.last.fm/music/wayne%2bshorter/night%2bdreamer)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bdcba1c6734d14f987f33a9e8299cb7b.jpg' width='16%' alt='Squarepusher - Feed Me Weird Things'>](https://www.last.fm/music/squarepusher/feed%2bme%2bweird%2bthings)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5f11813ca33ee422763e5da795220949.png' width='16%' alt='Aaron Parks - By All Means'>](https://www.last.fm/music/aaron%2bparks/by%2ball%2bmeans)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/160c09ed6f0d01d753616cf5d2387887.jpg' width='16%' alt='Dave Holland - Conference of the Birds'>](https://www.last.fm/music/dave%2bholland/conference%2bof%2bthe%2bbirds)&nbsp;
 <br>
