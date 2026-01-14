@@ -17,8 +17,6 @@ def main():
 
     readme_content = """### Hi there 👋, I'm [dbeley](https://dbeley.ovh/en)!\n
 ![dbeley's github stats](./profile/stats.svg)\n
-![dbeley's top languages](./profile/top-langs.svg)\n
-![dbeley's pinned repositories](./profile/pin-readme-tools-github-readme-stats.svg)\n
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week\n
 """
 
