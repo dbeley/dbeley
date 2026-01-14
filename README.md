@@ -2,10 +2,6 @@
 
 ![dbeley's github stats](./profile/stats.svg)
 
-![dbeley's top languages](./profile/top-langs.svg)
-
-![dbeley's pinned repositories](./profile/pin-readme-tools-github-readme-stats.svg)
-
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/695c4d9be1b64d5dcd156b09a421f4a9.jpg' width='16%' alt='Arsenik - Quelques Gouttes Suffisent...'>](https://www.last.fm/music/arsenik/quelques%2bgouttes%2bsuffisent...)&nbsp;
