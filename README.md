@@ -10,9 +10,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1992fee31c3c4cbb9cbf39092659cbc1.png' width='16%' alt='The Bad Plus - Suspicious Activity?'>](https://www.last.fm/music/the%2bbad%2bplus/suspicious%2bactivity%253f)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/afaa7453a9704ccea7af606c2bc9c7c1.jpg' width='16%' alt='The Bad Plus - Give'>](https://www.last.fm/music/the%2bbad%2bplus/give)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bdcba1c6734d14f987f33a9e8299cb7b.jpg' width='16%' alt='Squarepusher - Feed Me Weird Things'>](https://www.last.fm/music/squarepusher/feed%2bme%2bweird%2bthings)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/03dd29735de84d0c953bcb20f7c41e3c.jpg' width='16%' alt='The Bad Plus - Prog'>](https://www.last.fm/music/the%2bbad%2bplus/prog)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/58e8819bbcd98de3fc59f634bcf6bf46.jpg' width='16%' alt='Bathory - Blood Fire Death'>](https://www.last.fm/music/bathory/blood%2bfire%2bdeath)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8efbfdc3ffd98d732a93e75aa5a53852.jpg' width='16%' alt='Caroline Polachek - Desire, I Want to Turn Into You'>](https://www.last.fm/music/caroline%2bpolachek/desire%252c%2bi%2bwant%2bto%2bturn%2binto%2byou)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0719d4e5af0a3f43926e773e7ea2805d.jpg' width='16%' alt='John Coltrane Quartet - Ballads (Deluxe Edition - Rudy Van Gelder Remaster)'>](https://www.last.fm/music/john%2bcoltrane%2bquartet/ballads%2b%2528deluxe%2bedition%2b-%2brudy%2bvan%2bgelder%2bremaster%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/241e80f85c5a2fe87dd32d686892d592.jpg' width='16%' alt='The Bad Plus - These Are The Vistas'>](https://www.last.fm/music/the%2bbad%2bplus/these%2bare%2bthe%2bvistas)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d81814984d5049a4b254e075e25b54bc.png' width='16%' alt='Darkthrone - Transilvanian Hunger'>](https://www.last.fm/music/darkthrone/transilvanian%2bhunger)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2bdb5e03d4edcf3898a454842a399768.jpg' width='16%' alt='Dissection - Storm of the Lights Bane'>](https://www.last.fm/music/dissection/storm%2bof%2bthe%2blight%2527s%2bbane)&nbsp;
 <br>
