@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0ee08bda639c3df913e1a4a37508a841.png' width='16%' alt='Parannoul - To See the Next Part of the Dream'>](https://www.last.fm/music/parannoul/to%2bsee%2bthe%2bnext%2bpart%2bof%2bthe%2bdream)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a618dab9cc586fdafd21fc167bb038b0.jpg' width='16%' alt='Shellac - At Action Park'>](https://www.last.fm/music/shellac/at%2baction%2bpark)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a5287245e3f9d0158f7a7ab9f815abde.png' width='16%' alt='Thy Catafalque - Tűnő Idő Tárlat'>](https://www.last.fm/music/thy%2bcatafalque/t%25c5%25b1n%25c5%2591%2bid%25c5%2591%2bt%25c3%25a1rlat)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/80416ed9549211926a15d88cac7498a2.jpg' width='16%' alt='Adrianne Lenker - Bright Future'>](https://www.last.fm/music/adrianne%2blenker/bright%2bfuture)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/25cc466e31139013b0bfd4b275e8ef4e.jpg' width='16%' alt='DJ Sabrina The Teenage DJ - Charmed'>](https://www.last.fm/music/dj%2bsabrina%2bthe%2bteenage%2bdj/charmed)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/dc74d35673a2719d74956e8087ef5c22.jpg' width='16%' alt='Bruce Springsteen - Streets of Minneapolis'>](https://www.last.fm/music/bruce%2bspringsteen/streets%2bof%2bminneapolis)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e661d80a602e42908e30ea3de0f28715.png' width='16%' alt='Belakor - Of Breath and Bone'>](https://www.last.fm/music/be%2527lakor/of%2bbreath%2band%2bbone)&nbsp;
 <br>
