@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">David BELEY's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 1041, Total Commits  (last year) : 1383, Total PRs: 158, Total Issues: 7, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 1042, Total Commits  (last year) : 1383, Total PRs: 158, Total Issues: 7, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 38.78151877311726;
+        stroke-dashoffset: 38.77800283501836;
       }
     }
   
