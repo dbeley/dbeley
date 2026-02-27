@@ -10,9 +10,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/735a8e44ea903618b26f50ace717d732.jpg' width='16%' alt='Hannah Diamond - Perfect Picture'>](https://www.last.fm/music/hannah%2bdiamond/perfect%2bpicture)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e5ebb80aea4db979d378448a64ebefc1.jpg' width='16%' alt='The Beths - Straight Line Was A Lie'>](https://www.last.fm/music/the%2bbeths/straight%2bline%2bwas%2ba%2blie)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b76833d04383d440b3e5080e165245be.jpg' width='16%' alt='Cocteau Twins - Treasure'>](https://www.last.fm/music/cocteau%2btwins/treasure)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ab895f0cb006d2741e7be50a5960f1f7.jpg' width='16%' alt='Cameron Winter - Heavy Metal'>](https://www.last.fm/music/cameron%2bwinter/heavy%2bmetal)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d7cfcccb2d3964a66f43584f11c2e30d.jpg' width='16%' alt='Sade - Diamond Life'>](https://www.last.fm/music/sade/diamond%2blife)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2ffee7c9eb3f928a3fb9478157d7981d.jpg' width='16%' alt='Lars Jansson Trio - Invisible Friends'>](https://www.last.fm/music/lars%2bjansson%2btrio/invisible%2bfriends)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ec3793a81db778da2582699f06298071.jpg' width='16%' alt='Red Garland - The Quota'>](https://www.last.fm/music/red%2bgarland/the%2bquota)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7674a2eb8d8b47c5b9f324adba18276b.jpg' width='16%' alt='James Farm - James Farm'>](https://www.last.fm/music/james%2bfarm/james%2bfarm)&nbsp;
 <br>
