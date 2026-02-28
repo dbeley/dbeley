@@ -4,9 +4,9 @@
 
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c5ead34a6aca64a663a3ed83fadfc742.jpg' width='16%' alt='Big Thief - Dragon New Warm Mountain I Believe in You'>](https://www.last.fm/music/big%2bthief/dragon%2bnew%2bwarm%2bmountain%2bi%2bbelieve%2bin%2byou)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/db37ba3a1ee548b49284ca9272a18c92.jpg' width='16%' alt='Brad Mehldau Trio - Anything Goes'>](https://www.last.fm/music/brad%2bmehldau%2btrio/anything%2bgoes)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/2cd454d7063a476c6a1e88daa73e9d2e.jpg' width='16%' alt='Captain Beefheart & His Magic Band - Trout Mask Replica'>](https://www.last.fm/music/captain%2bbeefheart%2b%2526%2bhis%2bmagic%2bband/trout%2bmask%2breplica)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d59fb77b86ba4dd5d7f99c34564a56ce.jpg' width='16%' alt='Radiohead - Amnesiac'>](https://www.last.fm/music/radiohead/amnesiac)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/55ac8f97bde6cbe5e9a8857b435457e9.jpg' width='16%' alt='Radiohead - Hail to the Thief'>](https://www.last.fm/music/radiohead/hail%2bto%2bthe%2bthief)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/735a8e44ea903618b26f50ace717d732.jpg' width='16%' alt='Hannah Diamond - Perfect Picture'>](https://www.last.fm/music/hannah%2bdiamond/perfect%2bpicture)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e5ebb80aea4db979d378448a64ebefc1.jpg' width='16%' alt='The Beths - Straight Line Was A Lie'>](https://www.last.fm/music/the%2bbeths/straight%2bline%2bwas%2ba%2blie)&nbsp;
 <br>
