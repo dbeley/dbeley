@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/82573426631c6de14959f4753eafe666.jpg' width='16%' alt='underscores - U'>](https://www.last.fm/music/underscores/u)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e7744ca8fbb913e283ebbdbe5c933ae1.jpg' width='16%' alt='Wayne Shorter - Adams Apple'>](https://www.last.fm/music/wayne%2bshorter/adam%2527s%2bapple)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/03fdc00ea5fdd82f731bdd9a4a8d5b4e.jpg' width='16%' alt='Dexter Gordon - Tangerine'>](https://www.last.fm/music/dexter%2bgordon/tangerine)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cca613c9c5d3480d9ff6ae4636e22e12.jpg' width='16%' alt='Red Garland Trio - A Garland Of Red'>](https://www.last.fm/music/red%2bgarland%2btrio/a%2bgarland%2bof%2bred)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7642567ed9ed488dc8a42fadb9b59fc0.png' width='16%' alt='Blue Mitchell - The Thing to Do'>](https://www.last.fm/music/blue%2bmitchell/the%2bthing%2bto%2bdo)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9f2d13adedefed75eba2f545fc65659d.jpg' width='16%' alt='Bobby Timmons - This Here Is Bobby Timmons'>](https://www.last.fm/music/bobby%2btimmons/this%2bhere%2bis%2bbobby%2btimmons)&nbsp;
 <br>
