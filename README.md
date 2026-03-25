@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/35db8f12aa6a493abe0663e1afd754eb.jpg' width='16%' alt='Joshua Redman - Wish'>](https://www.last.fm/music/joshua%2bredman/wish)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b45c87bbe289e2449090ee88caaf0808.jpg' width='16%' alt='Joshua Redman Quartet - MoodSwing'>](https://www.last.fm/music/joshua%2bredman%2bquartet/moodswing)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7b6414341dc1930b828212294cc913ae.jpg' width='16%' alt='Esbjörn Svensson Trio - EST Plays Monk'>](https://www.last.fm/music/esbj%25c3%25b6rn%2bsvensson%2btrio/est%2bplays%2bmonk)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/27c69a374265467f62462dc79580b204.jpg' width='16%' alt='Neurosis - An Undying Love for a Burning World'>](https://www.last.fm/music/neurosis/an%2bundying%2blove%2bfor%2ba%2bburning%2bworld)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/82573426631c6de14959f4753eafe666.jpg' width='16%' alt='underscores - U'>](https://www.last.fm/music/underscores/u)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e7744ca8fbb913e283ebbdbe5c933ae1.jpg' width='16%' alt='Wayne Shorter - Adams Apple'>](https://www.last.fm/music/wayne%2bshorter/adam%2527s%2bapple)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/03fdc00ea5fdd82f731bdd9a4a8d5b4e.jpg' width='16%' alt='Dexter Gordon - Tangerine'>](https://www.last.fm/music/dexter%2bgordon/tangerine)&nbsp;
 <br>
