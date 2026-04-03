@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8807ade29c7e42e0bcc624d5804a143c.png' width='16%' alt='Jaki Byard - The Jaki Byard Experience'>](https://www.last.fm/music/jaki%2bbyard/the%2bjaki%2bbyard%2bexperience)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cef700ba8e08850b4e190af9e02d797c.jpg' width='16%' alt='Elijah Fox - City in the Sky (Piano Works)'>](https://www.last.fm/music/elijah%2bfox/city%2bin%2bthe%2bsky%2b%2528piano%2bworks%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/c1c9890723ae48872f175fca2b50e058.jpg' width='16%' alt='Red Garland - Red Garland Revisited!'>](https://www.last.fm/music/red%2bgarland/red%2bgarland%2brevisited%2521)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/cca613c9c5d3480d9ff6ae4636e22e12.jpg' width='16%' alt='Red Garland Trio - A Garland Of Red'>](https://www.last.fm/music/red%2bgarland%2btrio/a%2bgarland%2bof%2bred)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8a7edadaacaa40f4c04afcda0c57a5ee.png' width='16%' alt='Stevie Wonder - Talking Book'>](https://www.last.fm/music/stevie%2bwonder/talking%2bbook)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/82573426631c6de14959f4753eafe666.jpg' width='16%' alt='underscores - U'>](https://www.last.fm/music/underscores/u)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4a3d64e4d77be20460f4a2be69ee88cd.jpg' width='16%' alt='Bill Evans - You Must Believe In Spring (Remastered 2022)'>](https://www.last.fm/music/bill%2bevans/you%2bmust%2bbelieve%2bin%2bspring%2b%2528remastered%2b2022%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8a6a1123bb124e4890f20c956a63e734.png' width='16%' alt='Deafheaven - Sunbather'>](https://www.last.fm/music/deafheaven/sunbather)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a6c6f53c54c301ec48de7799dc3ddaf1.jpg' width='16%' alt='Gilberto Gil & Jorge Ben Jor - Ogum Xangô'>](https://www.last.fm/music/gilberto%2bgil%2b%2526%2bjorge%2bben%2bjor/ogum%2bxang%25c3%25b4)&nbsp;
 <br>
