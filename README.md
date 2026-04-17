@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/abf180a4fc8b4e77a6b8bc521441db0d.jpg' width='16%' alt='Ry Cooder - Jazz'>](https://www.last.fm/music/ry%2bcooder/jazz)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d99b2515cd419258044fca50075a4591.png' width='16%' alt='The Barry Harris Sextet - Luminescence!'>](https://www.last.fm/music/the%2bbarry%2bharris%2bsextet/luminescence%2521)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0b96e70bb28447ff98232b52f52062c2.jpg' width='16%' alt='Lee Morgan Quintet - Take Twelve'>](https://www.last.fm/music/lee%2bmorgan%2bquintet/take%2btwelve)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e19a0789b112875fb47658c095062612.png' width='16%' alt='My New Band Believe - My New Band Believe'>](https://www.last.fm/music/my%2bnew%2bband%2bbelieve/my%2bnew%2bband%2bbelieve)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/aff0bc4c1b7aa0abcfd516ad06834b03.png' width='16%' alt='My New Band Believe - My New Band Believe'>](https://www.last.fm/music/my%2bnew%2bband%2bbelieve/my%2bnew%2bband%2bbelieve)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9d7f888c4ff64ad9bfcbf74a89086182.png' width='16%' alt='Thelonious Monk - Thelonious Himself'>](https://www.last.fm/music/thelonious%2bmonk/thelonious%2bhimself)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/89cd88017b2fa3f23b21e46ce2915ec7.jpg' width='16%' alt='Nourished by Time - Catching Chickens EP'>](https://www.last.fm/music/nourished%2bby%2btime/catching%2bchickens%2bep)&nbsp;
 <br>
