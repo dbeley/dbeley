@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5be26daef1e1ca7cc25258dc76780cdd.jpg' width='16%' alt='Freddie Hubbard - Hub-Tones'>](https://www.last.fm/music/freddie%2bhubbard/hub-tones)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/6ddb7a336b38d380e7d8dd699c2d98e9.jpg' width='16%' alt='Lennie Tristano - Lennie Tristano'>](https://www.last.fm/music/lennie%2btristano/lennie%2btristano)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d99b2515cd419258044fca50075a4591.png' width='16%' alt='The Barry Harris Sextet - Luminescence!'>](https://www.last.fm/music/the%2bbarry%2bharris%2bsextet/luminescence%2521)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/08db8d48c897244dd728691056ceaf59.jpg' width='16%' alt='Gris - Il était une forêt...'>](https://www.last.fm/music/gris/il%2b%25c3%25a9tait%2bune%2bfor%25c3%25aat...)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/937c42239633c3106f3299edd7c20da6.png' width='16%' alt='Murmuüre - Murmuüre'>](https://www.last.fm/music/murmu%25c3%25bcre/murmu%25c3%25bcre)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/aff0bc4c1b7aa0abcfd516ad06834b03.png' width='16%' alt='My New Band Believe - My New Band Believe'>](https://www.last.fm/music/my%2bnew%2bband%2bbelieve/my%2bnew%2bband%2bbelieve)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9d7f888c4ff64ad9bfcbf74a89086182.png' width='16%' alt='Thelonious Monk - Thelonious Himself'>](https://www.last.fm/music/thelonious%2bmonk/thelonious%2bhimself)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9814f9d5aebc1cbe48f1f5bcde85af4d.jpg' width='16%' alt='Ben Paterson - Essential Elements'>](https://www.last.fm/music/ben%2bpaterson/essential%2belements)&nbsp;
 <br>
