@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/70a09d8a19462afd1e0b6e16b17380d5.png' width='16%' alt='Blood Orange - Negro Swan'>](https://www.last.fm/music/blood%2borange/negro%2bswan)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7c9c4d1009514b178c82f2201e3a1fce.jpg' width='16%' alt='Tame Impala - Lonerism'>](https://www.last.fm/music/tame%2bimpala/lonerism)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7d739181806d4178805cddc616ed8a33.png' width='16%' alt='Air - Talkie Walkie'>](https://www.last.fm/music/air/talkie%2bwalkie)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f528ec875ee21077c1f99e57c5f9ae7f.jpg' width='16%' alt='Brad Mehldau Trio - The Art of the Trio, Volume 5: Progression'>](https://www.last.fm/music/brad%2bmehldau%2btrio/the%2bart%2bof%2bthe%2btrio%252c%2bvolume%2b5%253a%2bprogression)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/e5f372e3ae3e4102b740ed9c91f725d0.jpg' width='16%' alt='Clann Zú - Rua'>](https://www.last.fm/music/clann%2bz%25c3%25ba/rua)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8c2b2bf23e814013a4b254e6a52a09b8.png' width='16%' alt='Cloud Nothings - Attack on Memory'>](https://www.last.fm/music/cloud%2bnothings/attack%2bon%2bmemory)&nbsp;
 <br>
