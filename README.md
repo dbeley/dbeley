@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b2ea5740b806ec2e66e2ae52500b76c0.jpg' width='16%' alt='Cero - e o'>](https://www.last.fm/music/cero/e%2bo)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/640a079125b040d7b3a26beebad91a2b.png' width='16%' alt='The World Is a Beautiful Place & I Am No Longer Afraid to Die - Whenever, If Ever'>](https://www.last.fm/music/the%2bworld%2bis%2ba%2bbeautiful%2bplace%2b%2526%2bi%2bam%2bno%2blonger%2bafraid%2bto%2bdie/whenever%252c%2bif%2bever)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5bcb675866706c229ad9f77188b8ac44.jpg' width='16%' alt='Green Day - American Idiot'>](https://www.last.fm/music/green%2bday/american%2bidiot)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bece90e5ce154b0bb2eb4f963af0557a.png' width='16%' alt='Michael Jackson - Ben'>](https://www.last.fm/music/michael%2bjackson/ben)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/47fb092c84920b5810e48fd05b484b22.jpg' width='16%' alt='Nitai Hershkovits - Call On The Old Wise'>](https://www.last.fm/music/nitai%2bhershkovits/call%2bon%2bthe%2bold%2bwise)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/41cc11e800df970c7c4795d1a9b3801b.jpg' width='16%' alt='Sonny Clark - My Conception'>](https://www.last.fm/music/sonny%2bclark/my%2bconception)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/468c548a89ad939207a1492ea8731faf.jpg' width='16%' alt='Indigo De Souza - All of This Will End'>](https://www.last.fm/music/indigo%2bde%2bsouza/all%2bof%2bthis%2bwill%2bend)&nbsp;
 <br>
