@@ -14,5 +14,5 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5bcb675866706c229ad9f77188b8ac44.jpg' width='16%' alt='Green Day - American Idiot'>](https://www.last.fm/music/green%2bday/american%2bidiot)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/47fb092c84920b5810e48fd05b484b22.jpg' width='16%' alt='Nitai Hershkovits - Call On The Old Wise'>](https://www.last.fm/music/nitai%2bhershkovits/call%2bon%2bthe%2bold%2bwise)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/39c8136eb4a0bac5c5da45c3c732b57f.jpg' width='16%' alt='Fergus McCreadie - Forest Floor'>](https://www.last.fm/music/fergus%2bmccreadie/forest%2bfloor)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/468c548a89ad939207a1492ea8731faf.jpg' width='16%' alt='Indigo De Souza - All of This Will End'>](https://www.last.fm/music/indigo%2bde%2bsouza/all%2bof%2bthis%2bwill%2bend)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/28ffd87a1e554022c0065398979894c4.png' width='16%' alt='Mac DeMarco - Salad Days'>](https://www.last.fm/music/mac%2bdemarco/salad%2bdays)&nbsp;
 <br>
