@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ffdf3bc3de2602566cfc289194309d50.jpg' width='16%' alt='Fergus McCreadie - The Shieling'>](https://www.last.fm/music/fergus%2bmccreadie/the%2bshieling)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f95f76f258753d122c103851e482bfaf.jpg' width='16%' alt='Fergus McCreadie - Stream'>](https://www.last.fm/music/fergus%2bmccreadie/stream)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5bcb675866706c229ad9f77188b8ac44.jpg' width='16%' alt='Green Day - American Idiot'>](https://www.last.fm/music/green%2bday/american%2bidiot)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/39c8136eb4a0bac5c5da45c3c732b57f.jpg' width='16%' alt='Fergus McCreadie - Forest Floor'>](https://www.last.fm/music/fergus%2bmccreadie/forest%2bfloor)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/db969a8b37705cd6917130c970ed47f8.jpg' width='16%' alt='Fergus McCreadie - Cairn'>](https://www.last.fm/music/fergus%2bmccreadie/cairn)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b5a23208110842c4c25d6a2e21e8aab9.jpg' width='16%' alt='Stéphane Kerecki - Sound Architects'>](https://www.last.fm/music/st%25c3%25a9phane%2bkerecki/sound%2barchitects)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/33d8d0fa37811f73c0162e030715504f.jpg' width='16%' alt='Jungle Jack - JUNGLE DES ILLUSIONS VOL 1'>](https://www.last.fm/music/jungle%2bjack/jungle%2bdes%2billusions%2bvol%2b1)&nbsp;
 <br>
