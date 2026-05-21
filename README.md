@@ -8,11 +8,11 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1f087dc8597e44559c2765c1b2c5eff0.png' width='16%' alt='Bad Brains - Bad Brains'>](https://www.last.fm/music/bad%2bbrains/bad%2bbrains)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/51973aa42234be52d044710de2df1faa.jpg' width='16%' alt='Ptite Soeur, neophron, FEMTOGO - PRETTY DOLLCORPSE'>](https://www.last.fm/music/ptite%2bsoeur%252c%2bneophron%252c%2bfemtogo/pretty%2bdollcorpse)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1644851719cba9ea1a5ec00f2825d206.jpg' width='16%' alt='Les Rythmes Digitales - Darkdancer'>](https://www.last.fm/music/les%2brythmes%2bdigitales/darkdancer)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ffdf3bc3de2602566cfc289194309d50.jpg' width='16%' alt='Fergus McCreadie - The Shieling'>](https://www.last.fm/music/fergus%2bmccreadie/the%2bshieling)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fb4c3e0bd69cac62334a475c167aa18e.jpg' width='16%' alt='Sam Gendel - Blueblue'>](https://www.last.fm/music/sam%2bgendel/blueblue)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f95f76f258753d122c103851e482bfaf.jpg' width='16%' alt='Fergus McCreadie - Stream'>](https://www.last.fm/music/fergus%2bmccreadie/stream)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/39c8136eb4a0bac5c5da45c3c732b57f.jpg' width='16%' alt='Fergus McCreadie - Forest Floor'>](https://www.last.fm/music/fergus%2bmccreadie/forest%2bfloor)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/db969a8b37705cd6917130c970ed47f8.jpg' width='16%' alt='Fergus McCreadie - Cairn'>](https://www.last.fm/music/fergus%2bmccreadie/cairn)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5e08a87a091d9db75ce1bf39ee14ca53.png' width='16%' alt='Cindy Lee - Diamond Jubilee'>](https://www.last.fm/music/cindy%2blee/diamond%2bjubilee)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8c6e2c7461584284096d21580a702b87.jpg' width='16%' alt='Meshuggah - Destroy Erase Improve'>](https://www.last.fm/music/meshuggah/destroy%2berase%2bimprove)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b5a23208110842c4c25d6a2e21e8aab9.jpg' width='16%' alt='Stéphane Kerecki - Sound Architects'>](https://www.last.fm/music/st%25c3%25a9phane%2bkerecki/sound%2barchitects)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/33d8d0fa37811f73c0162e030715504f.jpg' width='16%' alt='Jungle Jack - JUNGLE DES ILLUSIONS VOL 1'>](https://www.last.fm/music/jungle%2bjack/jungle%2bdes%2billusions%2bvol%2b1)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0ecc8090b8e529c27b7083170dc86dac.jpg' width='16%' alt='Pat Metheny Group - Still Life (Talking)'>](https://www.last.fm/music/pat%2bmetheny%2bgroup/still%2blife%2b%2528talking%2529)&nbsp;
 <br>
