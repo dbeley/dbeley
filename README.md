@@ -10,9 +10,9 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/1ecb14a222b18b1de814bb787172cee9.jpg' width='16%' alt='Bud Powell - The Amazing Bud Powell, Volume One'>](https://www.last.fm/music/bud%2bpowell/the%2bamazing%2bbud%2bpowell%252c%2bvolume%2bone)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3e3b323ccc534cd3ccffa1ed74d3e17c.png' width='16%' alt='The Dave Brubeck Quartet - Dave Digs Disney'>](https://www.last.fm/music/the%2bdave%2bbrubeck%2bquartet/dave%2bdigs%2bdisney)&nbsp;
 <br>
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4429e623ebedd4479f42cfaa90e9cf2d.png' width='16%' alt='Norther - Death Unlimited'>](https://www.last.fm/music/norther/death%2bunlimited)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/91f56f1ef9e351a42af6a908b4255aa3.jpg' width='16%' alt='Duke Jordan - Flight to Jordan'>](https://www.last.fm/music/duke%2bjordan/flight%2bto%2bjordan)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/78b193f3da2b3468f6c81a609dcf2036.jpg' width='16%' alt='Thelonious Monk - Misterioso'>](https://www.last.fm/music/thelonious%2bmonk/misterioso)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/94be99ec594a40ca9804c1ce8e0a951d.jpg' width='16%' alt='Hank Mobley - Dippin'>](https://www.last.fm/music/hank%2bmobley/dippin%2527)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/993c4463a901a9508e9db9fa1f04fc6f.jpg' width='16%' alt='Oscar Peterson - Girl Talk'>](https://www.last.fm/music/oscar%2bpeterson/girl%2btalk)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f87dba9c727903dbea3f7b20102511c9.png' width='16%' alt='Duran Duran - Rio'>](https://www.last.fm/music/duran%2bduran/rio)&nbsp;
 <br>
