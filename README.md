@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/bc94ceee290570335494832c6717a1a7.jpg' width='16%' alt='Sonny Rollins - Sonny Rollins Plus 4'>](https://www.last.fm/music/sonny%2brollins/sonny%2brollins%2bplus%2b4)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/398b66a2d9c7cadea70ae5c7b76c88de.png' width='16%' alt='Sufjan Stevens - Mystery of Love'>](https://www.last.fm/music/sufjan%2bstevens/mystery%2bof%2blove)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/fc27500532d64a66bae75408de9a4243.jpg' width='16%' alt='Eric Reed - Manhattan Melodies'>](https://www.last.fm/music/eric%2breed/manhattan%2bmelodies)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ca141e26e10f8ee0543ee593cee1e435.jpg' width='16%' alt='Miles Davis - Sorcerer'>](https://www.last.fm/music/miles%2bdavis/sorcerer)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5afd5062981a21503406e445668cd66d.jpg' width='16%' alt='Bud Powell - Bud Powell In Paris'>](https://www.last.fm/music/bud%2bpowell/bud%2bpowell%2bin%2bparis)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/470247a49e758fdfe1f49f4ad65fa3cc.jpg' width='16%' alt='Inanna - Void of Unending Depths'>](https://www.last.fm/music/inanna/void%2bof%2bunending%2bdepths)&nbsp;
 <br>
