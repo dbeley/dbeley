@@ -5,14 +5,14 @@
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/51e5d2206f86d9039c2e12355485169f.jpg' width='16%' alt='Billie Holiday - Lady Sings the Blues'>](https://www.last.fm/music/billie%2bholiday/lady%2bsings%2bthe%2bblues)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f1167dc784d712c89e9214adb5a635df.jpg' width='16%' alt='Boards of Canada - Inferno'>](https://www.last.fm/music/boards%2bof%2bcanada/inferno)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7318786c6031d84d476292a4886714ab.jpg' width='16%' alt='John Lennon - John Lennon/Plastic Ono Band'>](https://www.last.fm/music/john%2blennon/john%2blennon%252fplastic%2bono%2bband)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ab5c9a5c55c540767cb31b21c337cb7e.jpg' width='16%' alt='Stereolab - Instant Holograms On Metal Film'>](https://www.last.fm/music/stereolab/instant%2bholograms%2bon%2bmetal%2bfilm)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4c1c0e3be44c4ce6b5d5dd4f3ef3e863.jpg' width='16%' alt='Fats Waller - Aint Misbehavin'>](https://www.last.fm/music/fats%2bwaller/ain%2527t%2bmisbehavin%2527)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b8f7c7a30d92473aac6075ad207295ad.jpg' width='16%' alt='Inanna - Converging Ages'>](https://www.last.fm/music/inanna/converging%2bages)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5afd5062981a21503406e445668cd66d.jpg' width='16%' alt='Bud Powell - Bud Powell In Paris'>](https://www.last.fm/music/bud%2bpowell/bud%2bpowell%2bin%2bparis)&nbsp;
 <br>
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4e7fb3cccc5b591db7569919f16e8bc7.jpg' width='16%' alt='John Lennon - Mind Games'>](https://www.last.fm/music/john%2blennon/mind%2bgames)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/d81814984d5049a4b254e075e25b54bc.png' width='16%' alt='Darkthrone - Transilvanian Hunger'>](https://www.last.fm/music/darkthrone/transilvanian%2bhunger)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/a27325773396f941f9f3b7ed8a87a30f.jpg' width='16%' alt='Gojira - Terra Incognita'>](https://www.last.fm/music/gojira/terra%2bincognita)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/61b45bdb8945fada07d6b7dedcfc49c6.jpg' width='16%' alt='Sampha - Process'>](https://www.last.fm/music/sampha/process)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/64c92dd71b14d0a2b08a3c22b0182050.jpg' width='16%' alt='Fats Waller - Waller On The Ivories'>](https://www.last.fm/music/fats%2bwaller/waller%2bon%2bthe%2bivories)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/15c176c07c5ed6c0f6b2aba7960e16d8.jpg' width='16%' alt='Bud Powell - Jazz Giant'>](https://www.last.fm/music/bud%2bpowell/jazz%2bgiant)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/71e646e2098f4b741318eca9211c5777.jpg' width='16%' alt='PJ Harvey - Let England Shake'>](https://www.last.fm/music/pj%2bharvey/let%2bengland%2bshake)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ceaf33208f644ad39f9673e243ebec85.jpg' width='16%' alt='Bud Powell - The Amazing Bud Powell, Volume Two'>](https://www.last.fm/music/bud%2bpowell/the%2bamazing%2bbud%2bpowell%252c%2bvolume%2btwo)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4c1c0e3be44c4ce6b5d5dd4f3ef3e863.jpg' width='16%' alt='Fats Waller - Aint Misbehavin'>](https://www.last.fm/music/fats%2bwaller/ain%2527t%2bmisbehavin%2527)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/3f51572c9b758a7fdfef95e40f8691cd.png' width='16%' alt='James Blake - Trying Times'>](https://www.last.fm/music/james%2bblake/trying%2btimes)&nbsp;
 <br>
