@@ -13,6 +13,6 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8bbb31da139345622cb44d2bd5d1cccd.jpg' width='16%' alt='(Sandy) Alex G - Beach Music'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/beach%2bmusic)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/03337c9410154aa74af1e6b23bafa085.jpg' width='16%' alt='Alex G - RACE'>](https://www.last.fm/music/alex%2bg/race)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8a19aa03b741979ced36eb3ae001e8e7.jpg' width='16%' alt='Alex G - Treehouse'>](https://www.last.fm/music/alex%2bg/treehouse)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/81ae84ff923292f256c770d640eefd1c.jpg' width='16%' alt='Snail Mail - Habit'>](https://www.last.fm/music/snail%2bmail/habit)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/5ef691d59e324c8acc0cee90b3463003.png' width='16%' alt='The Go-Betweens - Before Hollywood'>](https://www.last.fm/music/the%2bgo-betweens/before%2bhollywood)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9dece93e7faf341b9acba2c6424f9c3f.jpg' width='16%' alt='Jacob Collier - Here Comes The Sun (feat. dodie)'>](https://www.last.fm/music/jacob%2bcollier/here%2bcomes%2bthe%2bsun%2b%2528feat.%2bdodie%2529)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/515eead357e506fe4d44e1645d4f4649.jpg' width='16%' alt='Paradis - Recto Verso'>](https://www.last.fm/music/paradis/recto%2bverso)&nbsp;
 <br>
