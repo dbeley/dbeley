@@ -11,8 +11,8 @@
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/0fb06d94de31102e30dc28b6c23246b5.jpg' width='16%' alt='Alex G - House of Sugar'>](https://www.last.fm/music/alex%2bg/house%2bof%2bsugar)&nbsp;
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8bbb31da139345622cb44d2bd5d1cccd.jpg' width='16%' alt='(Sandy) Alex G - Beach Music'>](https://www.last.fm/music/%2528sandy%2529%2balex%2bg/beach%2bmusic)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/7f5b7eb54780d5925da46d12624a6076.png' width='16%' alt='Los Thuthanaka - Los Thuthanaka'>](https://www.last.fm/music/los%2bthuthanaka/los%2bthuthanaka)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/03337c9410154aa74af1e6b23bafa085.jpg' width='16%' alt='Alex G - RACE'>](https://www.last.fm/music/alex%2bg/race)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/8a19aa03b741979ced36eb3ae001e8e7.jpg' width='16%' alt='Alex G - Treehouse'>](https://www.last.fm/music/alex%2bg/treehouse)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/9dece93e7faf341b9acba2c6424f9c3f.jpg' width='16%' alt='Jacob Collier - Here Comes The Sun (feat. dodie)'>](https://www.last.fm/music/jacob%2bcollier/here%2bcomes%2bthe%2bsun%2b%2528feat.%2bdodie%2529)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/515eead357e506fe4d44e1645d4f4649.jpg' width='16%' alt='Paradis - Recto Verso'>](https://www.last.fm/music/paradis/recto%2bverso)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/b592ff143a5f984199043438ce0afc43.jpg' width='16%' alt='Charlie Parker - The Complete Savoy & Dial Master Takes'>](https://www.last.fm/music/charlie%2bparker/the%2bcomplete%2bsavoy%2b%2526%2bdial%2bmaster%2btakes)&nbsp;
 <br>
