@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [dbeley](https://dbeley.ovh/en)!
 
-![dbeley's github stats](./profile/stats.svg)
+[![dbeley's GitHub stats](https://github-stats-extended.vercel.app/api?username=dbeley)](https://github.com/stats-organization/github-stats-extended)
 
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
