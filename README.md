@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/28576d581cc34835c8cb42513874f5db.jpg' width='16%' alt='Neil Young - Tonight’s The Night'>](https://www.last.fm/music/neil%2byoung/tonight%25e2%2580%2599s%2bthe%2bnight)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/ec5211a8a8411109f622bf8e394376fd.png' width='16%' alt='Carly Rae Jepsen - The Loveliest Time'>](https://www.last.fm/music/carly%2brae%2bjepsen/the%2bloveliest%2btime)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f042a9996326689e21a6f1b73d915542.png' width='16%' alt='Beach Bunny - Emotional Creature'>](https://www.last.fm/music/beach%2bbunny/emotional%2bcreature)&nbsp;
+[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/4092f831722a00766704f49d00ee50c7.jpg' width='16%' alt='Beach Bunny - Tunnel Vision'>](https://www.last.fm/music/beach%2bbunny/tunnel%2bvision)&nbsp;
 [<img src='https://lastfm.freetls.fastly.net/i/u/300x300/43b65977f07a0732fd1273f98818ea0d.jpg' width='16%' alt='Jeff Rosenstock - We Cool?'>](https://www.last.fm/music/jeff%2brosenstock/we%2bcool%253f)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f4d60ef1d8d01200ed11d01c703f2ba8.jpg' width='16%' alt='Joni Mitchell - Blue'>](https://www.last.fm/music/joni%2bmitchell/blue)&nbsp;
-[<img src='https://lastfm.freetls.fastly.net/i/u/300x300/f88075253341c5d9370b30a98c176174.jpg' width='16%' alt='Judee Sill - Judee Sill'>](https://www.last.fm/music/judee%2bsill/judee%2bsill)&nbsp;
 <br>
