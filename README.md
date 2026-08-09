@@ -11,8 +11,8 @@
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/4092f831722a00766704f49d00ee50c7.jpg' width='16%' alt='Beach Bunny - Tunnel Vision'>](https://www.last.fm/music/beach%2bbunny/tunnel%2bvision)&nbsp;
 <br>
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/aab0eebb902f45cba272f78cf0a46d55.jpg' width='16%' alt='Belle and Sebastian - The Boy with the Arab Strap'>](https://www.last.fm/music/belle%2band%2bsebastian/the%2bboy%2bwith%2bthe%2barab%2bstrap)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/43b65977f07a0732fd1273f98818ea0d.jpg' width='16%' alt='Jeff Rosenstock - We Cool?'>](https://www.last.fm/music/jeff%2brosenstock/we%2bcool%253f)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/918128c0a2245c805c6820283b7ec50c.jpg' width='16%' alt='Marillion - Misplaced Childhood'>](https://www.last.fm/music/marillion/misplaced%2bchildhood)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/430d2e86ee6d0fa9dec2f46c044956b1.jpg' width='16%' alt='Pavement - Brighten the Corners'>](https://www.last.fm/music/pavement/brighten%2bthe%2bcorners)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/ee68150b348b40bac06f8c7ef85bc284.png' width='16%' alt='Anita ODay - Anita Sings The Most'>](https://www.last.fm/music/anita%2bo%2527day/anita%2bsings%2bthe%2bmost)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/8d547257f3510ee2f74cb68271ab1d01.jpg' width='16%' alt='Charlie Haden - Liberation Music Orchestra'>](https://www.last.fm/music/charlie%2bhaden/liberation%2bmusic%2borchestra)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/b6988e93906c42939d0892061944f6bd.png' width='16%' alt='Julia Holter - Loud City Song'>](https://www.last.fm/music/julia%2bholter/loud%2bcity%2bsong)&nbsp;
 <br>
