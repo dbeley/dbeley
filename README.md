@@ -14,5 +14,5 @@
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/67d0c34a56cc6de8956de22677199d6f.jpg' width='16%' alt='Acetone - If You Only Knew'>](https://www.last.fm/music/acetone/if%2byou%2bonly%2bknew)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/bd6a754056fe2cda0c6672aa93ebf826.jpg' width='16%' alt='Kaatayra - Caminhos de Água'>](https://www.last.fm/music/kaatayra/caminhos%2bde%2b%25c3%2581gua)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/3278464e10e38a8119da1d9455681654.jpg' width='16%' alt='Arcade Fire - Funeral'>](https://www.last.fm/music/arcade%2bfire/funeral)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/ce814d02c0e94b188e9e7048f06a1820.png' width='16%' alt='Milt Jackson - Opus de Jazz'>](https://www.last.fm/music/milt%2bjackson/opus%2bde%2bjazz)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/f2c5e96389939ef6b2b6e71e7eacdb50.jpg' width='16%' alt='Larry Goldings, Peter Bernstein, Bill Stewart - Toy Tunes'>](https://www.last.fm/music/larry%2bgoldings%252c%2bpeter%2bbernstein%252c%2bbill%2bstewart/toy%2btunes)&nbsp;
 <br>
