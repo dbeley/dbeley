@@ -7,12 +7,12 @@
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/14246fa5f6774a0eba964e8da4d33cf6.jpg' width='16%' alt='Wynton Kelly - Piano Interpretations'>](https://www.last.fm/music/wynton%2bkelly/piano%2binterpretations)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/d1f3067dd39ec81b5324012b7dccbcdc.jpg' width='16%' alt='The Brave Little Abacus - just got back from the discomfort—we’re alright'>](https://www.last.fm/music/the%2bbrave%2blittle%2babacus/just%2bgot%2bback%2bfrom%2bthe%2bdiscomfort%25e2%2580%2594we%25e2%2580%2599re%2balright)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/2b1b1aadadbde3be8555642bc390c2e2.jpg' width='16%' alt='Bud Powell - The Amazing Bud Powell, Volume 2'>](https://www.last.fm/music/bud%2bpowell/the%2bamazing%2bbud%2bpowell%252c%2bvolume%2b2)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/8700ee8059d6cfaaf50e0bbf090d6e34.jpg' width='16%' alt='Marvin Gaye - Whats Going On'>](https://www.last.fm/music/marvin%2bgaye/what%2527s%2bgoing%2bon)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/65e06fba73f337de344ea5debc11c2a4.jpg' width='16%' alt='Scary Goldings - IV'>](https://www.last.fm/music/scary%2bgoldings/iv)&nbsp;
-<br>
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/5f863cceffcb45c692e648f11fce5160.png' width='16%' alt='Joanna Newsom - Have One on Me'>](https://www.last.fm/music/joanna%2bnewsom/have%2bone%2bon%2bme)&nbsp;
+<br>
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/4babdeb51727960d382c868299b17f1a.jpg' width='16%' alt='Scary Goldings - The Ego Trap'>](https://www.last.fm/music/scary%2bgoldings/the%2bego%2btrap)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/feb5b89fd0c900d3e539d59c4e985080.jpg' width='16%' alt='Scary Pockets, Larry Goldings - Scary Goldings'>](https://www.last.fm/music/scary%2bpockets%252c%2blarry%2bgoldings/scary%2bgoldings)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/6e9c3beb63d06d20e6d37d1282c988c2.jpg' width='16%' alt='Acetone - Acetone'>](https://www.last.fm/music/acetone/acetone)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/ad27ff3fa31b24ae9c1ed2a9270d6b31.jpg' width='16%' alt='Larry Goldings - Awareness'>](https://www.last.fm/music/larry%2bgoldings/awareness)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/f2c5e96389939ef6b2b6e71e7eacdb50.jpg' width='16%' alt='Larry Goldings, Peter Bernstein, Bill Stewart - Toy Tunes'>](https://www.last.fm/music/larry%2bgoldings%252c%2bpeter%2bbernstein%252c%2bbill%2bstewart/toy%2btunes)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/0d297ef7118a92d361ac20ba3c1c2460.png' width='16%' alt='Patti Smith - Horses'>](https://www.last.fm/music/patti%2bsmith/horses)&nbsp;
 <br>
