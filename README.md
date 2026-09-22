@@ -10,9 +10,9 @@
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/bc4202b19c488be8ca759874faa8548a.jpg' width='16%' alt='Laufey - Everything I Know About Love'>](https://www.last.fm/music/laufey/everything%2bi%2bknow%2babout%2blove)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/51f2fc1195264b80c2910c6e6d00829d.jpg' width='16%' alt='Mano Solo - La marmaille nue'>](https://www.last.fm/music/mano%2bsolo/la%2bmarmaille%2bnue)&nbsp;
 <br>
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/ae0c1cd50e098fa39e075285473655bf.jpg' width='16%' alt='Benny Green - Bennys Crib'>](https://www.last.fm/music/benny%2bgreen/benny%2527s%2bcrib)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/a9f71d1e60b264012007b9a6e74d9581.jpg' width='16%' alt='Franck Avitabile - Short Stories'>](https://www.last.fm/music/franck%2bavitabile/short%2bstories)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/51f7b6654a610c03ea7348dee3158105.jpg' width='16%' alt='Keith Jarrett - The Melody At Night, With You'>](https://www.last.fm/music/keith%2bjarrett/the%2bmelody%2bat%2bnight%252c%2bwith%2byou)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/4e60677084274c45aa98192202038a23.png' width='16%' alt='Fleetwood Mac - Tango in the Night'>](https://www.last.fm/music/fleetwood%2bmac/tango%2bin%2bthe%2bnight)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/9cf4dc7cf9bd80c23ae5d8fce580ad22.jpg' width='16%' alt='Johann Sebastian Bach; Keith Jarrett - Das wohltemperierte Klavier, Buch II'>](https://www.last.fm/music/johann%2bsebastian%2bbach%253b%2bkeith%2bjarrett/das%2bwohltemperierte%2bklavier%252c%2bbuch%2bii)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/94994638b4305d100e95026e361c1722.jpg' width='16%' alt='Laufey - Bewitched'>](https://www.last.fm/music/laufey/bewitched)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/ad656836a06e4267858d105ddd13fe04.png' width='16%' alt='Nick Drake - Bryter Layter'>](https://www.last.fm/music/nick%2bdrake/bryter%2blayter)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/b2f0048e279f39311c1004ae8fc4a778.jpg' width='16%' alt='John Coltrane - Expression'>](https://www.last.fm/music/john%2bcoltrane/expression)&nbsp;
 <br>
