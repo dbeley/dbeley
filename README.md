@@ -13,6 +13,6 @@
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/ae0c1cd50e098fa39e075285473655bf.jpg' width='16%' alt='Benny Green - Bennys Crib'>](https://www.last.fm/music/benny%2bgreen/benny%2527s%2bcrib)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/a9f71d1e60b264012007b9a6e74d9581.jpg' width='16%' alt='Franck Avitabile - Short Stories'>](https://www.last.fm/music/franck%2bavitabile/short%2bstories)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/51f7b6654a610c03ea7348dee3158105.jpg' width='16%' alt='Keith Jarrett - The Melody At Night, With You'>](https://www.last.fm/music/keith%2bjarrett/the%2bmelody%2bat%2bnight%252c%2bwith%2byou)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/4e60677084274c45aa98192202038a23.png' width='16%' alt='Fleetwood Mac - Tango in the Night'>](https://www.last.fm/music/fleetwood%2bmac/tango%2bin%2bthe%2bnight)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/9cf4dc7cf9bd80c23ae5d8fce580ad22.jpg' width='16%' alt='Johann Sebastian Bach; Keith Jarrett - Das wohltemperierte Klavier, Buch II'>](https://www.last.fm/music/johann%2bsebastian%2bbach%253b%2bkeith%2bjarrett/das%2bwohltemperierte%2bklavier%252c%2bbuch%2bii)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/0138318b0fa1f9001cfed6acb2d93da7.jpg' width='16%' alt='En Attendant Ana - Lost and Found'>](https://www.last.fm/music/en%2battendant%2bana/lost%2band%2bfound)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/d5ffba88244949e9324d1929ac130da9.jpg' width='16%' alt='Fœhn Trio - Highlines'>](https://www.last.fm/music/f%25c5%2593hn%2btrio/highlines)&nbsp;
 <br>
