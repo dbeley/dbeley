@@ -3,12 +3,14 @@
 ![dbeley's github stats](./profile/stats.svg)
 
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#)
+[![Proxmox](https://img.shields.io/badge/Proxmox?logo=proxmox&logoColor=fff)](#)
 [![LineageOS](https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=fff)](#)
-[![LastFM](https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#)
 [![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff)](#)
 [![F-Droid](https://img.shields.io/badge/F--Droid-%2311AB00.svg?logo=f-droid&logoColor=white)](#)
+[![Thinkpad](https://img.shields.io/badge/Thinkpad?logo=thinkpad&logoColor=fff)](#)
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#)
+[![LastFM](https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white)](#)
 
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
