@@ -13,6 +13,6 @@
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/b472ac0e24c320e0ba16950fe5670ee6.png' width='16%' alt='Protomartyr - Hotel Usona'>](https://www.last.fm/music/protomartyr/hotel%2busona)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/8489b588a44f4381c3e046a09a764cc4.png' width='16%' alt='McCoy Tyner Trio - Inception'>](https://www.last.fm/music/mccoy%2btyner%2btrio/inception)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/9019a3bb5cb6fdf33aa57a6854409cda.jpg' width='16%' alt='Pavement - Terror Twilight'>](https://www.last.fm/music/pavement/terror%2btwilight)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/f958b9a2221d4469c463ccea86a9b618.png' width='16%' alt='Horace Silver - The Jody Grind'>](https://www.last.fm/music/horace%2bsilver/the%2bjody%2bgrind)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/6c95db621b6a07b0b7c713a3a813a15b.jpg' width='16%' alt='Mark Priore Trio - Initio'>](https://www.last.fm/music/mark%2bpriore%2btrio/initio)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/254f8e6ecb5fc5fb63a65fa387090e4f.jpg' width='16%' alt='Wayne Shorter - Speak No Evil'>](https://www.last.fm/music/wayne%2bshorter/speak%2bno%2bevil)&nbsp;
 <br>
