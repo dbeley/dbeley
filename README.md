@@ -2,6 +2,16 @@
 
 ![dbeley's github stats](./profile/stats.svg)
 
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#)
+[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=fff)](#)
+[![LineageOS](https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff)](#)
+[![F-Droid](https://img.shields.io/badge/F--Droid-%2311AB00.svg?logo=f-droid&logoColor=white)](#)
+[![Thinkpad](https://img.shields.io/badge/Thinkpad-EE2624?logo=thinkpad&logoColor=fff)](#)
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#)
+[![LastFM](https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white)](#)
+
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/7e972d2f75f2e0fc2706a0a4ec083941.png' width='16%' alt='Tinashe - POPSTAR'>](https://www.last.fm/music/tinashe/popstar)&nbsp;
