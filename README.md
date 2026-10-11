@@ -13,6 +13,6 @@
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/6d9434c5aacda38c41d286b4722f5fa6.jpg' width='16%' alt='Los Campesinos! - Hold On Now, Youngster...'>](https://www.last.fm/music/los%2bcampesinos%2521/hold%2bon%2bnow%252c%2byoungster...)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/c2b58e3397bc8f1491d17d961efd3e43.png' width='16%' alt='They Might Be Giants - Flood'>](https://www.last.fm/music/they%2bmight%2bbe%2bgiants/flood)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/db45e9b6f40ecf5e4184470e168b8b9f.jpg' width='16%' alt='GoGo Penguin - GoGo Penguin'>](https://www.last.fm/music/gogo%2bpenguin/gogo%2bpenguin)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/254f8e6ecb5fc5fb63a65fa387090e4f.jpg' width='16%' alt='Wayne Shorter - Speak No Evil'>](https://www.last.fm/music/wayne%2bshorter/speak%2bno%2bevil)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/a924190403553d2e8f742d2148d8b6eb.jpg' width='16%' alt='Agalloch - Pale Folklore'>](https://www.last.fm/music/agalloch/pale%2bfolklore)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/6c014ceb495fecbf19241d9be94b0944.jpg' width='16%' alt='Wilco - Cousin'>](https://www.last.fm/music/wilco/cousin)&nbsp;
 <br>
