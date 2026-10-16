@@ -16,7 +16,7 @@ def main():
     top_albums = user.get_top_albums(period=args.timeframe, limit=limit + 5)
 
     readme_content = """### Hi there 👋, I'm [dbeley](https://dbeley.ovh/en)!\n
-![dbeley's github stats](./profile/stats.svg)\n
+[![dbeley's GitHub stats](https://github-stats-extended.vercel.app/api?username=dbeley)](https://github.com/stats-organization/github-stats-extended)\n
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week\n
 """
 
