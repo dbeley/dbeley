@@ -2,6 +2,16 @@
 
 [![dbeley's GitHub stats](https://github-stats-extended.vercel.app/api?username=dbeley)](https://github.com/stats-organization/github-stats-extended)
 
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#)
+[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=fff)](#)
+[![LineageOS](https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff)](#)
+[![F-Droid](https://img.shields.io/badge/F--Droid-%2311AB00.svg?logo=f-droid&logoColor=white)](#)
+[![Thinkpad](https://img.shields.io/badge/Thinkpad-EE2624?logo=thinkpad&logoColor=fff)](#)
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#)
+[![LastFM](https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white)](#)
+
 ### My most listened-to albums on [last.fm](https://www.last.fm/user/d_beley) over the past week
 
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/a6636a7845664ed8eb155dcc6ebfa007.png' width='16%' alt='Jim Croce - I Got A Name'>](https://www.last.fm/music/jim%2bcroce/i%2bgot%2ba%2bname)&nbsp;
