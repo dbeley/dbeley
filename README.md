@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/1992fee31c3c4cbb9cbf39092659cbc1.png' width='16%' alt='The Bad Plus - Suspicious Activity?'>](https://www.last.fm/music/the%2bbad%2bplus/suspicious%2bactivity%253f)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/e751a171e900366d0eb408ae7952d204.jpg' width='16%' alt='Stevie Wonder - Songs In The Key Of Life - The EP'>](https://www.last.fm/music/stevie%2bwonder/songs%2bin%2bthe%2bkey%2bof%2blife%2b-%2bthe%2bep)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/21fd504ad9d192bce21862005b005e5a.jpg' width='16%' alt='Insomnium - Netherworlds'>](https://www.last.fm/music/insomnium/netherworlds)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/6dcd4921856a43fec390a969e8346838.png' width='16%' alt='Paul Simon - Graceland'>](https://www.last.fm/music/paul%2bsimon/graceland)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/9ec05894b2d59b7fc874396bd302c1c9.png' width='16%' alt='Bill Evans Trio - Waltz for Debby'>](https://www.last.fm/music/bill%2bevans%2btrio/waltz%2bfor%2bdebby)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/bd206bb5fd44fc0206fb2ab62db937ae.jpg' width='16%' alt='Eddy Louiss & Michel Petrucciani - Conférence de presse'>](https://www.last.fm/music/eddy%2blouiss%2b%2526%2bmichel%2bpetrucciani/conf%25c3%25a9rence%2bde%2bpresse)&nbsp;
 <br>
