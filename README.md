@@ -10,9 +10,9 @@
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/f6db40e28aea40359be8b4bcbb03474a.png' width='16%' alt='Tord Gustavsen Trio - Being There'>](https://www.last.fm/music/tord%2bgustavsen%2btrio/being%2bthere)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/21fd504ad9d192bce21862005b005e5a.jpg' width='16%' alt='Insomnium - Netherworlds'>](https://www.last.fm/music/insomnium/netherworlds)&nbsp;
 <br>
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/30b0db96c46a3aebe7a0a968b532c306.jpg' width='16%' alt='The Oscar Peterson Trio - Night Train'>](https://www.last.fm/music/the%2boscar%2bpeterson%2btrio/night%2btrain)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/98a218709cea417c9fdce27a803c8f94.jpg' width='16%' alt='Mike Stern - Upside Downside'>](https://www.last.fm/music/mike%2bstern/upside%2bdownside)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/903baf12bf6d4736a0b087fea044c321.png' width='16%' alt='The Gil Evans Orchestra - Out of the Cool'>](https://www.last.fm/music/the%2bgil%2bevans%2borchestra/out%2bof%2bthe%2bcool)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/ff4e73b3feef190cc7e11589d08980fa.jpg' width='16%' alt='The Olivia Tremor Control - The Same Place'>](https://www.last.fm/music/the%2bolivia%2btremor%2bcontrol/the%2bsame%2bplace)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/2131ab7a0ffe46b19da9cc3ae4768796.jpg' width='16%' alt='Clare Fischer - America the Beautiful'>](https://www.last.fm/music/clare%2bfischer/america%2bthe%2bbeautiful)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/1992fee31c3c4cbb9cbf39092659cbc1.png' width='16%' alt='The Bad Plus - Suspicious Activity?'>](https://www.last.fm/music/the%2bbad%2bplus/suspicious%2bactivity%253f)&nbsp;
 <br>
