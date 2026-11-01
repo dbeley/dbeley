@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/21fd504ad9d192bce21862005b005e5a.jpg' width='16%' alt='Insomnium - Netherworlds'>](https://www.last.fm/music/insomnium/netherworlds)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/98a218709cea417c9fdce27a803c8f94.jpg' width='16%' alt='Mike Stern - Upside Downside'>](https://www.last.fm/music/mike%2bstern/upside%2bdownside)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/903baf12bf6d4736a0b087fea044c321.png' width='16%' alt='The Gil Evans Orchestra - Out of the Cool'>](https://www.last.fm/music/the%2bgil%2bevans%2borchestra/out%2bof%2bthe%2bcool)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/ff4e73b3feef190cc7e11589d08980fa.jpg' width='16%' alt='The Olivia Tremor Control - The Same Place'>](https://www.last.fm/music/the%2bolivia%2btremor%2bcontrol/the%2bsame%2bplace)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/2131ab7a0ffe46b19da9cc3ae4768796.jpg' width='16%' alt='Clare Fischer - America the Beautiful'>](https://www.last.fm/music/clare%2bfischer/america%2bthe%2bbeautiful)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/8704b74422ded0142edb4f9977b01dc1.jpg' width='16%' alt='Billy Taylor Trio - Music Keeps Us Young'>](https://www.last.fm/music/billy%2btaylor%2btrio/music%2bkeeps%2bus%2byoung)&nbsp;
 <br>
