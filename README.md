@@ -12,7 +12,7 @@
 <br>
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/ee374c5531c14526b76ea76c202f81ec.png' width='16%' alt='Joe Satriani - Unstoppable Momentum'>](https://www.last.fm/music/joe%2bsatriani/unstoppable%2bmomentum)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/5da7715b90330903da9116d247a59378.png' width='16%' alt='Phoebe Bridgers - Punisher'>](https://www.last.fm/music/phoebe%2bbridgers/punisher)&nbsp;
+[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/e1ce07a8abc04004b041799ecf31862c.jpg' width='16%' alt='Chick Corea & Gary Burton - Crystal Silence'>](https://www.last.fm/music/chick%2bcorea%2b%2526%2bgary%2bburton/crystal%2bsilence)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/6b6416ef35dac0aa31071107f60d94c3.jpg' width='16%' alt='Black Sabbath - Heaven and Hell'>](https://www.last.fm/music/black%2bsabbath/heaven%2band%2bhell)&nbsp;
 [<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/84df1b20843a58fd1d9588f111470ef6.jpg' width='16%' alt='Fountains of Wayne - Sky Full of Holes'>](https://www.last.fm/music/fountains%2bof%2bwayne/sky%2bfull%2bof%2bholes)&nbsp;
-[<img src='https://lastfm-img.freetls.fastly.net/i/u/300x300/a937187046234b3eabd47ec08181490a.jpg' width='16%' alt='M83 - Saturdays = Youth'>](https://www.last.fm/music/m83/saturdays%2b%253d%2byouth)&nbsp;
 <br>
